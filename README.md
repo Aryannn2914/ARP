@@ -1,4 +1,3 @@
-
 # ARP — Board Exam Mock Test Generator/Notes Viewer
 
 **Short description**  
@@ -7,6 +6,7 @@ A modular system to scan, clean and organize previous years' board exam papers a
 ---
 
 ## Quick links (in this repo)
+
 - Frontend: `ARP1/` (Vite + React + TypeScript)
 - Backend: `ARP1/my-project-backend/` (Node.js)
 - Pages: Mock generator, notes viewer, profile, teacher verification, authentication, etc.
@@ -16,28 +16,30 @@ A modular system to scan, clean and organize previous years' board exam papers a
 ## Full Features
 
 ### Frontend
-- **Multi-standard support:** 6th, 10th, 12th with dynamic subject loading  
-- **Mock Test Generator:**  
-  - Choose standard, subject, marks type (2/3/5/all), difficulty level  
-  - Choose total no. of questions  
-  - Automatic structured paper generation UI  
-- **Mock Test Results Page:**  
-  - Displays questions cleanly  
-  - Same structure across all standards  
-- **User Account System:**  
-  - Signup  
-  - Login  
-  - Teacher Verification  
-- **Admin Dashboard:**  
-  - Upload CSVs / JSON dataset  
-  - Manage question banks  
-  - Validate teachers  
-- **Progress & Profile Pages**  
-- **Notes Viewer**  
-- **Reusable UI components** using shadcn-style system  
-- Fully responsive & theme toggling included  
+
+- **Multi-standard support:** 6th, 10th, 12th with dynamic subject loading
+- **Mock Test Generator:**
+  - Choose standard, subject, marks type (2/3/5/all), difficulty level
+  - Choose total no. of questions
+  - Automatic structured paper generation UI
+- **Mock Test Results Page:**
+  - Displays questions cleanly
+  - Same structure across all standards
+- **User Account System:**
+  - Signup
+  - Login
+  - Teacher Verification
+- **Admin Dashboard:**
+  - Upload CSVs / JSON dataset
+  - Manage question banks
+  - Validate teachers
+- **Progress & Profile Pages**
+- **Notes Viewer**
+- **Reusable UI components** using shadcn-style system
+- Fully responsive & theme toggling included
 
 ### Backend
+
 - **Mock Generation API**
 - **Question Bank API**
 - **Subjects API**
@@ -59,6 +61,7 @@ npm run dev
 ```
 
 **Scripts found:**
+
 - `dev` → `vite`
 - `build` → `vite build`
 - `preview` → `vite preview`
@@ -72,6 +75,7 @@ npm run dev
 ```
 
 **Scripts found:**
+
 - `dev` → `nodemon index.js`
 - `start` → `node index.js`
 
@@ -122,6 +126,7 @@ GET /api/subjects?standard=<6|10|12>
 ```
 
 **Response:**
+
 ```json
 [
   { "id": "maths", "name": "Mathematics" },
@@ -138,6 +143,7 @@ GET /api/questions?standard=&subject=&chapter=&marks=&difficulty=
 ```
 
 **Required field structure (strict):**
+
 ```json
 {
   "chapter_no": 1,
@@ -156,6 +162,7 @@ GET /api/mock?standard=10th&subject=maths&total=10&marks=3&difficulty=medium
 ```
 
 **Response:**
+
 ```json
 {
   "paperId": "uuid",
@@ -192,33 +199,38 @@ Content-Type: multipart/form-data
 The system requires strict cleaning of datasets:
 
 ### Required fields (case-sensitive):
+
 - `chapter_no`
 - `marks`
 - `difficulty`
 - `question`
 
 ### Cleanup rules:
+
 ✔ Remove `Q1`, `Q2`, `Q3` prefixes  
 ✔ Convert `\2019` to `'`  
 ✔ Normalize marks (2,3,5) or whatever set you finalize  
 ✔ Ensure at least **100 questions per chapter per marks type** if possible  
-✔ Dataset must be UTF‑8 encoded  
+✔ Dataset must be UTF‑8 encoded
 
 ---
 
 ## Known Issues & Solutions
 
-### ❌ Error: *No questions found in the generated paper*
+### ❌ Error: _No questions found in the generated paper_
+
 Cause: backend returned empty list  
 Fix: add more questions OR loosen filters
 
 ### ❌ Subjects for 12th not showing
+
 Cause: API returning empty array  
 Fix: return at least an empty array, not an error
 
 ### ❌ Wrong marks or chapter numbers appearing
+
 Cause: CSV → JSON conversion script mismatched columns  
-Fix: update ingest script to detect column names properly  
+Fix: update ingest script to detect column names properly
 
 ---
 
@@ -228,7 +240,7 @@ Fix: update ingest script to detect column names properly
 - Serve frontend using Nginx
 - Expose backend via Node server (`node index.js`)
 - Add CORS rules for communication
-- Use environment variables for API URL and DB paths  
+- Use environment variables for API URL and DB paths
 - Host images / notes in `/public` or a CDN
 
 ---
@@ -236,31 +248,28 @@ Fix: update ingest script to detect column names properly
 ## Testing
 
 ### Frontend
+
 - Manual QA using `npm run dev`
-- Add Vitest for unit tests  
-- Add Playwright for end-to-end mock generation tests  
+- Add Vitest for unit tests
+- Add Playwright for end-to-end mock generation tests
 
 ### Backend
-- Test endpoints using Postman  
-- Add Jest tests for `/api/mock`, `/api/subjects`, `/api/questions`  
+
+- Test endpoints using Postman
+- Add Jest tests for `/api/mock`, `/api/subjects`, `/api/questions`
 
 ---
 
 ## Future Enhancements
 
-- OCR to auto-extract questions from PDF  
-- Admin label editing & verification panel  
-- AI-based difficulty estimation  
-- Auto-generation of answer keys  
-- Analytics for students  
-- Performance optimization with caching  
-
-
+- OCR to auto-extract questions from PDF
+- Admin label editing & verification panel
+- AI-based difficulty estimation
+- Auto-generation of answer keys
+- Analytics for students
+- Performance optimization with caching
 
 ## Final Notes
 
 Your project is a fully scalable educational platform.  
 This README is structured for real-world deployment, onboarding, and team collaboration.
-
-
-
