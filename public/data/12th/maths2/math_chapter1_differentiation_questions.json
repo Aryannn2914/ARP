@@ -1,0 +1,3152 @@
+[
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "If y = f(x) = x^3, compute f'(2)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the derivative of y = e^x with respect to x."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the derivative of y = e^x with respect to x."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Give the derivative of f(x) = x^n (n is a constant)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find dy/dx for y = sin x at x = π/3. (Short answer)"
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Give the derivative of f(x) = x^n (n is a constant)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the chain rule for differentiation in one sentence."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 6x^4."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 9x^5."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find dy/dx for y = sin x at x = π/3. (Short answer)"
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Give the derivative of f(x) = x^n (n is a constant)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = 7x^3."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the chain rule for differentiation in one sentence."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = 8x^3."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 1/x. (Short answer)"
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "If y = f(x) = x^3, compute f'(2)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the limit definition of the derivative of a function f(x) at x = a."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 4x^4."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find dy/dx for y = sin x at x = π/3. (Short answer)"
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the limit definition of the derivative of a function f(x) at x = a."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find dy/dx for y = sin x at x = π/3. (Short answer)"
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 9x^2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = 8x^4."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "If y = f(x) = x^3, compute f'(2)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the derivative of tan x with respect to x."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = 8x^3."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 3x^3."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 1x^3."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Give one real-world interpretation of derivative (geometrical meaning)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = 7x^2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Give one real-world interpretation of derivative (geometrical meaning)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 6x^3."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find dy/dx for y = sin x at x = π/3. (Short answer)"
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = ln x. (Short answer)"
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "If y = f(x) = x^3, compute f'(2)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Give one real-world interpretation of derivative (geometrical meaning)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 3x^3."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 9x^2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 9x^2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = 1x^4."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the derivative of tan x with respect to x."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the derivative of y = e^x with respect to x."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 1x^3."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the limit definition of the derivative of a function f(x) at x = a."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 4x^5."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the derivative of y = e^x with respect to x."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the derivative of tan x with respect to x."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the derivative of y = e^x with respect to x."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = 2x^3."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = ln x. (Short answer)"
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = 9x^2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the derivative of tan x with respect to x."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 3x^3."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = 1/x. (Short answer)"
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 2x^2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = 1/x. (Short answer)"
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 9x^3."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the derivative of tan x with respect to x."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find dy/dx for y = sin x at x = π/3. (Short answer)"
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the derivative of tan x with respect to x."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the derivative of tan x with respect to x."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 8x^5."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the derivative of tan x with respect to x."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "If y = f(x) = x^3, compute f'(2)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Give the derivative of f(x) = x^n (n is a constant)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = 1x^4."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 8x^5."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = ln x. (Short answer)"
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find dy/dx for y = sin x at x = π/3. (Short answer)"
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Give one real-world interpretation of derivative (geometrical meaning)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 1/x. (Short answer)"
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 8x^2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Give the derivative of f(x) = x^n (n is a constant)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 1/x. (Short answer)"
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 5x^3."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Give one real-world interpretation of derivative (geometrical meaning)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Give one real-world interpretation of derivative (geometrical meaning)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Give the derivative of f(x) = x^n (n is a constant)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 1/x. (Short answer)"
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "If y = f(x) = x^3, compute f'(2)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 4x^5."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 4x^5."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find dy/dx for y = sin x at x = π/3. (Short answer)"
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 8x^4."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = ln x. (Short answer)"
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "If y = f(x) = x^3, compute f'(2)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = 4x^4."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 3x^4."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the chain rule for differentiation in one sentence."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = 7x^5."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Give one real-world interpretation of derivative (geometrical meaning)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = 2x^5."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Give one real-world interpretation of derivative (geometrical meaning)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 2x^2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the derivative of tan x with respect to x."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = 7x^2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = ln x. (Short answer)"
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 1x^4."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the derivative of y = e^x with respect to x."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the derivative of y = e^x with respect to x."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 4x^5."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "If y = f(x) = x^3, compute f'(2)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the derivative of tan x with respect to x."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the derivative of y = e^x with respect to x."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Give one real-world interpretation of derivative (geometrical meaning)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 8x^3."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the derivative of tan x with respect to x."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = 7x^4."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = 1x^2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find dy/dx for y = sin x at x = π/3. (Short answer)"
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 6x^4."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = 1/x. (Short answer)"
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the chain rule for differentiation in one sentence."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the limit definition of the derivative of a function f(x) at x = a."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Give one real-world interpretation of derivative (geometrical meaning)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 5x^2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find dy/dx for y = sin x at x = π/3. (Short answer)"
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = ln x. (Short answer)"
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = 3x^3."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the limit definition of the derivative of a function f(x) at x = a."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 7x^5."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find dy/dx for y = sin x at x = π/3. (Short answer)"
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Give one real-world interpretation of derivative (geometrical meaning)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Give the derivative of f(x) = x^n (n is a constant)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = 6x^4."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 6x^5."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 9x^3."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find dy/dx for y = sin x at x = π/3. (Short answer)"
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = 3x^4."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = 1x^4."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 2x^2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find dy/dx for y = sin x at x = π/3. (Short answer)"
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Give the derivative of f(x) = x^n (n is a constant)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Give the derivative of f(x) = x^n (n is a constant)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the limit definition of the derivative of a function f(x) at x = a."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = 9x^3."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find dy/dx for y = sin x at x = π/3. (Short answer)"
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 2x^4."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = 1/x. (Short answer)"
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 7x^4."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the chain rule for differentiation in one sentence."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Give the derivative of f(x) = x^n (n is a constant)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the limit definition of the derivative of a function f(x) at x = a."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = ln x. (Short answer)"
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the chain rule for differentiation in one sentence."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = 3x^2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 1x^4."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = 1x^5."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = ln x. (Short answer)"
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the limit definition of the derivative of a function f(x) at x = a."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "If y = sin^{-1}(2x), find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Using logarithmic differentiation, find dy/dx for y = x^x."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Using logarithmic differentiation, find dy/dx for y = x^x."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "If y = tan^{-1}(x^2), find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "For y = e^{x} cos x, find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Differentiate f(x) = (x^2 + 1)^5 and simplify the result."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "If y = sin^{-1}(2x), find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find dy/dx if y = sin(ln x)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = tan^{-1}(x^3)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find first derivative of y = x*sqrt(x^2+1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Differentiate implicitly to find dy/dx for x^2 + y^2 = 25."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Differentiate implicitly to find dy/dx for 3x^2 + 6xy + y^2 = 1."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = tan^{-1}(x^3)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "For y = e^{x} cos x, find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Differentiate implicitly to find dy/dx for 4x^2 + 4xy + y^2 = 1."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Differentiate f(x) = (x^2 + 1)^5 and simplify the result."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find dy/dx if y = sin(ln x)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Differentiate y = (x^3 + 2x) / (x - 1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Using logarithmic differentiation, find dy/dx for y = x^5 (x+1)^2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Differentiate w.r.t x: y = (log x)^3."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find dy/dx for y = sin( e^{x^2} )."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find first derivative of y = x*sqrt(x^2+1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Using logarithmic differentiation, find dy/dx for y = x^5 (x+1)^2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Differentiate w.r.t x: y = (log x)^3."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = tan^{-1}(x^3)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find first derivative of y = x*sqrt(x^2+1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Using logarithmic differentiation, find dy/dx for y = x^4 (x+1)^2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "If y = sin^{-1}(2x), find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "If y = sin^{-1}(2x), find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Using logarithmic differentiation, find dy/dx for y = x^4 (x+1)^2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Differentiate y = (x^3 + 2x) / (x - 1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find dy/dx if y = sin(ln x)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "If y = sin^{-1}(2x), find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "If y = tan^{-1}(x^2), find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Differentiate w.r.t x: y = (log x)^3."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Differentiate: y = tan^{-1}(x^3)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find dy/dx for y = sin( e^{x^2} )."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "For y = e^{x} cos x, find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "If y = tan^{-1}(x^2), find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = x^2 e^{x}."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "If y = sin^{-1}(2x), find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = tan^{-1}(x^3)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "For y = e^{x} cos x, find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Differentiate implicitly to find dy/dx for 7x^2 + 1xy + y^2 = 1."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Differentiate y = (x^3 + 2x) / (x - 1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = tan^{-1}(x^3)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "If y = tan^{-1}(x^2), find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Using logarithmic differentiation, find dy/dx for y = x^x."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find dy/dx if y = sin(ln x)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "For y = e^{x} cos x, find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Differentiate w.r.t x: y = (log x)^3."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = tan^{-1}(x^3)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Differentiate f(x) = (x^2 + 1)^5 and simplify the result."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find first derivative of y = x*sqrt(x^2+1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "For y = e^{x} cos x, find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = x^2 e^{x}."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "If y = tan^{-1}(x^2), find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "If y = sin^{-1}(2x), find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = x^2 e^{x}."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = tan^{-1}(x^3)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "For y = e^{x} cos x, find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find dy/dx if y = sin(ln x)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = tan^{-1}(x^3)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "If y = tan^{-1}(x^2), find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find dy/dx for y = sin( e^{x^2} )."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Using logarithmic differentiation, find dy/dx for y = x^5 (x+1)^2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Differentiate y = (x^3 + 2x) / (x - 1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Differentiate implicitly to find dy/dx for x^2 + y^2 = 25."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "If y = tan^{-1}(x^2), find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find first derivative of y = x*sqrt(x^2+1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find dy/dx for y = sin( e^{x^2} )."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "For y = e^{x} cos x, find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Using logarithmic differentiation, find dy/dx for y = x^6 (x+1)^2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Differentiate f(x) = (x^2 + 1)^5 and simplify the result."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find dy/dx for y = sin( e^{x^2} )."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find first derivative of y = x*sqrt(x^2+1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find dy/dx for y = sin( e^{x^2} )."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find dy/dx if y = sin(ln x)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find dy/dx if y = sin(ln x)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Differentiate implicitly to find dy/dx for 7x^2 + 2xy + y^2 = 1."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = x^2 e^{x}."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = tan^{-1}(x^3)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "For y = e^{x} cos x, find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Differentiate implicitly to find dy/dx for x^2 + y^2 = 25."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Differentiate implicitly to find dy/dx for 4x^2 + 1xy + y^2 = 1."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "For y = e^{x} cos x, find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "For y = e^{x} cos x, find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Differentiate y = (x^3 + 2x) / (x - 1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Differentiate implicitly to find dy/dx for 2x^2 + 5xy + y^2 = 1."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find dy/dx if y = sin(ln x)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find dy/dx if y = sin(ln x)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find dy/dx if y = sin(ln x)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find dy/dx if y = sin(ln x)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Differentiate f(x) = (x^2 + 1)^5 and simplify the result."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "If y = tan^{-1}(x^2), find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "For y = e^{x} cos x, find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "For y = e^{x} cos x, find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Differentiate f(x) = (x^2 + 1)^5 and simplify the result."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Differentiate y = (x^3 + 2x) / (x - 1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Using logarithmic differentiation, find dy/dx for y = x^x."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find dy/dx if y = sin(ln x)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "If y = tan^{-1}(x^2), find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Differentiate: y = x^2 e^{x}."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Differentiate y = (x^3 + 2x) / (x - 1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Differentiate f(x) = (x^2 + 1)^5 and simplify the result."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Using logarithmic differentiation, find dy/dx for y = x^2 (x+1)^2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Using logarithmic differentiation, find dy/dx for y = x^4 (x+1)^2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Differentiate: y = tan^{-1}(x^3)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find dy/dx if y = sin(ln x)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "If y = sin^{-1}(2x), find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = tan^{-1}(x^3)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Using logarithmic differentiation, find dy/dx for y = x^5 (x+1)^2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Differentiate: y = x^2 e^{x}."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Differentiate y = (x^3 + 2x) / (x - 1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Differentiate f(x) = (x^2 + 1)^5 and simplify the result."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Differentiate implicitly to find dy/dx for x^2 + y^2 = 25."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Using logarithmic differentiation, find dy/dx for y = x^x."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Differentiate y = (x^3 + 2x) / (x - 1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Differentiate implicitly to find dy/dx for x^2 + y^2 = 25."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Differentiate implicitly to find dy/dx for x^2 + y^2 = 25."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find first derivative of y = x*sqrt(x^2+1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Differentiate: y = x^2 e^{x}."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find dy/dx for y = sin( e^{x^2} )."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = tan^{-1}(x^3)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "For y = e^{x} cos x, find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Differentiate implicitly to find dy/dx for 6x^2 + 6xy + y^2 = 1."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find dy/dx for y = sin( e^{x^2} )."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find dy/dx for y = sin( e^{x^2} )."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find first derivative of y = x*sqrt(x^2+1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find dy/dx if y = sin(ln x)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Differentiate f(x) = (x^2 + 1)^5 and simplify the result."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Using logarithmic differentiation, find dy/dx for y = x^x."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find dy/dx if y = sin(ln x)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "For y = e^{x} cos x, find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "For y = e^{x} cos x, find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find dy/dx if y = sin(ln x)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Using logarithmic differentiation, find dy/dx for y = x^x."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Differentiate y = (x^3 + 2x) / (x - 1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Using logarithmic differentiation, find dy/dx for y = x^x."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Differentiate y = (x^3 + 2x) / (x - 1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Differentiate y = (x^3 + 2x) / (x - 1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Differentiate f(x) = (x^2 + 1)^5 and simplify the result."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Differentiate: y = tan^{-1}(x^3)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Differentiate implicitly to find dy/dx for 7x^2 + 3xy + y^2 = 1."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "If y = sin^{-1}(2x), find dy/dx."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find first derivative of y = x*sqrt(x^2+1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Differentiate y = (x^3 + 2x) / (x - 1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find dy/dx if y = sin(ln x)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find dy/dx if y = sin(ln x)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Differentiate w.r.t x: y = (log x)^3."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using implicit differentiation, find d^2y/dx^2 for the curve x^2 + xy + y^2 = 7 at the point where x=1 and y=2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using implicit differentiation, find d^2y/dx^2 for x^3 + xy + y^3 = 6 at the point (1,1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A curve is defined parametrically by x = t^2 + 2t, y = t^3 - t. Find dy/dx and d^2y/dx^2 in terms of t."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using logarithmic differentiation, derive dy/dx for y = (sin x)^{\\sin x} and evaluate at x = π/2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the N-th derivative formula for f(x)=e^{ax} (i.e., show d^{n}/dx^{n} e^{ax} = a^{n} e^{ax}) and give a short justification."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using implicit differentiation, find d^2y/dx^2 for x^3 + xy + y^3 = 6 at the point (1,1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using implicit differentiation, find d^2y/dx^2 for x^3 + xy + y^3 = 6 at the point (1,1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Solve: Differentiate y = ln( (x^2+1)^{3} * sqrt(x) ) and simplify fully."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using logarithmic differentiation, find dy/dx for y = (x^2 + 1)^{x} and simplify the result."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove (by definition) that the derivative of f(x) = x^2 at any x is 2x. Show your working."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using logarithmic differentiation, derive dy/dx for y = (sin x)^{\\sin x} and evaluate at x = π/2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using logarithmic differentiation, derive dy/dx for y = (sin x)^{\\sin x} and evaluate at x = π/2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using Taylor/linear approximation, find an approximate value of sqrt(4.05) using derivatives at x=4. Show steps."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Use linear approximation to estimate (1.02)^{3/2} and show all steps using derivatives."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove by induction that d^{n}/dx^{n} (e^{ax}) = a^{n} e^{ax} for n ≥ 1."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "A curve is defined parametrically by x = t^2 + 2t, y = t^3 - t. Find dy/dx and d^2y/dx^2 in terms of t."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the N-th derivative formula for f(x)=e^{ax} (i.e., show d^{n}/dx^{n} e^{ax} = a^{n} e^{ax}) and give a short justification."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A curve is defined parametrically by x = t^2 + 2t, y = t^3 - t. Find dy/dx and d^2y/dx^2 in terms of t."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Use linear approximation to estimate (1.02)^{3/2} and show all steps using derivatives."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "A function f(x) satisfies f(x) = e^{x} * g(x) where g'(x) = sin x and g(0)=2. If f'(0)=3, find g(0) and check consistency (show steps)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "A curve is defined parametrically by x = t^2 + 1, y = t^3 - t. Find dy/dx and d^2y/dx^2 at t = 1."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A curve is defined parametrically by x = t^2 + 2t, y = t^3 - t. Find dy/dx and d^2y/dx^2 in terms of t."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "A function f(x) satisfies f(x) = e^{x} * g(x) where g'(x) = sin x and g(0)=2. If f'(0)=3, find g(0) and check consistency (show steps)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Solve: Differentiate y = ln( (x^2+1)^{3} * sqrt(x) ) and simplify fully."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using Taylor/linear approximation, find an approximate value of sqrt(4.05) using derivatives at x=4. Show steps."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using implicit differentiation, find d^2y/dx^2 for the curve x^2 + xy + y^2 = 7 at the point where x=1 and y=2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the N-th derivative formula for f(x)=e^{ax} (i.e., show d^{n}/dx^{n} e^{ax} = a^{n} e^{ax}) and give a short justification."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "A curve is defined parametrically by x = t^2 + 2t, y = t^3 - t. Find dy/dx and d^2y/dx^2 in terms of t."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Use linear approximation to estimate (1.02)^{3/2} and show all steps using derivatives."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove by induction that d^{n}/dx^{n} (e^{ax}) = a^{n} e^{ax} for n ≥ 1."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove by induction that d^{n}/dx^{n} (e^{ax}) = a^{n} e^{ax} for n ≥ 1."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Solve: Differentiate y = ln( (x^2+1)^{3} * sqrt(x) ) and simplify fully."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove by induction that d^{n}/dx^{n} (e^{ax}) = a^{n} e^{ax} for n ≥ 1."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using implicit differentiation, find d^2y/dx^2 for the curve x^2 + xy + y^2 = 7 at the point where x=1 and y=2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "A curve is defined parametrically by x = t^2 + 1, y = t^3 - t. Find dy/dx and d^2y/dx^2 at t = 1."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Show that if y = f(g(x)) and both f and g are differentiable, then dy/dx = f'(g(x))g'(x). Provide a short proof using limits."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the N-th derivative formula for f(x)=e^{ax} (i.e., show d^{n}/dx^{n} e^{ax} = a^{n} e^{ax}) and give a short justification."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using implicit differentiation, find d^2y/dx^2 for x^3 + xy + y^3 = 6 at the point (1,1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using implicit differentiation, find d^2y/dx^2 for x^3 + xy + y^3 = 6 at the point (1,1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove by induction that d^{n}/dx^{n} (e^{ax}) = a^{n} e^{ax} for n ≥ 1."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A curve is defined parametrically by x = t^2 + 2t, y = t^3 - t. Find dy/dx and d^2y/dx^2 in terms of t."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Solve: Differentiate y = ln( (x^2+1)^{3} * sqrt(x) ) and simplify fully."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using logarithmic differentiation, find dy/dx for y = (x^2 + 1)^{x} and simplify the result."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the equation of the tangent to y = x^3 - 6x^2 + 9x at x=2 and determine whether it is horizontal or vertical."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the N-th derivative formula for f(x)=e^{ax} (i.e., show d^{n}/dx^{n} e^{ax} = a^{n} e^{ax}) and give a short justification."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using implicit differentiation, find d^2y/dx^2 for the curve x^2 + xy + y^2 = 7 at the point where x=1 and y=2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A curve is defined parametrically by x = t^2 + 1, y = t^3 - t. Find dy/dx and d^2y/dx^2 at t = 1."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the equation of the tangent to y = x^3 - 6x^2 + 9x at x=2 and determine whether it is horizontal or vertical."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using implicit differentiation, find d^2y/dx^2 for x^3 + xy + y^3 = 6 at the point (1,1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using logarithmic differentiation, derive dy/dx for y = (sin x)^{\\sin x} and evaluate at x = π/2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using logarithmic differentiation, find dy/dx for y = (x^2 + 1)^{x} and simplify the result."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Use linear approximation to estimate (1.02)^{3/2} and show all steps using derivatives."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove (by definition) that the derivative of f(x) = x^2 at any x is 2x. Show your working."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using Taylor/linear approximation, find an approximate value of sqrt(4.05) using derivatives at x=4. Show steps."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A function f(x) satisfies f(x) = e^{x} * g(x) where g'(x) = sin x and g(0)=2. If f'(0)=3, find g(0) and check consistency (show steps)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Solve: Differentiate y = ln( (x^2+1)^{3} * sqrt(x) ) and simplify fully."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using implicit differentiation, find d^2y/dx^2 for x^3 + xy + y^3 = 6 at the point (1,1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using logarithmic differentiation, find dy/dx for y = (x^2 + 1)^{x} and simplify the result."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using logarithmic differentiation, derive dy/dx for y = (sin x)^{\\sin x} and evaluate at x = π/2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove by induction that d^{n}/dx^{n} (e^{ax}) = a^{n} e^{ax} for n ≥ 1."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using logarithmic differentiation, find dy/dx for y = (x^2 + 1)^{x} and simplify the result."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using implicit differentiation, find d^2y/dx^2 for x^3 + xy + y^3 = 6 at the point (1,1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Show that if y = f(g(x)) and both f and g are differentiable, then dy/dx = f'(g(x))g'(x). Provide a short proof using limits."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using implicit differentiation, find d^2y/dx^2 for x^3 + xy + y^3 = 6 at the point (1,1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "A curve is defined parametrically by x = t^2 + 2t, y = t^3 - t. Find dy/dx and d^2y/dx^2 in terms of t."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using implicit differentiation, find d^2y/dx^2 for x^3 + xy + y^3 = 6 at the point (1,1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove by induction that d^{n}/dx^{n} (e^{ax}) = a^{n} e^{ax} for n ≥ 1."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using logarithmic differentiation, find dy/dx for y = (x^2 + 1)^{x} and simplify the result."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove by induction that d^{n}/dx^{n} (e^{ax}) = a^{n} e^{ax} for n ≥ 1."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "A curve is defined parametrically by x = t^2 + 2t, y = t^3 - t. Find dy/dx and d^2y/dx^2 in terms of t."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A curve is defined parametrically by x = t^2 + 2t, y = t^3 - t. Find dy/dx and d^2y/dx^2 in terms of t."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Use linear approximation to estimate (1.02)^{3/2} and show all steps using derivatives."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove (by definition) that the derivative of f(x) = x^2 at any x is 2x. Show your working."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using implicit differentiation, find d^2y/dx^2 for the curve x^2 + xy + y^2 = 7 at the point where x=1 and y=2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the equation of the tangent to y = x^3 - 6x^2 + 9x at x=2 and determine whether it is horizontal or vertical."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Use linear approximation to estimate (1.02)^{3/2} and show all steps using derivatives."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "A function f(x) satisfies f(x) = e^{x} * g(x) where g'(x) = sin x and g(0)=2. If f'(0)=3, find g(0) and check consistency (show steps)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using implicit differentiation, find d^2y/dx^2 for x^3 + xy + y^3 = 6 at the point (1,1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove by induction that d^{n}/dx^{n} (e^{ax}) = a^{n} e^{ax} for n ≥ 1."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove by induction that d^{n}/dx^{n} (e^{ax}) = a^{n} e^{ax} for n ≥ 1."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using Taylor/linear approximation, find an approximate value of sqrt(4.05) using derivatives at x=4. Show steps."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using implicit differentiation, find d^2y/dx^2 for x^3 + xy + y^3 = 6 at the point (1,1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the equation of the tangent to y = x^3 - 6x^2 + 9x at x=2 and determine whether it is horizontal or vertical."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using logarithmic differentiation, find dy/dx for y = (x^2 + 1)^{x} and simplify the result."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using Taylor/linear approximation, find an approximate value of sqrt(4.05) using derivatives at x=4. Show steps."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Use linear approximation to estimate (1.02)^{3/2} and show all steps using derivatives."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using logarithmic differentiation, find dy/dx for y = (x^2 + 1)^{x} and simplify the result."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Use linear approximation to estimate (1.02)^{3/2} and show all steps using derivatives."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the N-th derivative formula for f(x)=e^{ax} (i.e., show d^{n}/dx^{n} e^{ax} = a^{n} e^{ax}) and give a short justification."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A curve is defined parametrically by x = t^2 + 2t, y = t^3 - t. Find dy/dx and d^2y/dx^2 in terms of t."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using logarithmic differentiation, find dy/dx for y = (x^2 + 1)^{x} and simplify the result."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the equation of the tangent to y = x^3 - 6x^2 + 9x at x=2 and determine whether it is horizontal or vertical."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using logarithmic differentiation, derive dy/dx for y = (sin x)^{\\sin x} and evaluate at x = π/2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the equation of the tangent to y = x^3 - 6x^2 + 9x at x=2 and determine whether it is horizontal or vertical."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "A curve is defined parametrically by x = t^2 + 1, y = t^3 - t. Find dy/dx and d^2y/dx^2 at t = 1."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove by induction that d^{n}/dx^{n} (e^{ax}) = a^{n} e^{ax} for n ≥ 1."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using logarithmic differentiation, find dy/dx for y = (x^2 + 1)^{x} and simplify the result."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "A curve is defined parametrically by x = t^2 + 2t, y = t^3 - t. Find dy/dx and d^2y/dx^2 in terms of t."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Show that if y = f(g(x)) and both f and g are differentiable, then dy/dx = f'(g(x))g'(x). Provide a short proof using limits."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using Taylor/linear approximation, find an approximate value of sqrt(4.05) using derivatives at x=4. Show steps."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the equation of the tangent and normal to the curve y = x^3 - 3x + 1 at the point where x=2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove by induction that d^{n}/dx^{n} (e^{ax}) = a^{n} e^{ax} for n ≥ 1."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using implicit differentiation, find d^2y/dx^2 for x^3 + xy + y^3 = 6 at the point (1,1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the equation of the tangent to y = x^3 - 6x^2 + 9x at x=2 and determine whether it is horizontal or vertical."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Solve: Differentiate y = ln( (x^2+1)^{3} * sqrt(x) ) and simplify fully."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using logarithmic differentiation, find dy/dx for y = (x^2 + 1)^{x} and simplify the result."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using logarithmic differentiation, find dy/dx for y = (x^2 + 1)^{x} and simplify the result."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "A curve is defined parametrically by x = t^2 + 2t, y = t^3 - t. Find dy/dx and d^2y/dx^2 in terms of t."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A curve is defined parametrically by x = t^2 + 1, y = t^3 - t. Find dy/dx and d^2y/dx^2 at t = 1."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using implicit differentiation, find d^2y/dx^2 for x^3 + xy + y^3 = 6 at the point (1,1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "A curve is defined parametrically by x = t^2 + 2t, y = t^3 - t. Find dy/dx and d^2y/dx^2 in terms of t."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using logarithmic differentiation, find dy/dx for y = (x^2 + 1)^{x} and simplify the result."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using logarithmic differentiation, find dy/dx for y = (x^2 + 1)^{x} and simplify the result."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the N-th derivative formula for f(x)=e^{ax} (i.e., show d^{n}/dx^{n} e^{ax} = a^{n} e^{ax}) and give a short justification."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A function f(x) satisfies f(x) = e^{x} * g(x) where g'(x) = sin x and g(0)=2. If f'(0)=3, find g(0) and check consistency (show steps)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using logarithmic differentiation, find dy/dx for y = (x^2 + 1)^{x} and simplify the result."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Use linear approximation to estimate (1.02)^{3/2} and show all steps using derivatives."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Solve: Differentiate y = ln( (x^2+1)^{3} * sqrt(x) ) and simplify fully."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using implicit differentiation, find d^2y/dx^2 for the curve x^2 + xy + y^2 = 7 at the point where x=1 and y=2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A curve is defined parametrically by x = t^2 + 2t, y = t^3 - t. Find dy/dx and d^2y/dx^2 in terms of t."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using logarithmic differentiation, find dy/dx for y = (x^2 + 1)^{x} and simplify the result."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using implicit differentiation, find d^2y/dx^2 for the curve x^2 + xy + y^2 = 7 at the point where x=1 and y=2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using implicit differentiation, find d^2y/dx^2 for x^3 + xy + y^3 = 6 at the point (1,1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A curve is defined parametrically by x = t^2 + 2t, y = t^3 - t. Find dy/dx and d^2y/dx^2 in terms of t."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Use linear approximation to estimate (1.02)^{3/2} and show all steps using derivatives."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A curve is defined parametrically by x = t^2 + 2t, y = t^3 - t. Find dy/dx and d^2y/dx^2 in terms of t."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "A curve is defined parametrically by x = t^2 + 1, y = t^3 - t. Find dy/dx and d^2y/dx^2 at t = 1."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using logarithmic differentiation, find dy/dx for y = (x^2 + 1)^{x} and simplify the result."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using logarithmic differentiation, find dy/dx for y = (x^2 + 1)^{x} and simplify the result."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using logarithmic differentiation, find dy/dx for y = (x^2 + 1)^{x} and simplify the result."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using logarithmic differentiation, derive dy/dx for y = (sin x)^{\\sin x} and evaluate at x = π/2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using logarithmic differentiation, find dy/dx for y = (x^2 + 1)^{x} and simplify the result."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Use linear approximation to estimate (1.02)^{3/2} and show all steps using derivatives."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the N-th derivative formula for f(x)=e^{ax} (i.e., show d^{n}/dx^{n} e^{ax} = a^{n} e^{ax}) and give a short justification."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using implicit differentiation, find d^2y/dx^2 for x^3 + xy + y^3 = 6 at the point (1,1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A function f(x) satisfies f(x) = e^{x} * g(x) where g'(x) = sin x and g(0)=2. If f'(0)=3, find g(0) and check consistency (show steps)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove (by definition) that the derivative of f(x) = x^2 at any x is 2x. Show your working."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Solve: Differentiate y = ln( (x^2+1)^{3} * sqrt(x) ) and simplify fully."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the equation of the tangent to y = x^3 - 6x^2 + 9x at x=2 and determine whether it is horizontal or vertical."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Solve: Differentiate y = ln( (x^2+1)^{3} * sqrt(x) ) and simplify fully."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using Taylor/linear approximation, find an approximate value of sqrt(4.05) using derivatives at x=4. Show steps."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A curve is defined parametrically by x = t^2 + 2t, y = t^3 - t. Find dy/dx and d^2y/dx^2 in terms of t."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the equation of the tangent to y = x^3 - 6x^2 + 9x at x=2 and determine whether it is horizontal or vertical."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using logarithmic differentiation, derive dy/dx for y = (sin x)^{\\sin x} and evaluate at x = π/2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Use linear approximation to estimate (1.02)^{3/2} and show all steps using derivatives."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "A curve is defined parametrically by x = t^2 + 1, y = t^3 - t. Find dy/dx and d^2y/dx^2 at t = 1."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove by induction that d^{n}/dx^{n} (e^{ax}) = a^{n} e^{ax} for n ≥ 1."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using implicit differentiation, find d^2y/dx^2 for the curve x^2 + xy + y^2 = 7 at the point where x=1 and y=2."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using implicit differentiation, find d^2y/dx^2 for x^3 + xy + y^3 = 6 at the point (1,1)."
+  },
+  {
+    "chapter_no": 1,
+    "chapter_title": "Differentiation",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove (by definition) that the derivative of f(x) = x^2 at any x is 2x. Show your working."
+  }
+]

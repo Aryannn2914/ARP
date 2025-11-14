@@ -1,0 +1,3152 @@
+[
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ x dx (short answer)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find y if dy/dx = e^x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫ 1/(x+1) dx (short answer)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the integration formula for x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find y if dy/dx = e^x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫ 1/(x+1) dx."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Simplify and integrate sec^2 x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find the integral of sin x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫ 1/x dx."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the standard result for ∫ sin x dx."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the standard result for ∫ x^2 dx."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ cos x dx (short answer)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find the integral of sin x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Integrate 1/(x+1) and verify by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the integration formula for x^2."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the integral of cos x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫ x dx (short answer)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Integrate x^2 with respect to x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫ sec^2 x dx (short answer)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the standard result for ∫ 1/x dx."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find y if dy/dx = sin x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫ sqrt(x) dx (short answer)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Simplify and integrate e^x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the integration formula for sin x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Simplify and integrate e^x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find ∫ e^x dx."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the standard result for ∫ sec^2 x dx."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find y if dy/dx = sqrt(x)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the standard result for ∫ e^x dx."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the integration formula for tan x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find ∫ e^x dx and add the constant of integration."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Simplify and integrate sin x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the integration formula for sqrt(x)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find y if dy/dx = 1/x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ x dx (short answer)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find ∫ 1/x dx and add the constant of integration."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the integration formula for sqrt(x)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the integration formula for sqrt(x)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Simplify and integrate sin x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫ x^2 dx."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Simplify and integrate sin x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the standard result for ∫ x^2 dx."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫ tan x dx and add the constant of integration."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Integrate 1/(x+1) with respect to x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Simplify and integrate x^2."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Integrate 1/(x+1) with respect to x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find ∫ cos x dx and add the constant of integration."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Simplify and integrate 1/(x+1)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the integral of cos x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ cos x dx (short answer)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Integrate e^x with respect to x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the integral of x^2."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Integrate x^2 and verify by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Simplify and integrate 1/x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Integrate 1/(x+1) and verify by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Simplify and integrate sqrt(x)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find y if dy/dx = 1/(x+1)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find y if dy/dx = sin x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the standard result for ∫ tan x dx."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Integrate x^2 and verify by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫ cos x dx (short answer)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Simplify and integrate e^x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find ∫ x^2 dx."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫ e^x dx."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫ cos x dx."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find y if dy/dx = sin x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find y if dy/dx = 1/(x+1)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the integral of sqrt(x)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Integrate sec^2 x and verify by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫ sec^2 x dx (short answer)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the integration formula for tan x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫ x^2 dx."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the standard result for ∫ x^2 dx."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find y if dy/dx = 1/(x+1)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the integration formula for 1/x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find y if dy/dx = x^2."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Simplify and integrate x^2."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Simplify and integrate x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find y if dy/dx = 1/x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Integrate e^x and verify by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫ 1/x dx."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the integration formula for sin x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Integrate sin x and verify by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Simplify and integrate tan x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Integrate e^x with respect to x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the integral of 1/(x+1)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the standard result for ∫ x dx."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Integrate 1/(x+1) and verify by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Simplify and integrate 1/x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Simplify and integrate x^2."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫ sqrt(x) dx (short answer)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find y if dy/dx = sec^2 x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the integral of e^x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫ sqrt(x) dx."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the integral of sqrt(x)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Integrate e^x with respect to x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the standard result for ∫ e^x dx."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫ sin x dx and add the constant of integration."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫ x dx (short answer)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the integral of x^2."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find y if dy/dx = 1/(x+1)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the standard result for ∫ x^2 dx."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the standard result for ∫ sin x dx."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Simplify and integrate sin x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Simplify and integrate x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Simplify and integrate sin x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫ 1/x dx (short answer)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫ 1/(x+1) dx (short answer)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Integrate sqrt(x) with respect to x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the standard result for ∫ e^x dx."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Integrate 1/(x+1) with respect to x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫ x^2 dx."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Integrate x with respect to x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫ sin x dx and add the constant of integration."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Integrate 1/(x+1) and verify by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Simplify and integrate x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫ 1/(x+1) dx and add the constant of integration."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the standard result for ∫ sqrt(x) dx."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the integration formula for 1/x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the standard result for ∫ x dx."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find y if dy/dx = e^x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the standard result for ∫ 1/(x+1) dx."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the integration formula for sqrt(x)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find y if dy/dx = 1/x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫ sec^2 x dx and add the constant of integration."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the standard result for ∫ sec^2 x dx."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find y if dy/dx = sin x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ sec^2 x dx (short answer)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Integrate e^x and verify by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Integrate cos x and verify by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find y if dy/dx = e^x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find y if dy/dx = sec^2 x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫ sin x dx (short answer)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Simplify and integrate sec^2 x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Simplify and integrate cos x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫ sin x dx (short answer)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Integrate x with respect to x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the integration formula for cos x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the standard result for ∫ sec^2 x dx."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Simplify and integrate x^2."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the integral of e^x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the integration formula for x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Simplify and integrate e^x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫ cos x dx (short answer)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫ sin x dx (short answer)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the integration formula for cos x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Integrate 1/(x+1) with respect to x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the integration formula for sec^2 x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫ sqrt(x) dx and add the constant of integration."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the integration formula for 1/(x+1)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Integrate x^2/(x+1) using standard formulae."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate cos(3x) completely."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ ln x dx using appropriate substitution."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫ sin(2x) dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Integrate x cos x by separating into partial fractions."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Integrate x/(x^2+4) completely."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫ x^2/(x+1) dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫ x e^x dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫ ln x dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ ln x dx by parts."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate (2x)/(x^2+1) completely."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Integrate ln x with respect to x and simplify the result."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Integrate x sin x by separating into partial fractions."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫ e^(2x) dx by parts."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the antiderivative of ln x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫ x cos x dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫ sin(2x) dx using appropriate substitution."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Integrate x/(x^2+4) completely."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ cos(3x) dx using appropriate substitution."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the antiderivative of e^(2x)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find the antiderivative of ln x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫ ln x dx using appropriate substitution."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫ x^2/(x+1) dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the antiderivative of ln x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Integrate ln x using standard formulae."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Integrate (2x)/(x^2+1) using standard formulae."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫ sin(2x) dx and verify by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Integrate (2x)/(x^2+1) by separating into partial fractions."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Integrate (2x)/(x^2+1) by separating into partial fractions."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate x/(x^2+4) with respect to x and simplify the result."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Integrate x sin x with respect to x and simplify the result."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Integrate e^(2x) with respect to x and simplify the result."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Integrate x sin x completely."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate e^(2x) completely."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫ x^2/(x+1) dx and verify by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate sin(2x) with respect to x and simplify the result."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find the antiderivative of cos(3x)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫ (2x)/(x^2+1) dx using appropriate substitution."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫ x sin x dx using appropriate substitution."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate x e^x with respect to x and simplify the result."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate cos(3x) by separating into partial fractions."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate cos(3x) with respect to x and simplify the result."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫ x cos x dx using substitution method."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Integrate ln x by separating into partial fractions."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Integrate e^(2x) using standard formulae."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫ x/(x^2+4) dx using appropriate substitution."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate x^2/(x+1) with respect to x and simplify the result."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate x^2/(x+1) with respect to x and simplify the result."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ x sin x dx using appropriate substitution."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫ x/(x^2+4) dx using substitution method."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ x sin x dx by parts."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫ (2x)/(x^2+1) dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Integrate x e^x completely."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ x cos x dx using appropriate substitution."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫ ln x dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫ x e^x dx and verify by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫ x e^x dx by parts."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫ cos(3x) dx by parts."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate cos(3x) using standard formulae."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Integrate e^(2x) with respect to x and simplify the result."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫ x cos x dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫ x cos x dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate cos(3x) using standard formulae."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Integrate x sin x completely."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Integrate x/(x^2+4) with respect to x and simplify the result."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫ x sin x dx and verify by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ x cos x dx using appropriate substitution."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫ ln x dx and verify by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate x e^x with respect to x and simplify the result."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate cos(3x) using standard formulae."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the antiderivative of ln x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Integrate x^2/(x+1) completely."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫ x cos x dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ (2x)/(x^2+1) dx using appropriate substitution."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate cos(3x) completely."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫ x sin x dx and verify by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫ x e^x dx and verify by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫ x^2/(x+1) dx and verify by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate x^2/(x+1) completely."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the antiderivative of (2x)/(x^2+1)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate ln x with respect to x and simplify the result."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫ ln x dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ ln x dx using appropriate substitution."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫ x^2/(x+1) dx by parts."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫ x^2/(x+1) dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫ ln x dx and verify by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find ∫ e^(2x) dx and verify by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the antiderivative of x/(x^2+4)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫ x^2/(x+1) dx using appropriate substitution."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫ x cos x dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫ x cos x dx and verify by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Integrate (2x)/(x^2+1) by separating into partial fractions."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ x^2/(x+1) dx using appropriate substitution."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the antiderivative of cos(3x)."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫ (2x)/(x^2+1) dx by parts."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫ x e^x dx and verify by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the antiderivative of x e^x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫ sin(2x) dx using substitution method."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Integrate ln x by separating into partial fractions."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫ cos(3x) dx using substitution method."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫ ln x dx using appropriate substitution."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find ∫ x^2/(x+1) dx using substitution method."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ x cos x dx using appropriate substitution."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Integrate ln x with respect to x and simplify the result."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫ x e^x dx using substitution method."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Integrate x^2/(x+1) completely."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫ x cos x dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate cos(3x) with respect to x and simplify the result."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate (2x)/(x^2+1) completely."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Integrate ln x with respect to x and simplify the result."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Integrate cos(3x) using standard formulae."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate cos(3x) using standard formulae."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Integrate x cos x completely."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫ (2x)/(x^2+1) dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫ x e^x dx by parts."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the antiderivative of x cos x."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate ln x with respect to x and simplify the result."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫ x^2/(x+1) dx using appropriate substitution."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate x^2/(x+1) using standard formulae."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ x cos x dx using appropriate substitution."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate cos(3x) using standard formulae."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫ e^(2x) dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find ∫ x e^x dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Integrate x cos x by separating into partial fractions."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate cos(3x) using standard formulae."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate x^2/(x+1) completely."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ x^2/(x+1) dx using appropriate substitution."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate sin(2x) using standard formulae."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ x cos x dx using appropriate substitution."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate x/(x^2+4) with respect to x and simplify the result."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫ x cos x dx using substitution method."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Integrate cos(3x) completely."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Integrate cos(3x) using standard formulae."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate ln x by separating into partial fractions."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫ x^2/(x+1) dx using appropriate substitution."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate e^(2x) completely."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ x cos x dx using appropriate substitution."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Integrate x/(x^2+4) with respect to x and simplify the result."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫ x e^x dx by parts."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ x^2/(x+1) dx using appropriate substitution."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Integrate sin(2x) with respect to x and simplify the result."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫ x/(x^2+4) dx by parts."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫ e^(2x) dx by parts."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫ sin(2x) dx using substitution method."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫ (2x)/(x^2+1) dx using substitution method."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate ln x completely."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫ (2x)/(x^2+1) dx using substitution method."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate x^2/(x+1) by separating into partial fractions."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫ x cos x dx using appropriate substitution."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Integrate (2x)/(x^2+1) completely."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the formula for ∫ e^(ax) sin(bx) dx and then evaluate it for specific constants."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Integrate x^2 sin x using power-reduction identities and simplify the final answer."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find ∫ cos^4 x dx by parts and verify your result by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate cos^4 x by resolving into partial fractions and show each step clearly."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the formula for ∫ e^(ax) sin(bx) dx and then evaluate it for specific constants."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate cos^4 x using power-reduction identities and simplify the final answer."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate cos^4 x using trigonometric identities and simplify fully."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate x ln x using power-reduction identities and simplify the final answer."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find ∫ x^2 cos x dx where substitution x = sin θ is helpful."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the formula for ∫ e^(ax) sin(bx) dx and then evaluate it for specific constants."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find ∫ (3x+2)/(x^2+1) dx where substitution x = sin θ is helpful."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the formula for ∫ e^(ax) sin(bx) dx and then evaluate it for specific constants."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate cos^4 x completely and justify each step."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ tan^2 x dx using integration by parts where one term is logarithmic."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find ∫ tan^2 x dx and show that differentiation of your result gives the original function."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate cos^4 x using power-reduction identities and simplify the final answer."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate x ln x using trigonometric identities and simplify fully."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Integrate sin^3 x using trigonometric identities and simplify fully."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ sin^3 x dx using integration by parts where one term is logarithmic."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate cos^4 x by resolving into partial fractions and show each step clearly."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate tan^2 x by resolving into partial fractions and show each step clearly."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find ∫ x^2 sin x dx and show that differentiation of your result gives the original function."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫ x^2 sin x dx using integration by parts where one term is logarithmic."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫ x^2 e^x dx using integration by parts where one term is logarithmic."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Integrate x^2 cos x using power-reduction identities and simplify the final answer."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the formula for ∫ e^(ax) sin(bx) dx and then evaluate it for specific constants."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate x^2 sin x using power-reduction identities and simplify the final answer."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find ∫ sin^3 x dx where substitution x = sin θ is helpful."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ tan^2 x dx using integration by parts where one term is logarithmic."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find ∫ x ln x dx by parts and verify your result by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the formula for ∫ e^(ax) sin(bx) dx and then evaluate it for specific constants."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate x^2 sin x using power-reduction identities and simplify the final answer."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find ∫ cos^4 x dx by parts and verify your result by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the formula for ∫ e^(ax) sin(bx) dx and then evaluate it for specific constants."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ (3x+2)/(x^2+1) dx using substitution and simplify the result completely."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Integrate x^2 cos x using power-reduction identities and simplify the final answer."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate 1/(x^2-4) using power-reduction identities and simplify the final answer."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Integrate x^2 cos x by resolving into partial fractions and show each step clearly."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate sin^3 x completely and justify each step."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate cos^4 x using trigonometric identities and simplify fully."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Integrate x ln x by resolving into partial fractions and show each step clearly."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the formula for ∫ e^(ax) sin(bx) dx and then evaluate it for specific constants."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫ cos^4 x dx using substitution and simplify the result completely."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find ∫ x^2 cos x dx where substitution x = sin θ is helpful."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find ∫ 1/(x^2-4) dx and show that differentiation of your result gives the original function."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Integrate (3x+2)/(x^2+1) using power-reduction identities and simplify the final answer."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the formula for ∫ e^(ax) sin(bx) dx and then evaluate it for specific constants."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ x^2 sin x dx using integration by parts where one term is logarithmic."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate e^x (sin x + cos x) completely and justify each step."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the formula for ∫ e^(ax) sin(bx) dx and then evaluate it for specific constants."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Integrate (3x+2)/(x^2+1) using power-reduction identities and simplify the final answer."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫ 1/(x^2-4) dx using substitution and simplify the result completely."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the formula for ∫ e^(ax) sin(bx) dx and then evaluate it for specific constants."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find ∫ x ln x dx and show that differentiation of your result gives the original function."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate (3x+2)/(x^2+1) completely and justify each step."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate x^2 sin x by resolving into partial fractions and show each step clearly."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫ (3x+2)/(x^2+1) dx using substitution and simplify the result completely."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ 1/(x^2-4) dx using substitution and simplify the result completely."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate x^2 sin x by resolving into partial fractions and show each step clearly."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find ∫ sin^3 x dx and show that differentiation of your result gives the original function."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate tan^2 x by resolving into partial fractions and show each step clearly."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find ∫ tan^2 x dx and show that differentiation of your result gives the original function."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the formula for ∫ e^(ax) sin(bx) dx and then evaluate it for specific constants."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫ (3x+2)/(x^2+1) dx using integration by parts where one term is logarithmic."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find ∫ x^2 sin x dx and show that differentiation of your result gives the original function."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find ∫ x^2 cos x dx by parts and verify your result by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate sin^3 x using trigonometric identities and simplify fully."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find ∫ e^x (sin x + cos x) dx where substitution x = sin θ is helpful."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Integrate x^2 e^x using power-reduction identities and simplify the final answer."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find ∫ cos^4 x dx by parts and verify your result by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the formula for ∫ e^(ax) sin(bx) dx and then evaluate it for specific constants."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find ∫ x^2 sin x dx and show that differentiation of your result gives the original function."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫ x^2 e^x dx using integration by parts where one term is logarithmic."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find ∫ e^x (sin x + cos x) dx where substitution x = sin θ is helpful."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate x^2 sin x using trigonometric identities and simplify fully."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫ (3x+2)/(x^2+1) dx using integration by parts where one term is logarithmic."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find ∫ x^2 cos x dx by parts and verify your result by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫ (3x+2)/(x^2+1) dx using substitution and simplify the result completely."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find ∫ x^2 sin x dx by parts and verify your result by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find ∫ x^2 cos x dx where substitution x = sin θ is helpful."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find ∫ tan^2 x dx and show that differentiation of your result gives the original function."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate sin^3 x by resolving into partial fractions and show each step clearly."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ 1/(x^2-4) dx using integration by parts where one term is logarithmic."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the formula for ∫ e^(ax) sin(bx) dx and then evaluate it for specific constants."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Integrate cos^4 x using trigonometric identities and simplify fully."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Integrate e^x (sin x + cos x) using trigonometric identities and simplify fully."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find ∫ tan^2 x dx and show that differentiation of your result gives the original function."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find ∫ x^2 e^x dx and show that differentiation of your result gives the original function."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate x^2 sin x using trigonometric identities and simplify fully."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫ x^2 sin x dx using integration by parts where one term is logarithmic."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Integrate x^2 e^x completely and justify each step."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find ∫ x ln x dx and show that differentiation of your result gives the original function."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Integrate x ln x completely and justify each step."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find ∫ x ln x dx where substitution x = sin θ is helpful."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate e^x (sin x + cos x) using trigonometric identities and simplify fully."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Integrate x^2 e^x completely and justify each step."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate x^2 cos x by resolving into partial fractions and show each step clearly."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate x^2 sin x by resolving into partial fractions and show each step clearly."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ x^2 cos x dx using substitution and simplify the result completely."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Integrate 1/(x^2-4) using trigonometric identities and simplify fully."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Integrate (3x+2)/(x^2+1) by resolving into partial fractions and show each step clearly."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Integrate tan^2 x using power-reduction identities and simplify the final answer."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find ∫ cos^4 x dx by parts and verify your result by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find ∫ tan^2 x dx and show that differentiation of your result gives the original function."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ tan^2 x dx using integration by parts where one term is logarithmic."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate x^2 e^x completely and justify each step."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find ∫ (3x+2)/(x^2+1) dx where substitution x = sin θ is helpful."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫ x^2 e^x dx using substitution and simplify the result completely."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate sin^3 x using power-reduction identities and simplify the final answer."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ cos^4 x dx using integration by parts where one term is logarithmic."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find ∫ e^x (sin x + cos x) dx by parts and verify your result by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find ∫ x^2 cos x dx by parts and verify your result by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate tan^2 x completely and justify each step."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate 1/(x^2-4) using power-reduction identities and simplify the final answer."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫ tan^2 x dx using integration by parts where one term is logarithmic."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find ∫ x^2 sin x dx by parts and verify your result by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find ∫ x ln x dx where substitution x = sin θ is helpful."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Integrate sin^3 x using trigonometric identities and simplify fully."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ sin^3 x dx using integration by parts where one term is logarithmic."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find ∫ e^x (sin x + cos x) dx by parts and verify your result by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the formula for ∫ e^(ax) sin(bx) dx and then evaluate it for specific constants."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ x^2 sin x dx using integration by parts where one term is logarithmic."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find ∫ x^2 sin x dx by parts and verify your result by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find ∫ x^2 cos x dx and show that differentiation of your result gives the original function."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate tan^2 x completely and justify each step."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find ∫ sin^3 x dx by parts and verify your result by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate x^2 e^x using power-reduction identities and simplify the final answer."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Integrate (3x+2)/(x^2+1) completely and justify each step."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Integrate tan^2 x completely and justify each step."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫ x ln x dx using integration by parts where one term is logarithmic."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find ∫ tan^2 x dx and show that differentiation of your result gives the original function."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the formula for ∫ e^(ax) sin(bx) dx and then evaluate it for specific constants."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate tan^2 x using power-reduction identities and simplify the final answer."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate 1/(x^2-4) completely and justify each step."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find ∫ x^2 e^x dx where substitution x = sin θ is helpful."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the formula for ∫ e^(ax) sin(bx) dx and then evaluate it for specific constants."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the formula for ∫ e^(ax) sin(bx) dx and then evaluate it for specific constants."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate x^2 cos x by resolving into partial fractions and show each step clearly."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Integrate x^2 sin x using power-reduction identities and simplify the final answer."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫ x^2 sin x dx using substitution and simplify the result completely."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Integrate sin^3 x using trigonometric identities and simplify fully."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find ∫ x^2 cos x dx and show that differentiation of your result gives the original function."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find ∫ 1/(x^2-4) dx and show that differentiation of your result gives the original function."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ x^2 cos x dx using substitution and simplify the result completely."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Integrate x^2 e^x completely and justify each step."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the formula for ∫ e^(ax) sin(bx) dx and then evaluate it for specific constants."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫ 1/(x^2-4) dx using integration by parts where one term is logarithmic."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the formula for ∫ e^(ax) sin(bx) dx and then evaluate it for specific constants."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find ∫ e^x (sin x + cos x) dx by parts and verify your result by differentiation."
+  },
+  {
+    "chapter_no": 3,
+    "chapter_title": "Indefinite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the formula for ∫ e^(ax) sin(bx) dx and then evaluate it for specific constants."
+  }
+]

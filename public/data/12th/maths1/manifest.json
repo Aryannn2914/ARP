@@ -1,0 +1,11 @@
+{
+  "chapters": [
+    "chapter1_questions (1).json",
+    "chapter2_matrices_questions.json",
+    "chapter3_trigonometric_equations_questions.json",
+    "chapter4_pair_of_straight_lines_questions.json",
+    "chapter5_vectors_questions.json",
+    "chapter6_line_and_plane_questions.json",
+    "chapter7_linear_programming_questions.json"
+  ]
+}

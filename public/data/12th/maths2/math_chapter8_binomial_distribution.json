@@ -1,0 +1,3152 @@
+[
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for the probability mass function (p.m.f.) of a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for variance of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the conditions under which Binomial distribution is applicable."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the mode of a Binomial distribution?"
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State two properties of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for the probability mass function (p.m.f.) of a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the mode of a Binomial distribution?"
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the mode of a Binomial distribution?"
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the mode of a Binomial distribution?"
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find P(X = 0) for B(5, 0.2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Define Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the conditions under which Binomial distribution is applicable."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "If n = 10, p = 0.5, find the mean of the distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find the mean of Binomial distribution B(n, p)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "If n = 10, p = 0.5, find the mean of the distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State two properties of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "If n = 10, p = 0.5, find the mean of the distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Define Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the mode of a Binomial distribution?"
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State two properties of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the formula for variance of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find P(X = n) for a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "If n = 10, p = 0.5, find the mean of the distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for the probability mass function (p.m.f.) of a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find the mean of Binomial distribution B(n, p)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the formula for the probability mass function (p.m.f.) of a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for the probability mass function (p.m.f.) of a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find P(X = 0) for B(5, 0.2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "If n = 10, p = 0.5, find the mean of the distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "If n = 10, p = 0.5, find the mean of the distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the formula for variance of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for the probability mass function (p.m.f.) of a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the conditions under which Binomial distribution is applicable."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the mean of Binomial distribution B(n, p)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State two properties of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the mode of a Binomial distribution?"
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "If n = 10, p = 0.5, find the mean of the distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Define Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State two properties of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find the mean of Binomial distribution B(n, p)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find P(X = n) for a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "If n = 10, p = 0.5, find the mean of the distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find P(X = 0) for B(5, 0.2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find P(X = 0) for B(5, 0.2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the conditions under which Binomial distribution is applicable."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the mode of a Binomial distribution?"
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find P(X = n) for a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find P(X = n) for a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find the mean of Binomial distribution B(n, p)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the conditions under which Binomial distribution is applicable."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the formula for the probability mass function (p.m.f.) of a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for the probability mass function (p.m.f.) of a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the conditions under which Binomial distribution is applicable."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State two properties of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State two properties of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find P(X = 0) for B(5, 0.2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "What is the mode of a Binomial distribution?"
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for the probability mass function (p.m.f.) of a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "What is the mode of a Binomial distribution?"
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "If n = 10, p = 0.5, find the mean of the distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State two properties of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Define Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the formula for variance of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the conditions under which Binomial distribution is applicable."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the formula for the probability mass function (p.m.f.) of a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the formula for variance of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the mode of a Binomial distribution?"
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the conditions under which Binomial distribution is applicable."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the conditions under which Binomial distribution is applicable."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "What is the mode of a Binomial distribution?"
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find P(X = n) for a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "If n = 10, p = 0.5, find the mean of the distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for variance of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find the mean of Binomial distribution B(n, p)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for the probability mass function (p.m.f.) of a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find P(X = 0) for B(5, 0.2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "What is the mode of a Binomial distribution?"
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the conditions under which Binomial distribution is applicable."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the mode of a Binomial distribution?"
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "What is the mode of a Binomial distribution?"
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State two properties of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "What is the mode of a Binomial distribution?"
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find the mean of Binomial distribution B(n, p)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State two properties of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "If n = 10, p = 0.5, find the mean of the distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the mode of a Binomial distribution?"
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the mean of Binomial distribution B(n, p)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "If n = 10, p = 0.5, find the mean of the distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the mode of a Binomial distribution?"
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the mean of Binomial distribution B(n, p)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Define Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for the probability mass function (p.m.f.) of a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for variance of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the mean of Binomial distribution B(n, p)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find P(X = n) for a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find the mean of Binomial distribution B(n, p)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State two properties of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for the probability mass function (p.m.f.) of a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "If n = 10, p = 0.5, find the mean of the distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find P(X = 0) for B(5, 0.2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for the probability mass function (p.m.f.) of a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "If n = 10, p = 0.5, find the mean of the distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for the probability mass function (p.m.f.) of a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the mean of Binomial distribution B(n, p)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the conditions under which Binomial distribution is applicable."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for variance of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for the probability mass function (p.m.f.) of a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the mode of a Binomial distribution?"
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "What is the mode of a Binomial distribution?"
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the formula for the probability mass function (p.m.f.) of a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the mean of Binomial distribution B(n, p)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find P(X = 0) for B(5, 0.2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State two properties of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the conditions under which Binomial distribution is applicable."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State two properties of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find P(X = 0) for B(5, 0.2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the mode of a Binomial distribution?"
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find P(X = 0) for B(5, 0.2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for variance of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the mode of a Binomial distribution?"
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "If n = 10, p = 0.5, find the mean of the distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find P(X = n) for a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the mode of a Binomial distribution?"
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the mode of a Binomial distribution?"
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the conditions under which Binomial distribution is applicable."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for the probability mass function (p.m.f.) of a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the mean of Binomial distribution B(n, p)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find P(X = n) for a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find P(X = n) for a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for the probability mass function (p.m.f.) of a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find P(X = n) for a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "If n = 10, p = 0.5, find the mean of the distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the mean of Binomial distribution B(n, p)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "If n = 10, p = 0.5, find the mean of the distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State two properties of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for variance of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for the probability mass function (p.m.f.) of a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find P(X = n) for a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for the probability mass function (p.m.f.) of a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the mean of Binomial distribution B(n, p)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the conditions under which Binomial distribution is applicable."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the formula for the probability mass function (p.m.f.) of a Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "If n = 10, p = 0.5, find the mean of the distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find P(X = 0) for B(5, 0.2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find P(X ≤ 1) when X ~ B(5, 0.2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Write the recurrence relation between successive terms in Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Write the recurrence relation between successive terms in Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "A coin is tossed 6 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find P(X ≥ 2) for a Binomial distribution B(4, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "A coin is tossed 6 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find P(X ≥ 2) for a Binomial distribution B(4, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the probability that X takes even values only when X ~ B(5, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the standard deviation of B(6, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find P(X ≤ 1) when X ~ B(5, 0.2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find P(X ≤ 1) when X ~ B(5, 0.2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the mean and variance of a Binomial distribution with n = 10 and p = 0.4."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "If X ~ B(10, 0.3), find P(X = 0), P(X = 1), P(X = 2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the mean and variance of a Binomial distribution with n = 10 and p = 0.4."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find P(X ≥ 2) for a Binomial distribution B(4, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find P(X ≤ 1) when X ~ B(5, 0.2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find P(X = 3) when n = 7 and p = 0.4."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "If X ~ B(10, 0.3), find P(X = 0), P(X = 1), P(X = 2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "A coin is tossed 6 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find P(X ≥ 2) for a Binomial distribution B(4, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the standard deviation of B(6, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find P(X ≥ 2) for a Binomial distribution B(4, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the mean and variance of a Binomial distribution with n = 10 and p = 0.4."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find the mean and variance of a Binomial distribution with n = 10 and p = 0.4."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Show that mean = np for Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "A coin is tossed 6 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Write the recurrence relation between successive terms in Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "If X ~ B(10, 0.3), find P(X = 0), P(X = 1), P(X = 2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find P(X ≥ 2) for a Binomial distribution B(4, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Show that mean = np for Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find P(X ≥ 2) for a Binomial distribution B(4, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the mean and variance of a Binomial distribution with n = 10 and p = 0.4."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the standard deviation of B(6, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "If X ~ B(10, 0.3), find P(X = 0), P(X = 1), P(X = 2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Show that mean = np for Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "A coin is tossed 6 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find the mean and variance of a Binomial distribution with n = 10 and p = 0.4."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Show that mean = np for Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find P(X = 3) when n = 7 and p = 0.4."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Show that mean = np for Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Show that mean = np for Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find P(X ≤ 1) when X ~ B(5, 0.2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find P(X ≤ 1) when X ~ B(5, 0.2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Write the recurrence relation between successive terms in Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Write the recurrence relation between successive terms in Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the mean and variance of a Binomial distribution with n = 10 and p = 0.4."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find P(X ≤ 1) when X ~ B(5, 0.2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find P(X ≤ 1) when X ~ B(5, 0.2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the probability that X takes even values only when X ~ B(5, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the standard deviation of B(6, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Write the recurrence relation between successive terms in Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the probability that X takes even values only when X ~ B(5, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the mean and variance of a Binomial distribution with n = 10 and p = 0.4."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the mean and variance of a Binomial distribution with n = 10 and p = 0.4."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Write the recurrence relation between successive terms in Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Show that mean = np for Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "A coin is tossed 6 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the standard deviation of B(6, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "A coin is tossed 6 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find P(X ≤ 1) when X ~ B(5, 0.2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "If X ~ B(10, 0.3), find P(X = 0), P(X = 1), P(X = 2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find P(X ≤ 1) when X ~ B(5, 0.2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Show that mean = np for Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "If X ~ B(10, 0.3), find P(X = 0), P(X = 1), P(X = 2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find P(X ≥ 2) for a Binomial distribution B(4, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find P(X ≤ 1) when X ~ B(5, 0.2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the mean and variance of a Binomial distribution with n = 10 and p = 0.4."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Show that mean = np for Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the probability that X takes even values only when X ~ B(5, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the standard deviation of B(6, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find P(X = 3) when n = 7 and p = 0.4."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Write the recurrence relation between successive terms in Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find P(X ≥ 2) for a Binomial distribution B(4, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find P(X ≤ 1) when X ~ B(5, 0.2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the probability that X takes even values only when X ~ B(5, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Show that mean = np for Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Show that mean = np for Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find P(X ≥ 2) for a Binomial distribution B(4, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Show that mean = np for Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the probability that X takes even values only when X ~ B(5, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "A coin is tossed 6 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the probability that X takes even values only when X ~ B(5, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "If X ~ B(10, 0.3), find P(X = 0), P(X = 1), P(X = 2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Show that mean = np for Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find the mean and variance of a Binomial distribution with n = 10 and p = 0.4."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "A coin is tossed 6 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Show that mean = np for Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Write the recurrence relation between successive terms in Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Write the recurrence relation between successive terms in Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "A coin is tossed 6 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find P(X = 3) when n = 7 and p = 0.4."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Write the recurrence relation between successive terms in Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find P(X = 3) when n = 7 and p = 0.4."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Write the recurrence relation between successive terms in Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Write the recurrence relation between successive terms in Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find P(X ≥ 2) for a Binomial distribution B(4, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find P(X = 3) when n = 7 and p = 0.4."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Show that mean = np for Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find P(X ≤ 1) when X ~ B(5, 0.2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Write the recurrence relation between successive terms in Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Show that mean = np for Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "A coin is tossed 6 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Show that mean = np for Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find the standard deviation of B(6, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "A coin is tossed 6 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Show that mean = np for Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find P(X ≥ 2) for a Binomial distribution B(4, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "A coin is tossed 6 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the standard deviation of B(6, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "If X ~ B(10, 0.3), find P(X = 0), P(X = 1), P(X = 2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "If X ~ B(10, 0.3), find P(X = 0), P(X = 1), P(X = 2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find the probability that X takes even values only when X ~ B(5, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find the mean and variance of a Binomial distribution with n = 10 and p = 0.4."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the probability that X takes even values only when X ~ B(5, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find the mean and variance of a Binomial distribution with n = 10 and p = 0.4."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find P(X ≤ 1) when X ~ B(5, 0.2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "If X ~ B(10, 0.3), find P(X = 0), P(X = 1), P(X = 2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Write the recurrence relation between successive terms in Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Show that mean = np for Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find P(X ≤ 1) when X ~ B(5, 0.2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the mean and variance of a Binomial distribution with n = 10 and p = 0.4."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "If X ~ B(10, 0.3), find P(X = 0), P(X = 1), P(X = 2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find P(X = 3) when n = 7 and p = 0.4."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the probability that X takes even values only when X ~ B(5, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "If X ~ B(10, 0.3), find P(X = 0), P(X = 1), P(X = 2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the mean and variance of a Binomial distribution with n = 10 and p = 0.4."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "If X ~ B(10, 0.3), find P(X = 0), P(X = 1), P(X = 2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find P(X = 3) when n = 7 and p = 0.4."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find P(X ≤ 1) when X ~ B(5, 0.2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Show that mean = np for Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the standard deviation of B(6, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "If X ~ B(10, 0.3), find P(X = 0), P(X = 1), P(X = 2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "If X ~ B(10, 0.3), find P(X = 0), P(X = 1), P(X = 2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "A coin is tossed 6 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Write the recurrence relation between successive terms in Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the standard deviation of B(6, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "A coin is tossed 6 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the mean and variance of a Binomial distribution with n = 10 and p = 0.4."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Show that mean = np for Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the mean and variance of a Binomial distribution with n = 10 and p = 0.4."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Show that mean = np for Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "A coin is tossed 6 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Show that mean = np for Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find P(X ≤ 1) when X ~ B(5, 0.2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find P(X ≥ 2) for a Binomial distribution B(4, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "A coin is tossed 6 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find P(X ≥ 2) for a Binomial distribution B(4, 0.5)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "A coin is tossed 6 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find P(X ≤ 1) when X ~ B(5, 0.2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "If X ~ B(10, 0.3), find P(X = 0), P(X = 1), P(X = 2)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ B(10, 0.3), find P(X ≥ 8)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ B(10, 0.3), find P(X ≥ 8)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A fair die is thrown 10 times. Find the probability of getting exactly three sixes."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find mean, variance, and standard deviation for X ~ B(8, 0.25)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find mean, variance, and standard deviation for X ~ B(8, 0.25)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the moment generating function (MGF) of a Binomial distribution and find its mean and variance."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the moment generating function (MGF) of a Binomial distribution and find its mean and variance."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the moment generating function (MGF) of a Binomial distribution and find its mean and variance."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that Binomial distribution tends to Poisson distribution as n → ∞ and p → 0."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Show that for Binomial distribution B(n, p), mean = np and variance = npq."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the moment generating function (MGF) of a Binomial distribution and find its mean and variance."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "If X ~ B(5, 1/3), find P(X ≥ 1)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that Binomial distribution tends to Poisson distribution as n → ∞ and p → 0."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A coin is biased such that P(Head) = 0.6. It is tossed 5 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A fair die is thrown 10 times. Find the probability of getting exactly three sixes."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A coin is biased such that P(Head) = 0.6. It is tossed 5 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ B(5, 1/3), find P(X ≥ 1)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find mean, variance, and standard deviation for X ~ B(8, 0.25)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "If X ~ B(10, 0.3), find P(X ≥ 8)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Show that for Binomial distribution B(n, p), mean = np and variance = npq."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ B(5, 1/3), find P(X ≥ 1)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "If X ~ B(5, 1/3), find P(X ≥ 1)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that Binomial distribution tends to Poisson distribution as n → ∞ and p → 0."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "If X ~ B(5, 1/3), find P(X ≥ 1)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the probability of getting at least 4 heads in 6 tosses of a fair coin."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the moment generating function (MGF) of a Binomial distribution and find its mean and variance."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the moment generating function (MGF) of a Binomial distribution and find its mean and variance."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find mean, variance, and standard deviation for X ~ B(8, 0.25)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A fair die is thrown 10 times. Find the probability of getting exactly three sixes."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A coin is biased such that P(Head) = 0.6. It is tossed 5 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Show that for Binomial distribution B(n, p), mean = np and variance = npq."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that Binomial distribution tends to Poisson distribution as n → ∞ and p → 0."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "If X ~ B(10, 0.3), find P(X ≥ 8)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ B(5, 1/3), find P(X ≥ 1)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ B(10, 0.3), find P(X ≥ 8)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ B(10, 0.3), find P(X ≥ 8)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find mean, variance, and standard deviation for X ~ B(8, 0.25)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A coin is biased such that P(Head) = 0.6. It is tossed 5 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that Binomial distribution tends to Poisson distribution as n → ∞ and p → 0."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "A coin is biased such that P(Head) = 0.6. It is tossed 5 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ B(5, 1/3), find P(X ≥ 1)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "A fair die is thrown 10 times. Find the probability of getting exactly three sixes."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ B(10, 0.3), find P(X ≥ 8)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A coin is biased such that P(Head) = 0.6. It is tossed 5 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the probability of getting at least 4 heads in 6 tosses of a fair coin."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ B(5, 1/3), find P(X ≥ 1)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find mean, variance, and standard deviation for X ~ B(8, 0.25)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A coin is biased such that P(Head) = 0.6. It is tossed 5 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Show that for Binomial distribution B(n, p), mean = np and variance = npq."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "A fair die is thrown 10 times. Find the probability of getting exactly three sixes."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the probability of getting at least 4 heads in 6 tosses of a fair coin."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "A coin is biased such that P(Head) = 0.6. It is tossed 5 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the mean and variance of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "A coin is biased such that P(Head) = 0.6. It is tossed 5 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the probability of getting at least 4 heads in 6 tosses of a fair coin."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ B(5, 1/3), find P(X ≥ 1)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the mean and variance of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ B(5, 1/3), find P(X ≥ 1)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the moment generating function (MGF) of a Binomial distribution and find its mean and variance."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ B(5, 1/3), find P(X ≥ 1)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Show that for Binomial distribution B(n, p), mean = np and variance = npq."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Show that for Binomial distribution B(n, p), mean = np and variance = npq."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find mean, variance, and standard deviation for X ~ B(8, 0.25)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Show that for Binomial distribution B(n, p), mean = np and variance = npq."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Show that for Binomial distribution B(n, p), mean = np and variance = npq."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that Binomial distribution tends to Poisson distribution as n → ∞ and p → 0."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find mean, variance, and standard deviation for X ~ B(8, 0.25)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "A coin is biased such that P(Head) = 0.6. It is tossed 5 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ B(5, 1/3), find P(X ≥ 1)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find mean, variance, and standard deviation for X ~ B(8, 0.25)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A fair die is thrown 10 times. Find the probability of getting exactly three sixes."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the mean and variance of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Show that for Binomial distribution B(n, p), mean = np and variance = npq."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "If X ~ B(10, 0.3), find P(X ≥ 8)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A fair die is thrown 10 times. Find the probability of getting exactly three sixes."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the probability of getting at least 4 heads in 6 tosses of a fair coin."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "A coin is biased such that P(Head) = 0.6. It is tossed 5 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find mean, variance, and standard deviation for X ~ B(8, 0.25)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A fair die is thrown 10 times. Find the probability of getting exactly three sixes."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ B(5, 1/3), find P(X ≥ 1)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "If X ~ B(10, 0.3), find P(X ≥ 8)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find mean, variance, and standard deviation for X ~ B(8, 0.25)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ B(10, 0.3), find P(X ≥ 8)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "A coin is biased such that P(Head) = 0.6. It is tossed 5 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the probability of getting at least 4 heads in 6 tosses of a fair coin."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the probability of getting at least 4 heads in 6 tosses of a fair coin."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the probability of getting at least 4 heads in 6 tosses of a fair coin."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find mean, variance, and standard deviation for X ~ B(8, 0.25)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find mean, variance, and standard deviation for X ~ B(8, 0.25)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ B(5, 1/3), find P(X ≥ 1)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A fair die is thrown 10 times. Find the probability of getting exactly three sixes."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A fair die is thrown 10 times. Find the probability of getting exactly three sixes."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ B(5, 1/3), find P(X ≥ 1)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find mean, variance, and standard deviation for X ~ B(8, 0.25)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that Binomial distribution tends to Poisson distribution as n → ∞ and p → 0."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find mean, variance, and standard deviation for X ~ B(8, 0.25)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Show that for Binomial distribution B(n, p), mean = np and variance = npq."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find mean, variance, and standard deviation for X ~ B(8, 0.25)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the mean and variance of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A fair die is thrown 10 times. Find the probability of getting exactly three sixes."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the probability of getting at least 4 heads in 6 tosses of a fair coin."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "If X ~ B(5, 1/3), find P(X ≥ 1)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the probability of getting at least 4 heads in 6 tosses of a fair coin."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that Binomial distribution tends to Poisson distribution as n → ∞ and p → 0."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "If X ~ B(5, 1/3), find P(X ≥ 1)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ B(5, 1/3), find P(X ≥ 1)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the moment generating function (MGF) of a Binomial distribution and find its mean and variance."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Show that for Binomial distribution B(n, p), mean = np and variance = npq."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the moment generating function (MGF) of a Binomial distribution and find its mean and variance."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ B(5, 1/3), find P(X ≥ 1)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that Binomial distribution tends to Poisson distribution as n → ∞ and p → 0."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "A coin is biased such that P(Head) = 0.6. It is tossed 5 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Show that for Binomial distribution B(n, p), mean = np and variance = npq."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the moment generating function (MGF) of a Binomial distribution and find its mean and variance."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that Binomial distribution tends to Poisson distribution as n → ∞ and p → 0."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the mean and variance of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "A coin is biased such that P(Head) = 0.6. It is tossed 5 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the moment generating function (MGF) of a Binomial distribution and find its mean and variance."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "If X ~ B(5, 1/3), find P(X ≥ 1)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "A coin is biased such that P(Head) = 0.6. It is tossed 5 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "A fair die is thrown 10 times. Find the probability of getting exactly three sixes."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ B(5, 1/3), find P(X ≥ 1)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find mean, variance, and standard deviation for X ~ B(8, 0.25)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the probability of getting at least 4 heads in 6 tosses of a fair coin."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the mean and variance of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Show that for Binomial distribution B(n, p), mean = np and variance = npq."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Show that for Binomial distribution B(n, p), mean = np and variance = npq."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Show that for Binomial distribution B(n, p), mean = np and variance = npq."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the probability of getting at least 4 heads in 6 tosses of a fair coin."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A fair die is thrown 10 times. Find the probability of getting exactly three sixes."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "A fair die is thrown 10 times. Find the probability of getting exactly three sixes."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "If X ~ B(5, 1/3), find P(X ≥ 1)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ B(10, 0.3), find P(X ≥ 8)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the probability of getting at least 4 heads in 6 tosses of a fair coin."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find mean, variance, and standard deviation for X ~ B(8, 0.25)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the probability of getting at least 4 heads in 6 tosses of a fair coin."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A fair die is thrown 10 times. Find the probability of getting exactly three sixes."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that Binomial distribution tends to Poisson distribution as n → ∞ and p → 0."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "A coin is biased such that P(Head) = 0.6. It is tossed 5 times. Find the probability of getting exactly 2 heads."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of Binomial distribution."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "A fair die is thrown 10 times. Find the probability of getting exactly three sixes."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find mean, variance, and standard deviation for X ~ B(8, 0.25)."
+  },
+  {
+    "chapter_no": 8,
+    "chapter_title": "Binomial Distribution",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "If X ~ B(5, 1/3), find P(X ≥ 1)."
+  }
+]

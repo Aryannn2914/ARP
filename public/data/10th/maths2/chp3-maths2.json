@@ -1,0 +1,1802 @@
+[
+  {
+    "question": "State the property of opposite angles in a cyclic quadrilateral and give a numerical example.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A chord AB has length 13 cm and distance from center is 5 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Prove power of a point theorem for intersecting chords.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two tangents PA and PB from external point P have length 8 cm each. Explain why PA = PB.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "If a chord is 5 cm from the center in a circle, explain how distance from center relates to chord length.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Prove that tangent is perpendicular to radius using limit of secants idea.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State the relation between equal chords and equal arcs in a circle and give an example.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define a tangent to a circle. How many tangents can be drawn from an external point?",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A circle has radius 8 cm. What is the angle between radius and tangent at point of contact? Explain why.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State that a tangent to a circle is perpendicular to the radius at the point of contact and explain briefly.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Prove that opposite angles of cyclic quadrilateral are supplementary using arc measures.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A chord AB has length 17 cm and distance from center is 8 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State the alternate segment theorem and describe in words how a tangent-chord angle equals angle in opposite arc.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A circle has radius 9 cm. What is the angle between radius and tangent at point of contact? Explain why.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Circle radius 8 cm. A chord is 6 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 11 m and perpendicular distance 5 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A circle has radius 14 cm. What is the angle between radius and tangent at point of contact? Explain why.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A circle has radius 7 cm. What is the angle between radius and tangent at point of contact? Explain why.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Prove tangent-secant theorem using similar triangles.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A circle has radius 15 cm. What is the angle between radius and tangent at point of contact? Explain why.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A chord AB has length 12 cm and distance from center is 2 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "An arc subtends 106 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State that angle in a semicircle is 90 degrees and describe a simple example.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "An arc subtends 100 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 9 cm, external secant 9 cm, whole secant 18 cm.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Circle radius 12 cm. A chord is 1 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A chord AB has length 18 cm and distance from center is 8 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 16 m and perpendicular distance 9 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define power of a point for intersecting chords and give algebraic statement PA*PB = PC*PD.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 18 m and perpendicular distance 5 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A chord AB has length 9 cm and distance from center is 7 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Prove alternate segment theorem using cyclic quadrilateral argument.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two tangents PA and PB from external point P have length 5 cm each. Explain why PA = PB.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 15 m and perpendicular distance 5 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If a chord is 6 cm from the center in a circle, explain how distance from center relates to chord length.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A circle has radius 6 cm. What is the angle between radius and tangent at point of contact? Explain why.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 4 cm, external secant 4 cm, whole secant 9 cm.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A circle has radius 4 cm. What is the angle between radius and tangent at point of contact? Explain why.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 8 cm, external secant 8 cm, whole secant 18 cm.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Two tangents PA and PB from external point P have length 9 cm each. Explain why PA = PB.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 7 m and perpendicular distance 3 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If a chord is 3 cm from the center in a circle, explain how distance from center relates to chord length.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A chord AB has length 16 cm and distance from center is 9 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "An arc subtends 76 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A circle has radius 10 cm. What is the angle between radius and tangent at point of contact? Explain why.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 5 cm, external secant 5 cm, whole secant 14 cm.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Circle radius 9 cm. A chord is 4 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If a chord is 9 cm from the center in a circle, explain how distance from center relates to chord length.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "An arc subtends 44 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "An arc subtends 29 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 7 cm, external secant 7 cm, whole secant 16 cm.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If a chord is 8 cm from the center in a circle, explain how distance from center relates to chord length.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 4 cm, external secant 4 cm, whole secant 8 cm.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "An arc subtends 42 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Circle radius 12 cm. A chord is 4 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A chord AB has length 19 cm and distance from center is 10 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "An arc subtends 48 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A chord AB has length 15 cm and distance from center is 6 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 11 cm, external secant 11 cm, whole secant 16 cm.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Two tangents PA and PB from external point P have length 4 cm each. Explain why PA = PB.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A chord AB has length 14 cm and distance from center is 1 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Circle radius 5 cm. A chord is 3 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 8 m and perpendicular distance 4 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 4 cm, external secant 4 cm, whole secant 11 cm.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If a chord is 2 cm from the center in a circle, explain how distance from center relates to chord length.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Circle radius 15 cm. A chord is 8 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If a chord is 4 cm from the center in a circle, explain how distance from center relates to chord length.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Circle radius 6 cm. A chord is 3 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Circle radius 12 cm. A chord is 6 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 10 m and perpendicular distance 10 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 11 cm, external secant 11 cm, whole secant 18 cm.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 16 m and perpendicular distance 5 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "An arc subtends 23 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A chord AB has length 13 cm and distance from center is 6 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Two tangents PA and PB from external point P have length 10 cm each. Explain why PA = PB.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 10 cm, external secant 10 cm, whole secant 20 cm.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 10 m and perpendicular distance 3 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A chord AB has length 5 cm and distance from center is 3 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A chord AB has length 17 cm and distance from center is 5 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A circle has radius 11 cm. What is the angle between radius and tangent at point of contact? Explain why.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "An arc subtends 94 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 8 m and perpendicular distance 3 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Circle radius 9 cm. A chord is 6 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 5 cm, external secant 5 cm, whole secant 9 cm.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 20 m and perpendicular distance 2 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Circle radius 14 cm. A chord is 13 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 16 m and perpendicular distance 7 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "An arc subtends 81 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 6 m and perpendicular distance 3 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "An arc subtends 101 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Circle radius 13 cm. A chord is 8 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 20 m and perpendicular distance 10 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Circle radius 14 cm. A chord is 11 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "An arc subtends 114 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "An arc subtends 74 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Circle radius 11 cm. A chord is 10 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A chord AB has length 10 cm and distance from center is 3 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "If a chord is 7 cm from the center in a circle, explain how distance from center relates to chord length.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Circle radius 13 cm. A chord is 7 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "An arc subtends 89 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "An arc subtends 88 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Circle radius 10 cm. A chord is 9 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Circle radius 11 cm. A chord is 5 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "An arc subtends 105 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 11 cm, external secant 11 cm, whole secant 21 cm.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Circle radius 9 cm. A chord is 1 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 6 m and perpendicular distance 5 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "An arc subtends 59 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "If a chord is 10 cm from the center in a circle, explain how distance from center relates to chord length.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A chord AB has length 5 cm and distance from center is 10 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 19 m and perpendicular distance 10 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 6 m and perpendicular distance 4 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Circle radius 14 cm. A chord is 4 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 6 cm, external secant 6 cm, whole secant 14 cm.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 13 m and perpendicular distance 5 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "An arc subtends 119 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Circle radius 10 cm. A chord is 1 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A chord AB has length 15 cm and distance from center is 3 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 14 m and perpendicular distance 9 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 7 cm, external secant 7 cm, whole secant 14 cm.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A circle has radius 5 cm. What is the angle between radius and tangent at point of contact? Explain why.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "An arc subtends 93 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two tangents PA and PB from external point P have length 6 cm each. Explain why PA = PB.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 15 m and perpendicular distance 2 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 19 m and perpendicular distance 6 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A circle has radius 13 cm. What is the angle between radius and tangent at point of contact? Explain why.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A chord AB has length 13 cm and distance from center is 3 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A chord AB has length 16 cm and distance from center is 8 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 5 cm, external secant 5 cm, whole secant 13 cm.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "An arc subtends 104 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 11 m and perpendicular distance 7 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "An arc subtends 60 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A chord AB has length 17 cm and distance from center is 1 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Circle radius 14 cm. A chord is 1 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "An arc subtends 51 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 15 m and perpendicular distance 9 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 14 m and perpendicular distance 5 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "An arc subtends 47 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A chord AB has length 12 cm and distance from center is 5 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A chord AB has length 14 cm and distance from center is 7 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 11 m and perpendicular distance 6 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A chord AB has length 4 cm and distance from center is 7 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A chord AB has length 14 cm and distance from center is 9 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 8 m and perpendicular distance 10 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Two tangents PA and PB from external point P have length 7 cm each. Explain why PA = PB.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 16 m and perpendicular distance 8 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "An arc subtends 85 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 13 m and perpendicular distance 2 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 5 cm, external secant 5 cm, whole secant 15 cm.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 16 m and perpendicular distance 10 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "An arc subtends 111 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Circle radius 11 cm. A chord is 9 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 19 m and perpendicular distance 4 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 5 cm, external secant 5 cm, whole secant 11 cm.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A chord AB has length 4 cm and distance from center is 8 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "An arc subtends 77 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A chord AB has length 5 cm and distance from center is 1 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "An arc subtends 113 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "An arc subtends 36 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 5 cm, external secant 5 cm, whole secant 10 cm.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A chord AB has length 17 cm and distance from center is 6 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Circle radius 14 cm. A chord is 6 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "An arc subtends 98 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Circle radius 5 cm. A chord is 2 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 20 m and perpendicular distance 6 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "An arc subtends 52 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A chord AB has length 6 cm and distance from center is 10 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 14 m and perpendicular distance 4 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "An arc subtends 65 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 18 m and perpendicular distance 7 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "An arc subtends 109 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "An arc subtends 45 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A chord AB has length 10 cm and distance from center is 1 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Circle radius 15 cm. A chord is 12 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "An arc subtends 83 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 9 m and perpendicular distance 9 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Circle radius 15 cm. A chord is 2 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 14 m and perpendicular distance 10 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "An arc subtends 22 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A chord AB has length 20 cm and distance from center is 9 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 14 m and perpendicular distance 3 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A chord AB has length 8 cm and distance from center is 2 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "An arc subtends 91 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 17 m and perpendicular distance 5 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 17 m and perpendicular distance 4 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 13 m and perpendicular distance 9 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 5 cm, external secant 5 cm, whole secant 8 cm.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 8 m and perpendicular distance 9 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 15 m and perpendicular distance 7 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Circle radius 15 cm. A chord is 13 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 10 cm, external secant 10 cm, whole secant 17 cm.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Circle radius 7 cm. A chord is 4 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 7 cm, external secant 7 cm, whole secant 12 cm.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 12 m and perpendicular distance 6 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Circle radius 10 cm. A chord is 8 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 7 cm, external secant 7 cm, whole secant 17 cm.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Circle radius 14 cm. A chord is 2 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A chord AB has length 13 cm and distance from center is 10 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 6 m and perpendicular distance 7 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 9 cm, external secant 9 cm, whole secant 16 cm.",
+    "chapter_no": 3,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A chord AB has length 4 cm and distance from center is 6 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "An arc subtends 62 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Circle radius 12 cm. A chord is 7 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A chord AB has length 16 cm and distance from center is 6 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A chord AB has length 11 cm and distance from center is 3 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Circle radius 8 cm. A chord is 4 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 6 m and perpendicular distance 8 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Circle radius 14 cm. A chord is 7 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A circle has radius 12 cm. What is the angle between radius and tangent at point of contact? Explain why.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 8 cm, external secant 8 cm, whole secant 17 cm.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 8 cm, external secant 8 cm, whole secant 14 cm.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A chord AB has length 7 cm and distance from center is 10 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Circle radius 14 cm. A chord is 8 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 8 cm, external secant 8 cm, whole secant 16 cm.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A chord AB has length 13 cm and distance from center is 4 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "An arc subtends 21 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Circle radius 5 cm. A chord is 4 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A chord AB has length 11 cm and distance from center is 5 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A chord AB has length 19 cm and distance from center is 7 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "An arc subtends 79 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A chord AB has length 8 cm and distance from center is 9 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A chord AB has length 9 cm and distance from center is 10 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A chord AB has length 6 cm and distance from center is 7 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Circle radius 11 cm. A chord is 4 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "An arc subtends 30 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "An arc subtends 115 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A chord AB has length 17 cm and distance from center is 7 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "An arc subtends 116 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 12 cm, external secant 12 cm, whole secant 18 cm.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "An arc subtends 87 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "An arc subtends 24 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A chord AB has length 8 cm and distance from center is 3 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 17 m and perpendicular distance 3 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A chord AB has length 18 cm and distance from center is 2 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Circle radius 11 cm. A chord is 6 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A chord AB has length 9 cm and distance from center is 8 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "An arc subtends 107 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 5 cm, external secant 5 cm, whole secant 12 cm.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 18 m and perpendicular distance 10 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "An arc subtends 68 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 9 cm, external secant 9 cm, whole secant 15 cm.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A chord AB has length 15 cm and distance from center is 10 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 6 cm, external secant 6 cm, whole secant 15 cm.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A chord AB has length 5 cm and distance from center is 8 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Circle radius 7 cm. A chord is 6 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A chord AB has length 6 cm and distance from center is 6 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 19 m and perpendicular distance 2 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "An arc subtends 34 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "An arc subtends 82 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "An arc subtends 35 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 9 cm, external secant 9 cm, whole secant 19 cm.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "An arc subtends 90 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "An arc subtends 97 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "An arc subtends 53 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "An arc subtends 20 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 12 cm, external secant 12 cm, whole secant 21 cm.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Circle radius 7 cm. A chord is 3 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Circle radius 15 cm. A chord is 14 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A chord AB has length 5 cm and distance from center is 6 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A chord AB has length 20 cm and distance from center is 5 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Circle radius 11 cm. A chord is 2 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "An arc subtends 32 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 13 m and perpendicular distance 7 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 12 cm, external secant 12 cm, whole secant 22 cm.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "An arc subtends 120 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Circle radius 14 cm. A chord is 12 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 18 m and perpendicular distance 9 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 17 m and perpendicular distance 2 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A chord AB has length 19 cm and distance from center is 6 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "An arc subtends 99 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Circle radius 6 cm. A chord is 1 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 19 m and perpendicular distance 5 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A chord AB has length 14 cm and distance from center is 8 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "An arc subtends 33 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 12 m and perpendicular distance 8 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Circle radius 9 cm. A chord is 5 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "An arc subtends 86 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A chord AB has length 7 cm and distance from center is 7 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "An arc subtends 112 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 17 m and perpendicular distance 7 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Circle radius 6 cm. A chord is 5 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 7 m and perpendicular distance 5 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A chord AB has length 11 cm and distance from center is 8 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Circle radius 15 cm. A chord is 7 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Circle radius 10 cm. A chord is 2 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 15 m and perpendicular distance 3 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 8 cm, external secant 8 cm, whole secant 11 cm.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 19 m and perpendicular distance 7 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A chord AB has length 9 cm and distance from center is 2 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A chord AB has length 16 cm and distance from center is 4 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Circle radius 6 cm. A chord is 2 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Circle radius 13 cm. A chord is 12 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Circle radius 10 cm. A chord is 4 cm from center. Use right triangle relation to compute chord length.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A gate AB in circular park has chord length 16 m and perpendicular distance 4 m from center line. Explain and compute radius.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "An arc subtends 56 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "An arc subtends 28 degrees at center. State relation with angle at circumference and compute it.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A chord AB has length 5 cm and distance from center is 2 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Verify tangent-secant theorem with tangent length 7 cm, external secant 7 cm, whole secant 11 cm.",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A chord AB has length 12 cm and distance from center is 10 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A chord AB has length 5 cm and distance from center is 5 cm. Explain and compute radius using r = sqrt((L/2)^2 + d^2).",
+    "chapter_no": 3,
+    "marks": 5,
+    "difficulty": "Hard"
+  }
+]

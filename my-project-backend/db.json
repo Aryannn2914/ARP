@@ -1,0 +1,24 @@
+[
+  {
+    "id": "0af41b04-959b-42a0-8c30-05475102e782",
+    "title": "Computer Security",
+    "summary": "Newly uploaded study material.",
+    "fileUrl": "http://localhost:5000/files/1762286364560-870468964.pdf",
+    "fileName": "1762286364560-870468964.pdf",
+    "category": "other",
+    "type": "application/pdf",
+    "size": "0.08 MB",
+    "uploadDate": "2025-11-04"
+  },
+  {
+    "id": "c550d534-ec8e-475f-8ccd-bb12f085bc42",
+    "title": "Digital Signature",
+    "summary": "Newly uploaded study material.",
+    "fileUrl": "http://localhost:5000/files/1762286443993-236986697.pdf",
+    "fileName": "1762286443993-236986697.pdf",
+    "category": "other",
+    "type": "application/pdf",
+    "size": "0.26 MB",
+    "uploadDate": "2025-11-04"
+  }
+]

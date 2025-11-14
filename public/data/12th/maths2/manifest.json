@@ -1,0 +1,12 @@
+{
+  "chapters": [
+    "math_chapter1_differentiation_questions.json",
+    "math_chapter2_applications_of_derivatives.json",
+    "math_chapter3_indefinite_integration.json",
+    "math_chapter4_definite_integration.json",
+    "math_chapter5_application_of_definite_integration.json",
+    "math_chapter6_differential_equations.json",
+    "math_chapter7_probability_distributions.json",
+    "math_chapter8_binomial_distribution.json"
+  ]
+}
