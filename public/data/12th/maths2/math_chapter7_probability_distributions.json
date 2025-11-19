@@ -1,0 +1,3152 @@
+[
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is a probability distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the expectation of a random variable X?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find the mean of a random variable X having the following probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the standard deviation of a Normal distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for mean of Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is a probability distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the standard deviation of a Normal distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the standard deviation of a Normal distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the standard deviation of a Normal distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the relation between mean and variance in a Poisson distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Define a random variable with one example."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the mean of a random variable X having the following probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define mean and variance of a probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the conditions of a valid probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define mean and variance of a probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for mean of Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define mean and variance of a probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Define a random variable with one example."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the standard deviation of a Normal distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for mean of Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "What is the expectation of a random variable X?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Define probability mass function (p.m.f)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define mean and variance of a probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is a probability distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the conditions of a valid probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "What is a probability distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is a probability distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the relation between mean and variance in a Poisson distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define mean and variance of a probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define mean and variance of a probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "What is the expectation of a random variable X?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is a probability distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the mean of a random variable X having the following probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the conditions of a valid probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for mean of Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the standard deviation of a Normal distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Define mean and variance of a probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define a random variable with one example."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Define a random variable with one example."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for mean of Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the conditions of a valid probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Define probability mass function (p.m.f)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define mean and variance of a probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the relation between mean and variance in a Poisson distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the relation between mean and variance in a Poisson distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the mean of a random variable X having the following probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the standard deviation of a Normal distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define probability mass function (p.m.f)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define probability mass function (p.m.f)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the conditions of a valid probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the mean of a random variable X having the following probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "What is a probability distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is a probability distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find the mean of a random variable X having the following probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for mean of Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for mean of Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the relation between mean and variance in a Poisson distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "What is the standard deviation of a Normal distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define a random variable with one example."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is a probability distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "What is the standard deviation of a Normal distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define mean and variance of a probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for mean of Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Define a random variable with one example."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "What is the expectation of a random variable X?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the mean of a random variable X having the following probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "What is a probability distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "What is the expectation of a random variable X?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the standard deviation of a Normal distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the mean of a random variable X having the following probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the mean of a random variable X having the following probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "What is the standard deviation of a Normal distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define probability mass function (p.m.f)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define a random variable with one example."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Define mean and variance of a probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the expectation of a random variable X?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the conditions of a valid probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is a probability distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the relation between mean and variance in a Poisson distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "What is the standard deviation of a Normal distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the mean of a random variable X having the following probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the standard deviation of a Normal distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "What is the standard deviation of a Normal distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the formula for mean of Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "What is the standard deviation of a Normal distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the conditions of a valid probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the formula for mean of Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define mean and variance of a probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the standard deviation of a Normal distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the conditions of a valid probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define mean and variance of a probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the standard deviation of a Normal distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the conditions of a valid probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define a random variable with one example."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Define a random variable with one example."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is a probability distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the expectation of a random variable X?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the conditions of a valid probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define probability mass function (p.m.f)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the conditions of a valid probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for mean of Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is a probability distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define mean and variance of a probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the relation between mean and variance in a Poisson distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define a random variable with one example."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is a probability distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Define mean and variance of a probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is a probability distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the conditions of a valid probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the mean of a random variable X having the following probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the expectation of a random variable X?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is a probability distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the standard deviation of a Normal distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "What is the standard deviation of a Normal distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "What is a probability distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the conditions of a valid probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the relation between mean and variance in a Poisson distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the formula for mean of Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the mean of a random variable X having the following probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for mean of Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the relation between mean and variance in a Poisson distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the standard deviation of a Normal distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the relation between mean and variance in a Poisson distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the expectation of a random variable X?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define a random variable with one example."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the standard deviation of a Normal distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define mean and variance of a probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define probability mass function (p.m.f)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the standard deviation of a Normal distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the standard deviation of a Normal distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the mean of a random variable X having the following probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is a probability distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the conditions of a valid probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define probability mass function (p.m.f)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define probability mass function (p.m.f)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is a probability distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define probability mass function (p.m.f)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Define mean and variance of a probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the conditions of a valid probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define mean and variance of a probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the formula for mean of Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is the expectation of a random variable X?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is a probability distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Define probability mass function (p.m.f)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "What is a probability distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the conditions of a valid probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find the mean of a random variable X having the following probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "What is a probability distribution?"
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define mean and variance of a probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the relation between mean and variance in a Poisson distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "A coin is tossed 4 times. Find the probability distribution of number of heads obtained."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the mean and variance of a uniform distribution on [a, b]."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the mean and variance of a uniform distribution on [a, b]."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find the mean and variance of a Binomial distribution with parameters n = 5, p = 0.4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "State and prove that mean of a Poisson distribution is equal to its variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the mean and variance of a Binomial distribution with parameters n = 5, p = 0.4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "State and prove that mean of a Poisson distribution is equal to its variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "A fair die is rolled. Define the random variable and its probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "If X has a Binomial distribution with n = 10 and p = 0.5, find P(X = 4)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "A coin is tossed 4 times. Find the probability distribution of number of heads obtained."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "A coin is tossed 4 times. Find the probability distribution of number of heads obtained."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "A random variable X takes values 1, 2, 3 with probabilities 0.2, 0.5, 0.3 respectively. Find the mean and variance of X."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the probability that a Poisson-distributed random variable with mean 2 takes value 0."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "A random variable X takes values 1, 2, 3 with probabilities 0.2, 0.5, 0.3 respectively. Find the mean and variance of X."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "State and prove that mean of a Poisson distribution is equal to its variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "A coin is tossed 4 times. Find the probability distribution of number of heads obtained."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "If X is uniformly distributed over [0, 10], find E(X)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the probability that a Poisson-distributed random variable with mean 2 takes value 0."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the mean and variance of a Binomial distribution with parameters n = 5, p = 0.4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "State and prove that mean of a Poisson distribution is equal to its variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "If X has a Binomial distribution with n = 10 and p = 0.5, find P(X = 4)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "State and prove that mean of a Poisson distribution is equal to its variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "A random variable X takes values 1, 2, 3 with probabilities 0.2, 0.5, 0.3 respectively. Find the mean and variance of X."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "A random variable X takes values 1, 2, 3 with probabilities 0.2, 0.5, 0.3 respectively. Find the mean and variance of X."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Write the formula for the probability mass function of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the mean and variance of a Binomial distribution with parameters n = 5, p = 0.4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find the mean and variance of a uniform distribution on [a, b]."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find the probability that a Poisson-distributed random variable with mean 2 takes value 0."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "State and prove that mean of a Poisson distribution is equal to its variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Write the formula for the probability mass function of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "State and prove that mean of a Poisson distribution is equal to its variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "A random variable X takes values 1, 2, 3 with probabilities 0.2, 0.5, 0.3 respectively. Find the mean and variance of X."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "If X has a Binomial distribution with n = 10 and p = 0.5, find P(X = 4)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the probability that a Poisson-distributed random variable with mean 2 takes value 0."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Write the formula for the probability mass function of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the mean and variance of a Binomial distribution with parameters n = 5, p = 0.4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "A random variable X takes values 1, 2, 3 with probabilities 0.2, 0.5, 0.3 respectively. Find the mean and variance of X."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Write the formula for the probability mass function of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "If X is uniformly distributed over [0, 10], find E(X)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Write the formula for the probability mass function of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Write the formula for the probability mass function of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "A coin is tossed 4 times. Find the probability distribution of number of heads obtained."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "A coin is tossed 4 times. Find the probability distribution of number of heads obtained."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the mean and variance of a uniform distribution on [a, b]."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the mean and variance of a uniform distribution on [a, b]."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "A random variable X takes values 1, 2, 3 with probabilities 0.2, 0.5, 0.3 respectively. Find the mean and variance of X."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "A coin is tossed 4 times. Find the probability distribution of number of heads obtained."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "A coin is tossed 4 times. Find the probability distribution of number of heads obtained."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "A fair die is rolled. Define the random variable and its probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "If X has a Binomial distribution with n = 10 and p = 0.5, find P(X = 4)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the mean and variance of a uniform distribution on [a, b]."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "A fair die is rolled. Define the random variable and its probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "A random variable X takes values 1, 2, 3 with probabilities 0.2, 0.5, 0.3 respectively. Find the mean and variance of X."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "A random variable X takes values 1, 2, 3 with probabilities 0.2, 0.5, 0.3 respectively. Find the mean and variance of X."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the mean and variance of a uniform distribution on [a, b]."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Write the formula for the probability mass function of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find the mean and variance of a Binomial distribution with parameters n = 5, p = 0.4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "If X has a Binomial distribution with n = 10 and p = 0.5, find P(X = 4)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the mean and variance of a Binomial distribution with parameters n = 5, p = 0.4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "A coin is tossed 4 times. Find the probability distribution of number of heads obtained."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the probability that a Poisson-distributed random variable with mean 2 takes value 0."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "A coin is tossed 4 times. Find the probability distribution of number of heads obtained."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Write the formula for the probability mass function of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the probability that a Poisson-distributed random variable with mean 2 takes value 0."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "State and prove that mean of a Poisson distribution is equal to its variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "A coin is tossed 4 times. Find the probability distribution of number of heads obtained."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "A random variable X takes values 1, 2, 3 with probabilities 0.2, 0.5, 0.3 respectively. Find the mean and variance of X."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Write the formula for the probability mass function of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "A fair die is rolled. Define the random variable and its probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "If X has a Binomial distribution with n = 10 and p = 0.5, find P(X = 4)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "If X is uniformly distributed over [0, 10], find E(X)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the mean and variance of a uniform distribution on [a, b]."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "State and prove that mean of a Poisson distribution is equal to its variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "A coin is tossed 4 times. Find the probability distribution of number of heads obtained."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "A fair die is rolled. Define the random variable and its probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Write the formula for the probability mass function of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Write the formula for the probability mass function of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "State and prove that mean of a Poisson distribution is equal to its variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Write the formula for the probability mass function of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "A fair die is rolled. Define the random variable and its probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the mean and variance of a Binomial distribution with parameters n = 5, p = 0.4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "A fair die is rolled. Define the random variable and its probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the probability that a Poisson-distributed random variable with mean 2 takes value 0."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Write the formula for the probability mass function of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "A random variable X takes values 1, 2, 3 with probabilities 0.2, 0.5, 0.3 respectively. Find the mean and variance of X."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the mean and variance of a Binomial distribution with parameters n = 5, p = 0.4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Write the formula for the probability mass function of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the mean and variance of a uniform distribution on [a, b]."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the mean and variance of a uniform distribution on [a, b]."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the mean and variance of a Binomial distribution with parameters n = 5, p = 0.4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "If X is uniformly distributed over [0, 10], find E(X)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the mean and variance of a uniform distribution on [a, b]."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "If X is uniformly distributed over [0, 10], find E(X)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the mean and variance of a uniform distribution on [a, b]."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the mean and variance of a uniform distribution on [a, b]."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "State and prove that mean of a Poisson distribution is equal to its variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "If X is uniformly distributed over [0, 10], find E(X)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Write the formula for the probability mass function of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "A coin is tossed 4 times. Find the probability distribution of number of heads obtained."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the mean and variance of a uniform distribution on [a, b]."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Write the formula for the probability mass function of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the mean and variance of a Binomial distribution with parameters n = 5, p = 0.4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Write the formula for the probability mass function of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "If X has a Binomial distribution with n = 10 and p = 0.5, find P(X = 4)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the mean and variance of a Binomial distribution with parameters n = 5, p = 0.4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Write the formula for the probability mass function of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "State and prove that mean of a Poisson distribution is equal to its variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the mean and variance of a Binomial distribution with parameters n = 5, p = 0.4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "If X has a Binomial distribution with n = 10 and p = 0.5, find P(X = 4)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the probability that a Poisson-distributed random variable with mean 2 takes value 0."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the probability that a Poisson-distributed random variable with mean 2 takes value 0."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "A fair die is rolled. Define the random variable and its probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "A random variable X takes values 1, 2, 3 with probabilities 0.2, 0.5, 0.3 respectively. Find the mean and variance of X."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "A fair die is rolled. Define the random variable and its probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "A random variable X takes values 1, 2, 3 with probabilities 0.2, 0.5, 0.3 respectively. Find the mean and variance of X."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "A coin is tossed 4 times. Find the probability distribution of number of heads obtained."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the probability that a Poisson-distributed random variable with mean 2 takes value 0."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the mean and variance of a uniform distribution on [a, b]."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Write the formula for the probability mass function of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "A coin is tossed 4 times. Find the probability distribution of number of heads obtained."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "A random variable X takes values 1, 2, 3 with probabilities 0.2, 0.5, 0.3 respectively. Find the mean and variance of X."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the probability that a Poisson-distributed random variable with mean 2 takes value 0."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "If X is uniformly distributed over [0, 10], find E(X)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "A fair die is rolled. Define the random variable and its probability distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the probability that a Poisson-distributed random variable with mean 2 takes value 0."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "A random variable X takes values 1, 2, 3 with probabilities 0.2, 0.5, 0.3 respectively. Find the mean and variance of X."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the probability that a Poisson-distributed random variable with mean 2 takes value 0."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "If X is uniformly distributed over [0, 10], find E(X)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "A coin is tossed 4 times. Find the probability distribution of number of heads obtained."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Write the formula for the probability mass function of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "If X has a Binomial distribution with n = 10 and p = 0.5, find P(X = 4)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the probability that a Poisson-distributed random variable with mean 2 takes value 0."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the probability that a Poisson-distributed random variable with mean 2 takes value 0."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the mean and variance of a Binomial distribution with parameters n = 5, p = 0.4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the mean and variance of a uniform distribution on [a, b]."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "If X has a Binomial distribution with n = 10 and p = 0.5, find P(X = 4)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the mean and variance of a Binomial distribution with parameters n = 5, p = 0.4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "A random variable X takes values 1, 2, 3 with probabilities 0.2, 0.5, 0.3 respectively. Find the mean and variance of X."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Write the formula for the probability mass function of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "A random variable X takes values 1, 2, 3 with probabilities 0.2, 0.5, 0.3 respectively. Find the mean and variance of X."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Write the formula for the probability mass function of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the mean and variance of a Binomial distribution with parameters n = 5, p = 0.4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Write the formula for the probability mass function of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "A coin is tossed 4 times. Find the probability distribution of number of heads obtained."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "State and prove that mean of a Poisson distribution is equal to its variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the mean and variance of a Binomial distribution with parameters n = 5, p = 0.4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "State and prove that mean of a Poisson distribution is equal to its variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the mean and variance of a Binomial distribution with parameters n = 5, p = 0.4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "A coin is tossed 4 times. Find the probability distribution of number of heads obtained."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the probability that a Poisson-distributed random variable with mean 2 takes value 0."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Show that for a Binomial distribution B(n, p), variance = npq."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Show that for a Binomial distribution B(n, p), variance = npq."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the mean and variance for a random variable X having p(x) = kx, x = 1, 2, 3, 4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "For a Binomial distribution, derive moment-generating function (MGF) and hence find mean and variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "For a Binomial distribution, derive moment-generating function (MGF) and hence find mean and variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "If X follows Binomial distribution with n = 6 and p = 0.5, find the probability of getting at most 4 successes."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X follows Binomial distribution with n = 6 and p = 0.5, find the probability of getting at most 4 successes."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X follows Binomial distribution with n = 6 and p = 0.5, find the probability of getting at most 4 successes."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that Poisson distribution is a limiting case of the Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of a Poisson distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "If X follows Binomial distribution with n = 6 and p = 0.5, find the probability of getting at most 4 successes."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "If X ~ N(10, 2²), find P(8 < X < 12)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that Poisson distribution is a limiting case of the Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "For a continuous random variable X with p(x) = 3x², 0 ≤ x ≤ 1, find E(X) and Var(X)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the mean and variance for a random variable X having p(x) = kx, x = 1, 2, 3, 4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "For a continuous random variable X with p(x) = 3x², 0 ≤ x ≤ 1, find E(X) and Var(X)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ N(10, 2²), find P(8 < X < 12)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "For a Binomial distribution, derive moment-generating function (MGF) and hence find mean and variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Show that for a Binomial distribution B(n, p), variance = npq."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of a Poisson distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ N(10, 2²), find P(8 < X < 12)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "If X ~ N(10, 2²), find P(8 < X < 12)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that Poisson distribution is a limiting case of the Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "If X ~ N(10, 2²), find P(8 < X < 12)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of a Normal distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "If X follows Binomial distribution with n = 6 and p = 0.5, find the probability of getting at most 4 successes."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X follows Binomial distribution with n = 6 and p = 0.5, find the probability of getting at most 4 successes."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "For a Binomial distribution, derive moment-generating function (MGF) and hence find mean and variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the mean and variance for a random variable X having p(x) = kx, x = 1, 2, 3, 4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "For a continuous random variable X with p(x) = 3x², 0 ≤ x ≤ 1, find E(X) and Var(X)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of a Poisson distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that Poisson distribution is a limiting case of the Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Show that for a Binomial distribution B(n, p), variance = npq."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ N(10, 2²), find P(8 < X < 12)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Show that for a Binomial distribution B(n, p), variance = npq."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Show that for a Binomial distribution B(n, p), variance = npq."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "For a Binomial distribution, derive moment-generating function (MGF) and hence find mean and variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "For a continuous random variable X with p(x) = 3x², 0 ≤ x ≤ 1, find E(X) and Var(X)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that Poisson distribution is a limiting case of the Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "For a continuous random variable X with p(x) = 3x², 0 ≤ x ≤ 1, find E(X) and Var(X)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ N(10, 2²), find P(8 < X < 12)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the mean and variance for a random variable X having p(x) = kx, x = 1, 2, 3, 4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Show that for a Binomial distribution B(n, p), variance = npq."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "For a continuous random variable X with p(x) = 3x², 0 ≤ x ≤ 1, find E(X) and Var(X)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of a Normal distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ N(10, 2²), find P(8 < X < 12)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "For a Binomial distribution, derive moment-generating function (MGF) and hence find mean and variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "For a continuous random variable X with p(x) = 3x², 0 ≤ x ≤ 1, find E(X) and Var(X)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the mean and variance of a Poisson distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the mean and variance for a random variable X having p(x) = kx, x = 1, 2, 3, 4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of a Normal distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "For a continuous random variable X with p(x) = 3x², 0 ≤ x ≤ 1, find E(X) and Var(X)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the mean and variance of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "For a continuous random variable X with p(x) = 3x², 0 ≤ x ≤ 1, find E(X) and Var(X)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the mean and variance of a Normal distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ N(10, 2²), find P(8 < X < 12)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the mean and variance of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ N(10, 2²), find P(8 < X < 12)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X follows Binomial distribution with n = 6 and p = 0.5, find the probability of getting at most 4 successes."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ N(10, 2²), find P(8 < X < 12)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of a Poisson distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the mean and variance of a Poisson distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "For a Binomial distribution, derive moment-generating function (MGF) and hence find mean and variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the mean and variance of a Poisson distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the mean and variance of a Poisson distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that Poisson distribution is a limiting case of the Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "For a Binomial distribution, derive moment-generating function (MGF) and hence find mean and variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "For a continuous random variable X with p(x) = 3x², 0 ≤ x ≤ 1, find E(X) and Var(X)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ N(10, 2²), find P(8 < X < 12)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "For a Binomial distribution, derive moment-generating function (MGF) and hence find mean and variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the mean and variance for a random variable X having p(x) = kx, x = 1, 2, 3, 4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the mean and variance of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the mean and variance of a Poisson distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Show that for a Binomial distribution B(n, p), variance = npq."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the mean and variance for a random variable X having p(x) = kx, x = 1, 2, 3, 4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of a Normal distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "For a continuous random variable X with p(x) = 3x², 0 ≤ x ≤ 1, find E(X) and Var(X)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "For a Binomial distribution, derive moment-generating function (MGF) and hence find mean and variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the mean and variance for a random variable X having p(x) = kx, x = 1, 2, 3, 4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ N(10, 2²), find P(8 < X < 12)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Show that for a Binomial distribution B(n, p), variance = npq."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "For a Binomial distribution, derive moment-generating function (MGF) and hence find mean and variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Show that for a Binomial distribution B(n, p), variance = npq."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "For a continuous random variable X with p(x) = 3x², 0 ≤ x ≤ 1, find E(X) and Var(X)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the mean and variance of a Normal distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of a Normal distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the mean and variance of a Normal distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "For a Binomial distribution, derive moment-generating function (MGF) and hence find mean and variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "For a Binomial distribution, derive moment-generating function (MGF) and hence find mean and variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ N(10, 2²), find P(8 < X < 12)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the mean and variance for a random variable X having p(x) = kx, x = 1, 2, 3, 4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the mean and variance for a random variable X having p(x) = kx, x = 1, 2, 3, 4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ N(10, 2²), find P(8 < X < 12)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "For a Binomial distribution, derive moment-generating function (MGF) and hence find mean and variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that Poisson distribution is a limiting case of the Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "For a Binomial distribution, derive moment-generating function (MGF) and hence find mean and variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of a Poisson distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "For a Binomial distribution, derive moment-generating function (MGF) and hence find mean and variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the mean and variance of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the mean and variance for a random variable X having p(x) = kx, x = 1, 2, 3, 4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of a Normal distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "If X ~ N(10, 2²), find P(8 < X < 12)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the mean and variance of a Normal distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that Poisson distribution is a limiting case of the Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "If X ~ N(10, 2²), find P(8 < X < 12)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ N(10, 2²), find P(8 < X < 12)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X follows Binomial distribution with n = 6 and p = 0.5, find the probability of getting at most 4 successes."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the mean and variance of a Poisson distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X follows Binomial distribution with n = 6 and p = 0.5, find the probability of getting at most 4 successes."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ N(10, 2²), find P(8 < X < 12)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that Poisson distribution is a limiting case of the Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "For a continuous random variable X with p(x) = 3x², 0 ≤ x ≤ 1, find E(X) and Var(X)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of a Poisson distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X follows Binomial distribution with n = 6 and p = 0.5, find the probability of getting at most 4 successes."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that Poisson distribution is a limiting case of the Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the mean and variance of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "For a continuous random variable X with p(x) = 3x², 0 ≤ x ≤ 1, find E(X) and Var(X)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "If X follows Binomial distribution with n = 6 and p = 0.5, find the probability of getting at most 4 successes."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "If X ~ N(10, 2²), find P(8 < X < 12)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "For a continuous random variable X with p(x) = 3x², 0 ≤ x ≤ 1, find E(X) and Var(X)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the mean and variance for a random variable X having p(x) = kx, x = 1, 2, 3, 4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "If X ~ N(10, 2²), find P(8 < X < 12)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "For a Binomial distribution, derive moment-generating function (MGF) and hence find mean and variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of a Normal distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the mean and variance of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of a Poisson distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of a Poisson distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the mean and variance of a Poisson distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of a Normal distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the mean and variance for a random variable X having p(x) = kx, x = 1, 2, 3, 4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the mean and variance for a random variable X having p(x) = kx, x = 1, 2, 3, 4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "If X ~ N(10, 2²), find P(8 < X < 12)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Show that for a Binomial distribution B(n, p), variance = npq."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of a Normal distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "For a Binomial distribution, derive moment-generating function (MGF) and hence find mean and variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the mean and variance of a Normal distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the mean and variance for a random variable X having p(x) = kx, x = 1, 2, 3, 4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that Poisson distribution is a limiting case of the Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "For a continuous random variable X with p(x) = 3x², 0 ≤ x ≤ 1, find E(X) and Var(X)."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the mean and variance of a Binomial distribution."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the mean and variance for a random variable X having p(x) = kx, x = 1, 2, 3, 4."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "For a Binomial distribution, derive moment-generating function (MGF) and hence find mean and variance."
+  },
+  {
+    "chapter_no": 7,
+    "chapter_title": "Probability Distributions",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "If X ~ N(10, 2²), find P(8 < X < 12)."
+  }
+]

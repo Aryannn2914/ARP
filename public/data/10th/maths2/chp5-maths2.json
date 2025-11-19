@@ -1,0 +1,1802 @@
+[
+  {
+    "question": "Height=38 m, angle of depression=45 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Height=10 m, angle of depression=45 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Height=30 m, angle of depression=60 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Height=28 m, angle of depression=30 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In right triangle, opposite=18, adjacent=15, hypotenuse=23.43. Find sin(theta), cos(theta), tan(theta).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Shadow length=18 m, angle of elevation=45 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Height=36 m, angle of depression=60 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In right triangle, opposite=9, adjacent=17, hypotenuse=19.24. Find sin(theta), cos(theta), tan(theta).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Ladder length=10 m, angle=45 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In right triangle, opposite=13, adjacent=14, hypotenuse=19.1. Find sin(theta), cos(theta), tan(theta).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Ladder length=23 m, angle=30 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Height=38 m, angle of depression=60 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Ladder length=28 m, angle=45 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Height=17 m, angle of depression=60 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Shadow length=14 m, angle of elevation=30 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Opposite side=19 cm, angle=60 degrees. Find hypotenuse using hyp = opp/sin(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In right triangle, opposite=11, adjacent=3, hypotenuse=11.4. Find sin(theta), cos(theta), tan(theta).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In right triangle, opposite=15, adjacent=5, hypotenuse=15.81. Find sin(theta), cos(theta), tan(theta).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Height=10 m, angle of depression=60 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Opposite side=17 cm, angle=30 degrees. Find hypotenuse using hyp = opp/sin(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Height=40 m, angle of depression=30 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Shadow length=14 m, angle of elevation=60 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Ladder length=16 m, angle=60 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Height=36 m, angle of depression=45 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Shadow length=11 m, angle of elevation=45 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Shadow length=31 m, angle of elevation=45 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Shadow length=32 m, angle of elevation=45 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Ladder length=19 m, angle=30 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Shadow length=18 m, angle of elevation=30 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In right triangle, opposite=7, adjacent=4, hypotenuse=8.06. Find sin(theta), cos(theta), tan(theta).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Height=27 m, angle of depression=60 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Height=31 m, angle of depression=30 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Shadow length=30 m, angle of elevation=60 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Height=40 m, angle of depression=45 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A pole of height 21 m is seen at angles 45 and 45 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Roof support angle=45 degrees, vertical rise=8 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Ladder length=19 m, angle=60 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Height=5 m, angle of depression=60 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Roof support angle=30 degrees, vertical rise=10 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Opposite side=21 cm, angle=45 degrees. Find hypotenuse using hyp = opp/sin(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Height=33 m, angle of depression=60 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Shadow length=28 m, angle of elevation=30 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Shadow length=32 m, angle of elevation=30 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Height=10 m, angle of depression=30 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A pole of height 17 m is seen at angles 45 and 60 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Roof support angle=30 degrees, vertical rise=7 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Ladder length=14 m, angle=45 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Roof support angle=45 degrees, vertical rise=14 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A pole of height 28 m is seen at angles 45 and 30 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Height=26 m, angle of depression=45 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Opposite side=30 cm, angle=45 degrees. Find hypotenuse using hyp = opp/sin(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Height=34 m, angle of depression=60 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Height=21 m, angle of depression=30 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Shadow length=19 m, angle of elevation=60 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Roof support angle=45 degrees, vertical rise=9 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A pole of height 17 m is seen at angles 30 and 30 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Shadow length=40 m, angle of elevation=45 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Roof support angle=45 degrees, vertical rise=19 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Height=13 m, angle of depression=30 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Ladder length=12 m, angle=45 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Ladder length=20 m, angle=45 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Roof support angle=60 degrees, vertical rise=11 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A pole of height 19 m is seen at angles 45 and 45 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Ladder length=22 m, angle=30 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Ladder length=7 m, angle=45 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Opposite side=14 cm, angle=30 degrees. Find hypotenuse using hyp = opp/sin(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A pole of height 43 m is seen at angles 30 and 60 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Height=8 m, angle of depression=45 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 20 m is seen at angles 30 and 60 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Height=29 m, angle of depression=60 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Height=26 m, angle of depression=60 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 46 m is seen at angles 30 and 60 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Shadow length=22 m, angle of elevation=30 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 14 m is seen at angles 45 and 45 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Height=22 m, angle of depression=60 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Height=14 m, angle of depression=30 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Roof support angle=30 degrees, vertical rise=11 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Shadow length=9 m, angle of elevation=30 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Ladder length=11 m, angle=60 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Roof support angle=45 degrees, vertical rise=17 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 47 m is seen at angles 45 and 60 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Height=8 m, angle of depression=60 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Height=25 m, angle of depression=45 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 29 m is seen at angles 45 and 60 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Shadow length=35 m, angle of elevation=45 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 50 m is seen at angles 30 and 30 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Ladder length=24 m, angle=60 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Roof support angle=45 degrees, vertical rise=12 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Ladder length=24 m, angle=45 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 34 m is seen at angles 45 and 30 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 14 m is seen at angles 45 and 30 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Shadow length=16 m, angle of elevation=45 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 38 m is seen at angles 45 and 60 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 39 m is seen at angles 45 and 45 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Height=12 m, angle of depression=45 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Ladder length=7 m, angle=60 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 45 m is seen at angles 45 and 30 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Height=18 m, angle of depression=30 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Height=15 m, angle of depression=30 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Height=18 m, angle of depression=60 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Ladder length=30 m, angle=30 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In right triangle, opposite=19, adjacent=11, hypotenuse=21.95. Find sin(theta), cos(theta), tan(theta).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Opposite side=9 cm, angle=30 degrees. Find hypotenuse using hyp = opp/sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In right triangle, opposite=4, adjacent=3, hypotenuse=5.0. Find sin(theta), cos(theta), tan(theta).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Opposite side=30 cm, angle=30 degrees. Find hypotenuse using hyp = opp/sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Opposite side=7 cm, angle=45 degrees. Find hypotenuse using hyp = opp/sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Shadow length=5 m, angle of elevation=45 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Shadow length=34 m, angle of elevation=60 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Height=5 m, angle of depression=30 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Shadow length=15 m, angle of elevation=30 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Opposite side=23 cm, angle=30 degrees. Find hypotenuse using hyp = opp/sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Opposite side=11 cm, angle=60 degrees. Find hypotenuse using hyp = opp/sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Shadow length=23 m, angle of elevation=45 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In right triangle, opposite=16, adjacent=14, hypotenuse=21.26. Find sin(theta), cos(theta), tan(theta).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In right triangle, opposite=8, adjacent=6, hypotenuse=10.0. Find sin(theta), cos(theta), tan(theta).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In right triangle, opposite=3, adjacent=20, hypotenuse=20.22. Find sin(theta), cos(theta), tan(theta).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Shadow length=39 m, angle of elevation=30 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In right triangle, opposite=8, adjacent=14, hypotenuse=16.12. Find sin(theta), cos(theta), tan(theta).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In right triangle, opposite=12, adjacent=16, hypotenuse=20.0. Find sin(theta), cos(theta), tan(theta).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In right triangle, opposite=10, adjacent=7, hypotenuse=12.21. Find sin(theta), cos(theta), tan(theta).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Shadow length=33 m, angle of elevation=30 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Shadow length=30 m, angle of elevation=30 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Ladder length=10 m, angle=30 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Shadow length=38 m, angle of elevation=30 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Shadow length=28 m, angle of elevation=45 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Opposite side=6 cm, angle=30 degrees. Find hypotenuse using hyp = opp/sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Shadow length=6 m, angle of elevation=30 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Opposite side=28 cm, angle=30 degrees. Find hypotenuse using hyp = opp/sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In right triangle, opposite=6, adjacent=19, hypotenuse=19.92. Find sin(theta), cos(theta), tan(theta).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Height=27 m, angle of depression=45 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Shadow length=8 m, angle of elevation=60 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Height=12 m, angle of depression=30 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Opposite side=5 cm, angle=30 degrees. Find hypotenuse using hyp = opp/sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Height=9 m, angle of depression=45 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Height=31 m, angle of depression=60 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Height=20 m, angle of depression=30 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A pole of height 34 m is seen at angles 30 and 30 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Ladder length=26 m, angle=30 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Height=34 m, angle of depression=45 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Roof support angle=60 degrees, vertical rise=15 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Roof support angle=60 degrees, vertical rise=14 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Height=37 m, angle of depression=45 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Shadow length=23 m, angle of elevation=60 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Roof support angle=60 degrees, vertical rise=13 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Roof support angle=30 degrees, vertical rise=14 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Opposite side=26 cm, angle=30 degrees. Find hypotenuse using hyp = opp/sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Shadow length=35 m, angle of elevation=60 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Shadow length=13 m, angle of elevation=30 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Opposite side=27 cm, angle=60 degrees. Find hypotenuse using hyp = opp/sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Ladder length=26 m, angle=45 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Ladder length=12 m, angle=30 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Height=30 m, angle of depression=30 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Roof support angle=45 degrees, vertical rise=11 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Shadow length=37 m, angle of elevation=30 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Height=24 m, angle of depression=45 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Roof support angle=60 degrees, vertical rise=8 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Height=20 m, angle of depression=45 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Roof support angle=45 degrees, vertical rise=13 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Ladder length=6 m, angle=60 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A pole of height 29 m is seen at angles 30 and 45 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Ladder length=15 m, angle=60 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Opposite side=30 cm, angle=60 degrees. Find hypotenuse using hyp = opp/sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A pole of height 49 m is seen at angles 45 and 45 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Roof support angle=45 degrees, vertical rise=4 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A pole of height 26 m is seen at angles 45 and 45 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Roof support angle=30 degrees, vertical rise=9 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A pole of height 20 m is seen at angles 30 and 30 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Shadow length=22 m, angle of elevation=45 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 48 m is seen at angles 30 and 45 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 16 m is seen at angles 30 and 30 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Roof support angle=30 degrees, vertical rise=17 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Roof support angle=60 degrees, vertical rise=4 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Roof support angle=30 degrees, vertical rise=13 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 50 m is seen at angles 45 and 30 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Shadow length=16 m, angle of elevation=30 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Ladder length=28 m, angle=60 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Ladder length=17 m, angle=60 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 14 m is seen at angles 30 and 60 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Roof support angle=60 degrees, vertical rise=5 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Ladder length=30 m, angle=45 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Height=11 m, angle of depression=30 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Height=13 m, angle of depression=60 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Ladder length=17 m, angle=45 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Roof support angle=60 degrees, vertical rise=17 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Height=11 m, angle of depression=60 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Ladder length=29 m, angle=60 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Ladder length=5 m, angle=60 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 10 m is seen at angles 45 and 30 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Ladder length=21 m, angle=30 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 32 m is seen at angles 45 and 30 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Roof support angle=60 degrees, vertical rise=7 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 30 m is seen at angles 30 and 60 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Ladder length=16 m, angle=45 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Height=28 m, angle of depression=45 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Height=11 m, angle of depression=45 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Shadow length=24 m, angle of elevation=60 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 43 m is seen at angles 45 and 30 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Roof support angle=30 degrees, vertical rise=16 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Ladder length=7 m, angle=30 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Roof support angle=45 degrees, vertical rise=7 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Shadow length=7 m, angle of elevation=60 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Shadow length=10 m, angle of elevation=60 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Shadow length=30 m, angle of elevation=45 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In right triangle, opposite=19, adjacent=17, hypotenuse=25.5. Find sin(theta), cos(theta), tan(theta).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Ladder length=30 m, angle=60 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Shadow length=22 m, angle of elevation=60 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Opposite side=29 cm, angle=30 degrees. Find hypotenuse using hyp = opp/sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Height=27 m, angle of depression=30 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Height=35 m, angle of depression=45 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Shadow length=9 m, angle of elevation=60 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Ladder length=29 m, angle=30 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Height=29 m, angle of depression=30 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Opposite side=9 cm, angle=45 degrees. Find hypotenuse using hyp = opp/sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In right triangle, opposite=10, adjacent=20, hypotenuse=22.36. Find sin(theta), cos(theta), tan(theta).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In right triangle, opposite=4, adjacent=5, hypotenuse=6.4. Find sin(theta), cos(theta), tan(theta).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Opposite side=12 cm, angle=30 degrees. Find hypotenuse using hyp = opp/sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Ladder length=27 m, angle=45 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Ladder length=5 m, angle=30 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Opposite side=8 cm, angle=45 degrees. Find hypotenuse using hyp = opp/sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In right triangle, opposite=5, adjacent=18, hypotenuse=18.68. Find sin(theta), cos(theta), tan(theta).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In right triangle, opposite=6, adjacent=17, hypotenuse=18.03. Find sin(theta), cos(theta), tan(theta).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Opposite side=14 cm, angle=45 degrees. Find hypotenuse using hyp = opp/sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Ladder length=13 m, angle=45 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In right triangle, opposite=19, adjacent=4, hypotenuse=19.42. Find sin(theta), cos(theta), tan(theta).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Opposite side=7 cm, angle=30 degrees. Find hypotenuse using hyp = opp/sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Opposite side=22 cm, angle=45 degrees. Find hypotenuse using hyp = opp/sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Height=14 m, angle of depression=60 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Opposite side=8 cm, angle=30 degrees. Find hypotenuse using hyp = opp/sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Shadow length=25 m, angle of elevation=60 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In right triangle, opposite=20, adjacent=13, hypotenuse=23.85. Find sin(theta), cos(theta), tan(theta).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Shadow length=21 m, angle of elevation=45 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Opposite side=18 cm, angle=45 degrees. Find hypotenuse using hyp = opp/sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Height=19 m, angle of depression=30 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Ladder length=17 m, angle=30 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Ladder length=23 m, angle=60 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Shadow length=12 m, angle of elevation=45 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Ladder length=26 m, angle=60 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Shadow length=38 m, angle of elevation=60 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Roof support angle=30 degrees, vertical rise=19 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A pole of height 43 m is seen at angles 30 and 45 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Ladder length=11 m, angle=45 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A pole of height 18 m is seen at angles 45 and 60 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Roof support angle=45 degrees, vertical rise=20 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A pole of height 23 m is seen at angles 45 and 60 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A pole of height 21 m is seen at angles 30 and 30 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Height=38 m, angle of depression=30 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A pole of height 42 m is seen at angles 45 and 45 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Shadow length=27 m, angle of elevation=45 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A pole of height 42 m is seen at angles 45 and 60 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Height=25 m, angle of depression=60 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Roof support angle=60 degrees, vertical rise=19 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Height=6 m, angle of depression=30 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A pole of height 36 m is seen at angles 30 and 30 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Shadow length=29 m, angle of elevation=45 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Opposite side=11 cm, angle=45 degrees. Find hypotenuse using hyp = opp/sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Shadow length=36 m, angle of elevation=30 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A pole of height 14 m is seen at angles 30 and 30 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Height=25 m, angle of depression=30 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Ladder length=21 m, angle=60 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Ladder length=8 m, angle=60 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A pole of height 10 m is seen at angles 45 and 60 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Opposite side=20 cm, angle=60 degrees. Find hypotenuse using hyp = opp/sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A pole of height 28 m is seen at angles 30 and 30 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A pole of height 30 m is seen at angles 30 and 30 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Roof support angle=60 degrees, vertical rise=10 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Ladder length=29 m, angle=45 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Height=30 m, angle of depression=45 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Roof support angle=60 degrees, vertical rise=12 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Shadow length=13 m, angle of elevation=45 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Shadow length=39 m, angle of elevation=60 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 35 m is seen at angles 30 and 30 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Roof support angle=45 degrees, vertical rise=5 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Height=15 m, angle of depression=45 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Roof support angle=45 degrees, vertical rise=16 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Shadow length=8 m, angle of elevation=30 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 29 m is seen at angles 45 and 45 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 11 m is seen at angles 45 and 60 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Shadow length=24 m, angle of elevation=45 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 35 m is seen at angles 45 and 45 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 39 m is seen at angles 45 and 60 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 41 m is seen at angles 30 and 30 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Roof support angle=60 degrees, vertical rise=6 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Ladder length=20 m, angle=60 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 23 m is seen at angles 45 and 30 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 43 m is seen at angles 45 and 60 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Ladder length=23 m, angle=45 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 26 m is seen at angles 30 and 60 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Roof support angle=30 degrees, vertical rise=8 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Ladder length=9 m, angle=30 degrees with ground. Find height reached = length * sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Shadow length=37 m, angle of elevation=45 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Roof support angle=30 degrees, vertical rise=6 m. Find beam length = height / sin(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Shadow length=5 m, angle of elevation=60 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 19 m is seen at angles 30 and 30 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Shadow length=37 m, angle of elevation=60 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 44 m is seen at angles 45 and 30 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 37 m is seen at angles 45 and 30 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 46 m is seen at angles 45 and 30 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A pole of height 37 m is seen at angles 45 and 45 degrees from two points on same line. Setup two tan equations to find distances.",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Shadow length=21 m, angle of elevation=30 degrees. Find height = shadow * tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Height=31 m, angle of depression=45 degrees. Find horizontal distance = height / tan(angle).",
+    "chapter_no": 5,
+    "marks": 5,
+    "difficulty": "Hard"
+  }
+]

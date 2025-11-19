@@ -1,0 +1,1802 @@
+[
+  {
+    "question":"In A.P. with first term a = -2, common difference d = 3, find the 15th term (an).",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=21 for an A.P. with a = 18, d = 9.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"For A.P. a=7, d=5, find a23 and S23.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In A.P. with first term a = 17, common difference d = -2, find the 19th term (an).",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=24 for an A.P. with a = 3, d = 9.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"For A.P. a=11, d=7, find a6 and S6.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In A.P. with first term a = 2, common difference d = 0, find the 17th term (an).",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=20 for an A.P. with a = 16, d = 3.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"For A.P. a=9, d=5, find a24 and S24.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In A.P. with first term a = -9, common difference d = 8, find the 20th term (an).",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=21 for an A.P. with a = 14, d = 5.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"For A.P. a=7, d=5, find a14 and S14.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In A.P. with first term a = 1, common difference d = 4, find the 20th term (an).",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=14 for an A.P. with a = 9, d = 9.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"For A.P. a=11, d=6, find a14 and S14.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In A.P. with first term a = -10, common difference d = -5, find the 12th term (an).",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=25 for an A.P. with a = 19, d = 1.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"For A.P. a=3, d=4, find a17 and S17.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In A.P. with first term a = -9, common difference d = 5, find the 17th term (an).",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=28 for an A.P. with a = 2, d = 10.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"For A.P. a=6, d=1, find a12 and S12.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In A.P. with first term a = 3, common difference d = 10, find the 13th term (an).",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=21 for an A.P. with a = 8, d = 1.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"For A.P. a=2, d=7, find a19 and S19.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In A.P. with first term a = -6, common difference d = 2, find the 8th term (an).",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=18 for an A.P. with a = 2, d = 10.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"For A.P. a=8, d=1, find a11 and S11.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In A.P. with first term a = 17, common difference d = -4, find the 16th term (an).",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=8 for an A.P. with a = 17, d = 3.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"For A.P. a=6, d=4, find a9 and S9.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In A.P. with first term a = 11, common difference d = 8, find the 19th term (an).",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=25 for an A.P. with a = 20, d = 5.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"For A.P. a=10, d=6, find a18 and S18.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In an A.P., a3 = 3 and a10 = 24. Find d and a.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 10, d = 3, the term value 46 occurs at which position n?",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"The sum of first 25 natural numbers in an A.P.-like pattern with a=2, d=5. Compute S25.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = -1 and a10 = 41. Find d and a.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 9, d = 5, the term value 129 occurs at which position n?",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"The sum of first 28 natural numbers in an A.P.-like pattern with a=10, d=2. Compute S28.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = 20 and a10 = 55. Find d and a.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 8, d = 4, the term value 56 occurs at which position n?",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"The sum of first 26 natural numbers in an A.P.-like pattern with a=4, d=6. Compute S26.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = -18 and a10 = -11. Find d and a.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 1, d = 5, the term value 66 occurs at which position n?",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"The sum of first 23 natural numbers in an A.P.-like pattern with a=1, d=5. Compute S23.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = -18 and a10 = -4. Find d and a.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 8, d = 9, the term value 125 occurs at which position n?",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"The sum of first 12 natural numbers in an A.P.-like pattern with a=2, d=6. Compute S12.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = -10 and a10 = 18. Find d and a.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 12, d = 8, the term value 172 occurs at which position n?",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"The sum of first 21 natural numbers in an A.P.-like pattern with a=4, d=3. Compute S21.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = 1 and a10 = 57. Find d and a.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 5, d = 2, the term value 21 occurs at which position n?",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"The sum of first 24 natural numbers in an A.P.-like pattern with a=10, d=2. Compute S24.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = 8 and a10 = 57. Find d and a.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 9, d = 7, the term value 72 occurs at which position n?",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"The sum of first 21 natural numbers in an A.P.-like pattern with a=3, d=6. Compute S21.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = 18 and a10 = 60. Find d and a.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 10, d = 9, the term value 100 occurs at which position n?",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"The sum of first 23 natural numbers in an A.P.-like pattern with a=6, d=5. Compute S23.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = -14 and a10 = 42. Find d and a.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 11, d = 2, the term value 55 occurs at which position n?",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"The sum of first 12 natural numbers in an A.P.-like pattern with a=7, d=5. Compute S12.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = 16 and a10 = 72. Find d and a.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 15, d = 5, the term value 40 occurs at which position n?",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"The sum of first 12 natural numbers in an A.P.-like pattern with a=5, d=2. Compute S12.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Insert 7 arithmetic means between 20 and 25. Find the sequence.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 255 and S20 = 961. Find a and d.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_5 + a_4 = a_8 + a_3 for an A.P. with a=12, d=6 (show with formula).",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 2 arithmetic means between 11 and 43. Find the sequence.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 265 and S20 = 916. Find a and d.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_6 + a_7 = a_9 + a_4 for an A.P. with a=10, d=5 (show with formula).",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 5 arithmetic means between 11 and 34. Find the sequence.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 473 and S20 = 1201. Find a and d.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_5 + a_5 = a_5 + a_3 for an A.P. with a=4, d=2 (show with formula).",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 5 arithmetic means between 13 and 57. Find the sequence.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 199 and S20 = 976. Find a and d.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_7 + a_4 = a_7 + a_2 for an A.P. with a=6, d=7 (show with formula).",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 8 arithmetic means between 3 and 49. Find the sequence.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 244 and S20 = 466. Find a and d.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_7 + a_4 = a_9 + a_1 for an A.P. with a=4, d=1 (show with formula).",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 6 arithmetic means between 14 and 24. Find the sequence.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 379 and S20 = 891. Find a and d.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_5 + a_3 = a_9 + a_6 for an A.P. with a=9, d=2 (show with formula).",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 2 arithmetic means between 4 and 40. Find the sequence.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 113 and S20 = 460. Find a and d.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_4 + a_8 = a_8 + a_4 for an A.P. with a=2, d=7 (show with formula).",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 8 arithmetic means between 17 and 41. Find the sequence.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 335 and S20 = 938. Find a and d.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_5 + a_8 = a_7 + a_4 for an A.P. with a=6, d=6 (show with formula).",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 8 arithmetic means between 16 and 54. Find the sequence.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 469 and S20 = 743. Find a and d.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_6 + a_8 = a_10 + a_1 for an A.P. with a=12, d=1 (show with formula).",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 5 arithmetic means between 13 and 25. Find the sequence.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 377 and S20 = 601. Find a and d.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_8 + a_3 = a_6 + a_4 for an A.P. with a=9, d=6 (show with formula).",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 3 arithmetic means between 14 and 29. Find the sequence.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 479 and S20 = 845. Find a and d.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_8 + a_4 = a_10 + a_2 for an A.P. with a=11, d=7 (show with formula).",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 6 arithmetic means between 13 and 47. Find the sequence.",
+    "chapter_no":3,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In A.P. with first term a = -1, common difference d = 3, find the 6th term (an).",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=28 for an A.P. with a = 16, d = 5.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In A.P. with first term a = -7, common difference d = 4, find the 9th term (an).",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=29 for an A.P. with a = 6, d = 1.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In A.P. with first term a = 4, common difference d = -5, find the 20th term (an).",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=8 for an A.P. with a = 2, d = 6.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In A.P. with first term a = -4, common difference d = 0, find the 16th term (an).",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=12 for an A.P. with a = 7, d = 10.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In A.P. with first term a = 9, common difference d = 10, find the 12th term (an).",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=13 for an A.P. with a = 15, d = 3.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In A.P. with first term a = 2, common difference d = 0, find the 14th term (an).",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=20 for an A.P. with a = 18, d = 9.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In A.P. with first term a = 17, common difference d = 3, find the 20th term (an).",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=26 for an A.P. with a = 13, d = 6.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In A.P. with first term a = 7, common difference d = -3, find the 20th term (an).",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=6 for an A.P. with a = 8, d = 7.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In A.P. with first term a = -4, common difference d = -1, find the 17th term (an).",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=29 for an A.P. with a = 17, d = 9.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In A.P. with first term a = -2, common difference d = -4, find the 12th term (an).",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=16 for an A.P. with a = 1, d = 8.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In A.P. with first term a = 4, common difference d = 2, find the 18th term (an).",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=18 for an A.P. with a = 20, d = 3.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In A.P. with first term a = -5, common difference d = 5, find the 9th term (an).",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=9 for an A.P. with a = 9, d = 9.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In A.P. with first term a = 10, common difference d = 3, find the 6th term (an).",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=29 for an A.P. with a = 5, d = 10.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In A.P. with first term a = -5, common difference d = -5, find the 11th term (an).",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=7 for an A.P. with a = 5, d = 3.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In A.P. with first term a = 1, common difference d = 3, find the 8th term (an).",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=7 for an A.P. with a = 16, d = 8.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In A.P. with first term a = 20, common difference d = 4, find the 5th term (an).",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=11 for an A.P. with a = 7, d = 7.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In A.P. with first term a = 19, common difference d = -3, find the 19th term (an).",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In an A.P., a3 = -7 and a10 = 0. Find d and a.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 18, d = 7, the term value 165 occurs at which position n?",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = 11 and a10 = 32. Find d and a.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 10, d = 6, the term value 94 occurs at which position n?",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = 5 and a10 = 19. Find d and a.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 18, d = 5, the term value 113 occurs at which position n?",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = 22 and a10 = 36. Find d and a.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 12, d = 2, the term value 30 occurs at which position n?",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = -14 and a10 = 35. Find d and a.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 15, d = 2, the term value 65 occurs at which position n?",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = 8 and a10 = 15. Find d and a.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 13, d = 8, the term value 109 occurs at which position n?",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = -2 and a10 = 12. Find d and a.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 15, d = 1, the term value 26 occurs at which position n?",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = 19 and a10 = 40. Find d and a.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 10, d = 7, the term value 164 occurs at which position n?",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = 27 and a10 = 62. Find d and a.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 11, d = 7, the term value 165 occurs at which position n?",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = 22 and a10 = 36. Find d and a. (variant 151)",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 9, d = 4, the term value 53 occurs at which position n?",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = 4 and a10 = 18. Find d and a.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 11, d = 5, the term value 76 occurs at which position n?",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = 16 and a10 = 72. Find d and a. (variant 155)",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 11, d = 8, the term value 147 occurs at which position n?",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = -15 and a10 = -1. Find d and a.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 5, d = 10, the term value 85 occurs at which position n?",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = -12 and a10 = 9. Find d and a.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 6, d = 4, the term value 74 occurs at which position n?",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = -18 and a10 = 38. Find d and a.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 19, d = 2, the term value 35 occurs at which position n?",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = -6 and a10 = 1. Find d and a.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 6, d = 2, the term value 42 occurs at which position n?",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = 6 and a10 = 20. Find d and a.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Insert 6 arithmetic means between 11 and 47. Find the sequence.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 171 and S20 = 581. Find a and d.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_6 + a_5 = a_11 + a_5 for an A.P. with a=3, d=7 (show with formula).",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 6 arithmetic means between 1 and 45. Find the sequence.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 458 and S20 = 983. Find a and d.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_5 + a_5 = a_8 + a_3 for an A.P. with a=4, d=1 (show with formula).",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 2 arithmetic means between 10 and 48. Find the sequence.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 385 and S20 = 971. Find a and d.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_5 + a_3 = a_7 + a_3 for an A.P. with a=4, d=6 (show with formula).",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 6 arithmetic means between 18 and 39. Find the sequence.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 219 and S20 = 780. Find a and d.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_7 + a_8 = a_8 + a_5 for an A.P. with a=10, d=3 (show with formula).",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 2 arithmetic means between 7 and 56. Find the sequence.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 421 and S20 = 823. Find a and d.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_4 + a_6 = a_11 + a_6 for an A.P. with a=2, d=3 (show with formula).",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 2 arithmetic means between 11 and 41. Find the sequence.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 284 and S20 = 756. Find a and d.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_6 + a_8 = a_7 + a_2 for an A.P. with a=8, d=2 (show with formula).",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 6 arithmetic means between 19 and 54. Find the sequence.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 387 and S20 = 652. Find a and d.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_4 + a_8 = a_10 + a_5 for an A.P. with a=9, d=5 (show with formula).",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 8 arithmetic means between 5 and 27. Find the sequence.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 101 and S20 = 596. Find a and d.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_4 + a_7 = a_10 + a_2 for an A.P. with a=11, d=6 (show with formula).",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 6 arithmetic means between 6 and 58. Find the sequence.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 139 and S20 = 804. Find a and d.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_4 + a_8 = a_7 + a_3 for an A.P. with a=1, d=7 (show with formula).",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 6 arithmetic means between 13 and 59. Find the sequence.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 427 and S20 = 643. Find a and d.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_6 + a_6 = a_5 + a_2 for an A.P. with a=3, d=4 (show with formula).",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 2 arithmetic means between 17 and 44. Find the sequence.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 391 and S20 = 1006. Find a and d.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_7 + a_4 = a_9 + a_2 for an A.P. with a=3, d=6 (show with formula).",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 2 arithmetic means between 19 and 41. Find the sequence.",
+    "chapter_no":3,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"For A.P. a=11, d=7, find a6 and S6. (variant 200)",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=20 for an A.P. with a = 5, d = 7.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"For A.P. a=10, d=1, find a20 and S20.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=24 for an A.P. with a = 12, d = 7.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"For A.P. a=15, d=6, find a23 and S23.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=20 for an A.P. with a = 14, d = 5.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"For A.P. a=15, d=4, find a18 and S18.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=23 for an A.P. with a = 14, d = 2.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"For A.P. a=2, d=5, find a15 and S15.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=18 for an A.P. with a = 17, d = 9.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"For A.P. a=7, d=1, find a15 and S15.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=28 for an A.P. with a = 2, d = 5.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"For A.P. a=10, d=4, find a17 and S17.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=29 for an A.P. with a = 20, d = 6.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"For A.P. a=13, d=3, find a23 and S23.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=8 for an A.P. with a = 3, d = 4.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"For A.P. a=14, d=4, find a12 and S12.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=6 for an A.P. with a = 17, d = 7.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"For A.P. a=8, d=6, find a8 and S8.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=22 for an A.P. with a = 17, d = 4.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"For A.P. a=5, d=6, find a17 and S17.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=28 for an A.P. with a = 8, d = 2.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"For A.P. a=14, d=6, find a16 and S16.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=23 for an A.P. with a = 18, d = 7.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"For A.P. a=13, d=2, find a12 and S12.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=8 for an A.P. with a = 14, d = 10.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"For A.P. a=15, d=1, find a8 and S8.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=8 for an A.P. with a = 17, d = 3. (variant 227)",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"For A.P. a=15, d=5, find a23 and S23.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=14 for an A.P. with a = 15, d = 1.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"For A.P. a=4, d=6, find a14 and S14.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find S_n (sum of first n terms) for n=10 for an A.P. with a = 1, d = 6.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"For A.P. a=2, d=4, find a19 and S19.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In an A.P., a3 = 13 and a10 = 62. Find d and a.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 5, d = 6, the term value 143 occurs at which position n?",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"The sum of first 17 natural numbers in an A.P.-like pattern with a=1, d=3. Compute S17.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = -19 and a10 = 37. Find d and a.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 11, d = 5, the term value 86 occurs at which position n?",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"The sum of first 25 natural numbers in an A.P.-like pattern with a=3, d=4. Compute S25.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = -7 and a10 = 21. Find d and a.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 10, d = 1, the term value 21 occurs at which position n?",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"The sum of first 20 natural numbers in an A.P.-like pattern with a=6, d=4. Compute S20.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = -19 and a10 = 2. Find d and a.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 18, d = 4, the term value 106 occurs at which position n?",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"The sum of first 30 natural numbers in an A.P.-like pattern with a=4, d=2. Compute S30.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = -17 and a10 = -3. Find d and a.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 10, d = 6, the term value 88 occurs at which position n?",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"The sum of first 23 natural numbers in an A.P.-like pattern with a=3, d=3. Compute S23.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = 24 and a10 = 80. Find d and a.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 14, d = 2, the term value 34 occurs at which position n?",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"The sum of first 17 natural numbers in an A.P.-like pattern with a=5, d=1. Compute S17.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = 25 and a10 = 53. Find d and a.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 9, d = 3, the term value 45 occurs at which position n?",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"The sum of first 26 natural numbers in an A.P.-like pattern with a=5, d=3. Compute S26.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = 3 and a10 = 17. Find d and a.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 19, d = 9, the term value 127 occurs at which position n?",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"The sum of first 19 natural numbers in an A.P.-like pattern with a=3, d=6. Compute S19.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = -6 and a10 = 29. Find d and a.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 5, d = 2, the term value 43 occurs at which position n?",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"The sum of first 12 natural numbers in an A.P.-like pattern with a=8, d=5. Compute S12.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = -16 and a10 = -9. Find d and a.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 1, d = 10, the term value 231 occurs at which position n?",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"The sum of first 19 natural numbers in an A.P.-like pattern with a=9, d=3. Compute S19.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P., a3 = 7 and a10 = 21. Find d and a.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In an A.P. with a = 6, d = 5, the term value 61 occurs at which position n?",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"The sum of first 17 natural numbers in an A.P.-like pattern with a=3, d=3. Compute S17.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Insert 3 arithmetic means between 18 and 21. Find the sequence.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 177 and S20 = 411. Find a and d.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_7 + a_6 = a_5 + a_4 for an A.P. with a=10, d=8 (show with formula).",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 2 arithmetic means between 2 and 31. Find the sequence.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 384 and S20 = 952. Find a and d.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_3 + a_7 = a_9 + a_5 for an A.P. with a=6, d=8 (show with formula).",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 3 arithmetic means between 17 and 54. Find the sequence.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 404 and S20 = 773. Find a and d.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_4 + a_8 = a_12 + a_5 for an A.P. with a=2, d=7 (show with formula).",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 4 arithmetic means between 9 and 35. Find the sequence.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 350 and S20 = 1107. Find a and d.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_5 + a_3 = a_8 + a_5 for an A.P. with a=4, d=8 (show with formula).",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 5 arithmetic means between 2 and 56. Find the sequence.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 192 and S20 = 724. Find a and d.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_7 + a_6 = a_11 + a_5 for an A.P. with a=3, d=1 (show with formula).",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 8 arithmetic means between 15 and 36. Find the sequence.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 115 and S20 = 389. Find a and d.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_7 + a_8 = a_8 + a_5 for an A.P. with a=2, d=3 (show with formula).",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 4 arithmetic means between 5 and 23. Find the sequence.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 317 and S20 = 560. Find a and d.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_7 + a_8 = a_9 + a_5 for an A.P. with a=12, d=6 (show with formula).",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 7 arithmetic means between 16 and 25. Find the sequence.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 361 and S20 = 736. Find a and d.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_4 + a_4 = a_12 + a_6 for an A.P. with a=7, d=5 (show with formula).",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 2 arithmetic means between 20 and 49. Find the sequence.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 261 and S20 = 881. Find a and d.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_8 + a_4 = a_5 + a_2 for an A.P. with a=8, d=6 (show with formula).",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 3 arithmetic means between 16 and 58. Find the sequence.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 174 and S20 = 840. Find a and d.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_3 + a_4 = a_11 + a_5 for an A.P. with a=9, d=1 (show with formula).",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 5 arithmetic means between 5 and 25. Find the sequence.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In an A.P., S10 = 384 and S20 = 889. Find a and d.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Prove that a_3 + a_3 = a_8 + a_3 for an A.P. with a=8, d=7 (show with formula).",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Insert 6 arithmetic means between 9 and 27. Find the sequence.",
+    "chapter_no":3,
+    "marks":5,
+    "difficulty":"Hard"
+  }
+]

@@ -1,0 +1,1802 @@
+[
+  {
+    "question":"Create a table of midpoints for classes [(0, 8), (8, 16), (16, 24), (24, 32), (32, 40)] and Sum of (frequency \u00d7 midpoint).",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert category values [15, 26, 25, 10] for ['A', 'B', 'C', 'D'] into pie-chart angles. (angle = (value \/ total) * 360).",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert frequencies [2, 2, 5, 6, 4] into relative frequencies (proportions) and percentages.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find the median of the data: [2, 8, 9, 10, 12, 22, 33].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find the mode of the data: [2, 2, 4, 4, 4, 6, 8].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Compute the range of the data: [10, 17, 31, 45, 50, 53, 67, 76].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Check if class widths are equal for classes [(0, 10), (10, 20), (20, 30), (30, 40)]. Why is equal width helpful in histograms?",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find the mode of the data: [3, 3, 5, 5, 5, 6, 7].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert frequencies [3, 4, 1, 6, 4] into relative frequencies (proportions) and percentages.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert category values [15, 29, 15, 39] for ['A', 'B', 'C', 'D'] into pie-chart angles. (angle = (value \/ total) * 360).",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert category values [25, 18, 39, 12] for ['A', 'B', 'C', 'D'] into pie-chart angles. (angle = (value \/ total) * 360).",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find the median of the data: [15, 15, 25, 28, 30, 31, 32].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find the median of the data: [15, 16, 27, 27, 29, 35, 40].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Check if class widths are equal for classes [(0, 10), (5, 10), (10, 20), (15, 20)]. Why is equal width helpful in histograms?",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find the mean of the data: [19, 15, 20, 8, 10, 15].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert frequencies [2, 4, 3, 2, 2] into relative frequencies (proportions) and percentages.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert frequencies [3, 6, 3, 1, 5] into relative frequencies (proportions) and percentages.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find the mean of the data: [7, 3, 18, 16, 6, 8].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Compute the range of the data: [23, 28, 36, 50, 51, 57, 68, 68].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find the mean of the data: [11, 10, 9, 13, 5, 7].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find the median of the data: [2, 5, 7, 10, 24, 29, 37].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Compute the range of the data: [27, 31, 34, 61, 66, 78, 81, 82].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert frequencies [1, 1, 2, 3, 5] into relative frequencies (proportions) and percentages.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert category values [34, 14, 10, 35] for ['A', 'B', 'C', 'D'] into pie-chart angles. (angle = (value \/ total) * 360).",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert frequencies [1, 3, 4, 5, 4] into relative frequencies (proportions) and percentages.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert category values [26, 40, 31, 36] for ['A', 'B', 'C', 'D'] into pie-chart angles. (angle = (value \/ total) * 360).",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Compute the range of the data: [17, 20, 32, 37, 45, 48, 67, 68].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find the median of the data: [1, 9, 15, 16, 21, 37, 40].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert frequencies [1, 4, 4, 2, 6] into relative frequencies (proportions) and percentages.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert category values [26, 11, 28, 24] for ['A', 'B', 'C', 'D'] into pie-chart angles. (angle = (value \/ total) * 360).",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert frequencies [1, 1, 2, 4, 2] into relative frequencies (proportions) and percentages.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert category values [40, 18, 18, 16] for ['A', 'B', 'C', 'D'] into pie-chart angles. (angle = (value \/ total) * 360).",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find the mean of the data: [10, 10, 9, 13, 16, 16].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Grouped data classes [(0, 10), (10, 20), (20, 30), (30, 40)] with frequencies [8, 10, 8, 10]. Find the mean using midpoints.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"When is a histogram preferred over a bar chart? Mention class intervals and continuity (short answer).",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Identify the modal class from classes [(0, 5), (5, 10), (10, 15), (15, 20), (20, 25)] with frequencies [5, 13, 4, 13, 13]. Explain briefly.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given frequencies [7, 9, 5, 6, 3, 9], build the cumulative frequency (less than type) and state the median position.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Grouped data classes [(0, 10), (10, 20), (20, 30), (30, 40)] with frequencies [7, 4, 9, 4]. Find the mean using midpoints.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Identify the modal class from classes [(0, 5), (5, 10), (10, 15), (15, 20), (20, 25)] with frequencies [7, 11, 5, 12, 13]. Explain briefly.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Identify the modal class from classes [(0, 5), (5, 10), (10, 15), (15, 20), (20, 25)] with frequencies [4, 4, 5, 7, 11]. Explain briefly.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given frequencies [8, 3, 8, 9, 3, 7], build the cumulative frequency (less than type) and state the median position.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"If each observation in a data set is increased by 5, how do mean and median change? What about the range?",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Find median class and approximate median for classes [(0, 10), (10, 20), (20, 30), (30, 40), (40, 50)] with frequencies [12, 4, 7, 7, 11].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Compute weighted mean for values [81, 68, 45, 60] with weights [3, 1, 5, 2].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Compute the 10% trimmed mean for the data: [10, 23, 29, 34, 37, 41, 43, 53, 55, 56, 68, 85] (remove smallest and largest 1 values).",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Identify the modal class from classes [(0, 5), (5, 10), (10, 15), (15, 20), (20, 25)] with frequencies [10, 10, 14, 5, 8]. Explain briefly.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Make a basic stem-and-leaf display for: [12, 12, 21, 23, 26, 39, 51, 55, 68, 68, 80, 88] (state stems and leaves).",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"How is a frequency polygon constructed from a histogram or directly from class midpoints?",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Compute the 10% trimmed mean for the data: [13, 24, 38, 39, 43, 53, 54, 64, 68, 68, 88, 90] (remove smallest and largest 1 values).",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given frequencies [6, 6, 6, 9, 9, 5], build the cumulative frequency (less than type) and state the median position.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"What is the P90 percentile? How is it interpreted in a data set?",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Find median class and approximate median for classes [(0, 10), (10, 20), (20, 30), (30, 40), (40, 50)] with frequencies [8, 5, 6, 11, 10].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"What is the P75 percentile? How is it interpreted in a data set?",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Make a basic stem-and-leaf display for: [18, 24, 28, 40, 46, 56, 57, 64, 67, 74, 87, 87] (state stems and leaves).",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Find median class and approximate median for classes [(0, 10), (10, 20), (20, 30), (30, 40), (40, 50)] with frequencies [5, 8, 4, 8, 12].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given frequencies [8, 8, 5, 5, 7, 6], build the cumulative frequency (less than type) and state the median position.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Compute weighted mean for values [78, 66, 22, 16] with weights [4, 1, 1, 5].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Grouped data classes [(0, 10), (10, 20), (20, 30), (30, 40)] with frequencies [10, 6, 8, 6]. Find the mean using midpoints.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Identify the modal class from classes [(0, 5), (5, 10), (10, 15), (15, 20), (20, 25)] with frequencies [9, 4, 6, 3, 5]. Explain briefly.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given frequencies [7, 5, 8, 7, 3, 5], build the cumulative frequency (less than type) and state the median position.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Compute weighted mean for values [74, 63, 17, 23] with weights [2, 5, 3, 3].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given frequencies [5, 8, 9, 3, 3, 5], build the cumulative frequency (less than type) and state the median position.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Identify the modal class from classes [(0, 5), (5, 10), (10, 15), (15, 20), (20, 25)] with frequencies [11, 8, 9, 5, 8]. Explain briefly.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Grouped data classes [(0, 10), (10, 20), (20, 30), (30, 40)] with frequencies [4, 9, 6, 6]. Find the mean using midpoints.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given frequencies [3, 6, 8, 8, 3, 4], build the cumulative frequency (less than type) and state the median position.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Make a basic stem-and-leaf display for: [16, 17, 20, 33, 62, 63, 73, 81, 84, 86, 93, 98] (state stems and leaves).",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"For classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [10, 9, None, 10] (one missing). If total frequency is 34, find the missing frequency.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute weighted mean for values [79, 53, 44, 25] with weights [3, 5, 2, 3].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"State a simple empirical idea: in many bell-shaped distributions, most data lies within a few standard deviations of the mean. (Concept only)",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A frequency polygon peaks at class 30\u00e2\u0080\u009340 and is lowest at 0\u00e2\u0080\u009310. What does this suggest about the distribution?",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute weighted mean for values [60, 14, 93, 68] with weights [3, 5, 5, 1].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"For classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [4, 4, None, 4] (one missing). If total frequency is 17, find the missing frequency.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Using coding (u = (x - 15)\/10), estimate the mean for classes [(0, 10), (10, 20), (20, 30), (30, 40), (40, 50), (50, 60)] with frequencies [5, 8, 7, 5, 10, 11].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"What is an ogive (cumulative frequency curve)? How can it be used to estimate the median?",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"For classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [7, 9, None, 10] (one missing). If total frequency is 37, find the missing frequency.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [8, None, 10, 5] (one missing). If the mean is 19, find the missing frequency.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A distribution is left-skewed. Compare mean, median, and mode qualitatively (which is largest\/smallest).",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute weighted mean for values [76, 52, 78, 38] with weights [2, 1, 3, 5].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"For classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [4, 4, None, 5] (one missing). If total frequency is 22, find the missing frequency.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Using coding (u = (x - 25)\/10), estimate the mean for classes [(0, 10), (10, 20), (20, 30), (30, 40), (40, 50), (50, 60)] with frequencies [6, 11, 11, 8, 4, 6].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [7, None, 9, 12] (one missing). If the mean is 19, find the missing frequency.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"For classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [6, 10, None, 5] (one missing). If total frequency is 31, find the missing frequency.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute weighted mean for values [93, 12, 44, 68] with weights [3, 5, 4, 4].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [10, None, 6, 12] (one missing). If the mean is 23, find the missing frequency.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [6, None, 5, 7] (one missing). If the mean is 24, find the missing frequency.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute the 10% trimmed mean for the data: [15, 16, 18, 18, 23, 30, 33, 51, 52, 55, 70, 82] (remove smallest and largest 1 values).",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute weighted mean for values [86, 23, 46, 15] with weights [1, 3, 3, 2].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute the 10% trimmed mean for the data: [17, 38, 43, 49, 50, 61, 73, 83, 86, 98, 98, 99] (remove smallest and largest 1 values).",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Using coding (u = (x - 25)\/10), estimate the mean for classes [(0, 10), (10, 20), (20, 30), (30, 40), (40, 50), (50, 60)] with frequencies [12, 11, 12, 5, 8, 9].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Using coding (u = (x - 25)\/10), estimate the mean for classes [(0, 10), (10, 20), (20, 30), (30, 40), (40, 50), (50, 60)] with frequencies [5, 4, 5, 7, 12, 5].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"For classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [4, 8, None, 9] (one missing). If total frequency is 26, find the missing frequency.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute weighted mean for values [10, 29, 13, 28] with weights [5, 1, 2, 3].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Using coding (u = (x - 25)\/10), estimate the mean for classes [(0, 10), (10, 20), (20, 30), (30, 40), (40, 50), (50, 60)] with frequencies [11, 4, 10, 7, 4, 10].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute weighted mean for values [42, 46, 75, 51] with weights [4, 5, 5, 2].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [8, None, 10, 5] (one missing). If the mean is 21, find the missing frequency.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute weighted mean for values [40, 89, 28, 70] with weights [1, 4, 5, 2].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute the 20% trimmed mean for the data: [17, 19, 21, 28, 29, 35, 36, 51, 51, 74, 79, 82] (remove smallest and largest 2 values).",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Using coding (u = (x - 15)\/10), estimate the mean for classes [(0, 10), (10, 20), (20, 30), (30, 40), (40, 50), (50, 60)] with frequencies [7, 7, 4, 5, 7, 6].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute weighted mean for values [19, 56, 21, 24] with weights [3, 1, 1, 2].",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"For classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [4, 9, None, 10] (one missing). If total frequency is 28, find the missing frequency.",
+    "chapter_no":6,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Convert category values [29, 10, 12, 39] for ['A', 'B', 'C', 'D'] into pie-chart angles. (angle = (value \/ total) * 360).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Compute the range of the data: [12, 25, 60, 63, 76, 78, 88, 89].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Check if class widths are equal for classes [(0, 5), (10, 20), (20, 25), (30, 40)]. Why is equal width helpful in histograms?",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Check if class widths are equal for classes [(0, 10), (10, 15), (20, 30), (30, 40)]. Why is equal width helpful in histograms?",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find the median of the data: [5, 30, 30, 35, 35, 39, 39].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find the mean of the data: [2, 7, 2, 20, 14, 7].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Check if class widths are equal for classes [(0, 10), (10, 15), (20, 25), (30, 35)]. Why is equal width helpful in histograms?",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find the median of the data: [2, 11, 20, 21, 27, 31, 35].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Compute the range of the data: [15, 32, 39, 41, 55, 60, 84, 85].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Check if class widths are equal for classes [(0, 5), (10, 20), (20, 25), (30, 35)]. Why is equal width helpful in histograms?",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert category values [39, 19, 18, 25] for ['A', 'B', 'C', 'D'] into pie-chart angles. (angle = (value \/ total) * 360).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert category values [28, 36, 38, 30] for ['A', 'B', 'C', 'D'] into pie-chart angles. (angle = (value \/ total) * 360).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Compute the range of the data: [21, 38, 52, 53, 59, 76, 86, 88].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert category values [24, 21, 25, 27] for ['A', 'B', 'C', 'D'] into pie-chart angles. (angle = (value \/ total) * 360).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert frequencies [6, 4, 5, 1, 4] into relative frequencies (proportions) and percentages.",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find the mean of the data: [5, 18, 13, 20, 13, 19].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert category values [29, 24, 26, 35] for ['A', 'B', 'C', 'D'] into pie-chart angles. (angle = (value \/ total) * 360).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Check if class widths are equal for classes [(0, 5), (5, 15), (10, 20), (15, 20)]. Why is equal width helpful in histograms?",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find the median of the data: [3, 5, 17, 17, 17, 18, 28].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Check if class widths are equal for classes [(0, 5), (10, 15), (20, 30), (30, 40)]. Why is equal width helpful in histograms?",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Compute the range of the data: [13, 15, 52, 57, 60, 60, 78, 87].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find the median of the data: [5, 5, 11, 23, 28, 32, 39].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Compute the range of the data: [19, 22, 34, 42, 43, 76, 88, 90].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert category values [39, 36, 20, 22] for ['A', 'B', 'C', 'D'] into pie-chart angles. (angle = (value \/ total) * 360).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find the mean of the data: [5, 18, 17, 19, 15, 7].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find the median of the data: [3, 16, 16, 25, 28, 28, 28].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Compute the range of the data: [17, 32, 48, 59, 70, 71, 72, 83].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find the mean of the data: [6, 7, 15, 19, 14, 3].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Check if class widths are equal for classes [(0, 5), (5, 15), (10, 15), (15, 25)]. Why is equal width helpful in histograms?",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find the median of the data: [6, 7, 9, 10, 15, 20, 39].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find the mean of the data: [16, 8, 11, 16, 14, 7].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert frequencies [6, 3, 4, 3, 1] into relative frequencies (proportions) and percentages.",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert category values [23, 36, 22, 15] for ['A', 'B', 'C', 'D'] into pie-chart angles. (angle = (value \/ total) * 360).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Make a basic stem-and-leaf display for: [14, 24, 25, 34, 37, 39, 50, 63, 63, 73, 83, 97] (state stems and leaves).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Compute weighted mean for values [70, 18, 23, 87] with weights [5, 5, 4, 1].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Compute weighted mean for values [22, 95, 32, 37] with weights [2, 2, 5, 1].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Identify the modal class from classes [(0, 5), (5, 10), (10, 15), (15, 20), (20, 25)] with frequencies [11, 8, 12, 11, 10]. Explain briefly.",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Compute weighted mean for values [62, 77, 27, 28] with weights [3, 4, 1, 2].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Compute weighted mean for values [91, 70, 82, 89] with weights [4, 2, 1, 2].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Identify the modal class from classes [(0, 5), (5, 10), (10, 15), (15, 20), (20, 25)] with frequencies [5, 5, 14, 4, 13]. Explain briefly.",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"What is the P25 percentile? How is it interpreted in a data set?",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Make a basic stem-and-leaf display for: [11, 12, 22, 32, 36, 41, 42, 48, 53, 55, 59, 68] (state stems and leaves).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Compute the 20% trimmed mean for the data: [14, 18, 22, 44, 53, 63, 66, 73, 77, 80, 82, 98] (remove smallest and largest 2 values).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Identify the modal class from classes [(0, 5), (5, 10), (10, 15), (15, 20), (20, 25)] with frequencies [4, 5, 14, 13, 4]. Explain briefly.",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Compute the 10% trimmed mean for the data: [14, 14, 21, 28, 32, 47, 48, 50, 64, 71, 76, 84] (remove smallest and largest 1 values).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Compute weighted mean for values [67, 41, 29, 37] with weights [3, 4, 1, 5].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"What is the P50 percentile? How is it interpreted in a data set?",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Compute weighted mean for values [67, 88, 67, 69] with weights [4, 4, 2, 3].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Grouped data classes [(0, 10), (10, 20), (20, 30), (30, 40)] with frequencies [8, 4, 9, 6]. Find the mean using midpoints.",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Make a basic stem-and-leaf display for: [25, 31, 34, 39, 42, 47, 48, 54, 74, 82, 87, 91] (state stems and leaves).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Compute the 10% trimmed mean for the data: [11, 23, 24, 35, 43, 48, 55, 59, 73, 86, 96, 99] (remove smallest and largest 1 values).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Compute weighted mean for values [87, 54, 10, 27] with weights [4, 4, 1, 1].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Compute weighted mean for values [41, 33, 73, 68] with weights [3, 4, 3, 5].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Compute the 10% trimmed mean for the data: [10, 29, 30, 32, 37, 43, 50, 55, 62, 73, 92, 94] (remove smallest and largest 1 values).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Find median class and approximate median for classes [(0, 10), (10, 20), (20, 30), (30, 40), (40, 50)] with frequencies [12, 9, 9, 12, 8].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Compute weighted mean for values [61, 47, 21, 30] with weights [4, 2, 2, 4].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Find median class and approximate median for classes [(0, 10), (10, 20), (20, 30), (30, 40), (40, 50)] with frequencies [6, 7, 5, 9, 9].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given frequencies [6, 6, 3, 7, 9, 4], build the cumulative frequency (less than type) and state the median position.",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Compute the 20% trimmed mean for the data: [28, 40, 52, 60, 62, 64, 65, 72, 76, 76, 83, 94] (remove smallest and largest 2 values).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Grouped data classes [(0, 10), (10, 20), (20, 30), (30, 40)] with frequencies [6, 7, 8, 3]. Find the mean using midpoints.",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given frequencies [6, 3, 8, 8, 5, 7], build the cumulative frequency (less than type) and state the median position.",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Compute the 20% trimmed mean for the data: [11, 28, 39, 45, 52, 56, 56, 60, 65, 79, 87, 97] (remove smallest and largest 2 values).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Compute the 10% trimmed mean for the data: [12, 15, 16, 17, 20, 20, 38, 45, 49, 50, 57, 58] (remove smallest and largest 1 values).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Grouped data classes [(0, 10), (10, 20), (20, 30), (30, 40)] with frequencies [10, 3, 9, 9]. Find the mean using midpoints.",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Compute the 10% trimmed mean for the data: [21, 21, 33, 46, 57, 58, 66, 72, 87, 88, 90, 91] (remove smallest and largest 1 values).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given frequencies [3, 6, 8, 3, 5, 7], build the cumulative frequency (less than type) and state the median position.",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Using coding (u = (x - 35)\/10), estimate the mean for classes [(0, 10), (10, 20), (20, 30), (30, 40), (40, 50), (50, 60)] with frequencies [8, 10, 6, 6, 11, 6].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute weighted mean for values [33, 64, 17, 40] with weights [3, 4, 4, 5].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute the 10% trimmed mean for the data: [10, 26, 32, 37, 41, 55, 59, 60, 68, 71, 76, 80] (remove smallest and largest 1 values).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute weighted mean for values [17, 30, 48, 52] with weights [2, 5, 4, 4].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute the 20% trimmed mean for the data: [11, 23, 33, 36, 36, 43, 44, 50, 55, 76, 90, 91] (remove smallest and largest 2 values).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A distribution is right-skewed. Compare mean, median, and mode qualitatively (which is largest\/smallest).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute weighted mean for values [33, 90, 82, 58] with weights [4, 3, 3, 2].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [5, None, 5, 7] (one missing). If the mean is 19, find the missing frequency.",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Using coding (u = (x - 15)\/10), estimate the mean for classes [(0, 10), (10, 20), (20, 30), (30, 40), (40, 50), (50, 60)] with frequencies [10, 9, 11, 8, 10, 9].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute weighted mean for values [78, 83, 42, 92] with weights [5, 1, 4, 1].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute the 10% trimmed mean for the data: [28, 29, 31, 40, 56, 57, 59, 59, 79, 82, 91, 96] (remove smallest and largest 1 values).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Using coding (u = (x - 35)\/10), estimate the mean for classes [(0, 10), (10, 20), (20, 30), (30, 40), (40, 50), (50, 60)] with frequencies [6, 7, 5, 11, 8, 8].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute the 20% trimmed mean for the data: [19, 22, 25, 30, 32, 42, 56, 62, 66, 74, 85, 88] (remove smallest and largest 2 values).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute the 10% trimmed mean for the data: [13, 18, 27, 32, 34, 47, 48, 50, 86, 90, 94, 97] (remove smallest and largest 1 values).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Using coding (u = (x - 15)\/10), estimate the mean for classes [(0, 10), (10, 20), (20, 30), (30, 40), (40, 50), (50, 60)] with frequencies [7, 11, 10, 11, 11, 6].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"For classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [5, 7, None, 7] (one missing). If total frequency is 24, find the missing frequency.",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [9, None, 9, 6] (one missing). If the mean is 15, find the missing frequency.",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute the 20% trimmed mean for the data: [10, 13, 22, 34, 42, 45, 51, 61, 79, 90, 95, 96] (remove smallest and largest 2 values).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute the 20% trimmed mean for the data: [19, 25, 32, 41, 53, 57, 62, 78, 89, 94, 96, 99] (remove smallest and largest 2 values).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"For classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [10, 4, None, 7] (one missing). If total frequency is 30, find the missing frequency.",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [9, None, 10, 10] (one missing). If the mean is 15, find the missing frequency.",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Using coding (u = (x - 35)\/10), estimate the mean for classes [(0, 10), (10, 20), (20, 30), (30, 40), (40, 50), (50, 60)] with frequencies [11, 11, 5, 8, 10, 6].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute the 20% trimmed mean for the data: [13, 26, 29, 34, 45, 47, 72, 72, 76, 78, 85, 88] (remove smallest and largest 2 values).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute the 20% trimmed mean for the data: [10, 16, 43, 47, 49, 60, 66, 69, 69, 84, 88, 90] (remove smallest and largest 2 values).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute weighted mean for values [79, 66, 12, 35] with weights [2, 3, 2, 5].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute the 10% trimmed mean for the data: [19, 22, 26, 30, 48, 48, 54, 63, 70, 74, 75, 91] (remove smallest and largest 1 values).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute weighted mean for values [22, 64, 12, 80] with weights [3, 5, 3, 5].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute the 10% trimmed mean for the data: [16, 22, 26, 37, 50, 50, 52, 53, 56, 63, 77, 86] (remove smallest and largest 1 values).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute the 20% trimmed mean for the data: [39, 42, 43, 46, 56, 68, 72, 73, 80, 81, 89, 97] (remove smallest and largest 2 values).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute weighted mean for values [43, 65, 66, 52] with weights [1, 4, 4, 2].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute the 10% trimmed mean for the data: [10, 22, 23, 29, 29, 33, 36, 40, 49, 68, 84, 99] (remove smallest and largest 1 values).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute the 10% trimmed mean for the data: [15, 20, 22, 31, 38, 41, 49, 62, 81, 91, 94, 99] (remove smallest and largest 1 values).",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Using coding (u = (x - 15)\/10), estimate the mean for classes [(0, 10), (10, 20), (20, 30), (30, 40), (40, 50), (50, 60)] with frequencies [4, 7, 6, 10, 8, 6].",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [11, None, 11, 11] (one missing). If the mean is 15, find the missing frequency.",
+    "chapter_no":6,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Find the mean of the data: [12, 16, 5, 5, 12, 12].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert frequencies [4, 2, 1, 1, 1] into relative frequencies (proportions) and percentages.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Compute the range of the data: [16, 17, 17, 25, 35, 48, 66, 87].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert frequencies [5, 3, 1, 1, 4] into relative frequencies (proportions) and percentages.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find the median of the data: [1, 10, 21, 25, 26, 38, 39].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find the median of the data: [1, 24, 30, 31, 36, 36, 38].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find the median of the data: [1, 12, 13, 16, 26, 26, 32].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Compute the range of the data: [16, 23, 27, 37, 55, 67, 80, 86].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Check if class widths are equal for classes [(0, 10), (5, 15), (10, 15), (15, 25)]. Why is equal width helpful in histograms?",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Compute the range of the data: [13, 26, 29, 46, 48, 67, 73, 83].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Compute the range of the data: [17, 20, 28, 35, 38, 59, 83, 86].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert category values [25, 39, 16, 26] for ['A', 'B', 'C', 'D'] into pie-chart angles. (angle = (value \/ total) * 360).",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert category values [22, 10, 36, 11] for ['A', 'B', 'C', 'D'] into pie-chart angles. (angle = (value \/ total) * 360).",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert category values [18, 40, 27, 11] for ['A', 'B', 'C', 'D'] into pie-chart angles. (angle = (value \/ total) * 360).",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Compute the range of the data: [11, 12, 57, 59, 71, 79, 84, 86].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find the median of the data: [5, 25, 27, 31, 33, 33, 39].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert frequencies [6, 3, 1, 3, 1] into relative frequencies (proportions) and percentages.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert category values [28, 12, 33, 39] for ['A', 'B', 'C', 'D'] into pie-chart angles. (angle = (value \/ total) * 360).",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert frequencies [3, 3, 5, 2, 2] into relative frequencies (proportions) and percentages.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert category values [36, 10, 39, 30] for ['A', 'B', 'C', 'D'] into pie-chart angles. (angle = (value \/ total) * 360).",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert frequencies [3, 5, 2, 3, 3] into relative frequencies (proportions) and percentages.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Compute the range of the data: [12, 17, 21, 44, 46, 63, 65, 85].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Check if class widths are equal for classes [(0, 5), (5, 10), (10, 15), (15, 20)]. Why is equal width helpful in histograms?",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find the median of the data: [5, 5, 6, 6, 12, 26, 32].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert category values [31, 13, 32, 16] for ['A', 'B', 'C', 'D'] into pie-chart angles. (angle = (value \/ total) * 360).",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert category values [20, 12, 32, 14] for ['A', 'B', 'C', 'D'] into pie-chart angles. (angle = (value \/ total) * 360).",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Check if class widths are equal for classes [(0, 10), (10, 20), (20, 25), (30, 40)]. Why is equal width helpful in histograms?",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Check if class widths are equal for classes [(0, 10), (5, 15), (10, 20), (15, 25)]. Why is equal width helpful in histograms?",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find the median of the data: [5, 10, 14, 27, 29, 31, 38].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find the mean of the data: [13, 16, 15, 6, 4, 9].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Compute the range of the data: [12, 16, 28, 53, 63, 68, 69, 88].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Convert frequencies [1, 5, 2, 3, 2] into relative frequencies (proportions) and percentages.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Compute the range of the data: [33, 37, 53, 56, 61, 78, 82, 85].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Given frequencies [9, 8, 8, 4, 4, 6], build the cumulative frequency (less than type) and state the median position.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Compute the 20% trimmed mean for the data: [12, 13, 16, 20, 29, 29, 34, 49, 68, 72, 87, 91] (remove smallest and largest 2 values).",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Grouped data classes [(0, 10), (10, 20), (20, 30), (30, 40)] with frequencies [6, 7, 6, 6]. Find the mean using midpoints.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Grouped data classes [(0, 10), (10, 20), (20, 30), (30, 40)] with frequencies [8, 8, 6, 6]. Find the mean using midpoints.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Grouped data classes [(0, 10), (10, 20), (20, 30), (30, 40)] with frequencies [8, 7, 4, 3]. Find the mean using midpoints.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Grouped data classes [(0, 10), (10, 20), (20, 30), (30, 40)] with frequencies [5, 10, 7, 6]. Find the mean using midpoints.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Make a basic stem-and-leaf display for: [23, 26, 34, 37, 40, 43, 43, 65, 80, 85, 85, 90] (state stems and leaves).",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Compute weighted mean for values [37, 67, 24, 70] with weights [4, 4, 5, 2].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Identify the modal class from classes [(0, 5), (5, 10), (10, 15), (15, 20), (20, 25)] with frequencies [3, 12, 8, 4, 10]. Explain briefly.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Make a basic stem-and-leaf display for: [12, 21, 21, 45, 58, 60, 60, 63, 63, 64, 71, 80] (state stems and leaves).",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Grouped data classes [(0, 10), (10, 20), (20, 30), (30, 40)] with frequencies [7, 4, 3, 4]. Find the mean using midpoints.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Compute weighted mean for values [94, 93, 58, 83] with weights [5, 1, 1, 4].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given frequencies [3, 4, 3, 6, 6, 9], build the cumulative frequency (less than type) and state the median position.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Find median class and approximate median for classes [(0, 10), (10, 20), (20, 30), (30, 40), (40, 50)] with frequencies [10, 7, 7, 8, 6].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Make a basic stem-and-leaf display for: [11, 26, 27, 34, 35, 49, 60, 66, 71, 80, 92, 93] (state stems and leaves).",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Grouped data classes [(0, 10), (10, 20), (20, 30), (30, 40)] with frequencies [9, 9, 8, 4]. Find the mean using midpoints.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given frequencies [8, 8, 4, 5, 6, 6], build the cumulative frequency (less than type) and state the median position.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Find median class and approximate median for classes [(0, 10), (10, 20), (20, 30), (30, 40), (40, 50)] with frequencies [10, 4, 5, 12, 8].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Make a basic stem-and-leaf display for: [22, 23, 28, 39, 51, 57, 60, 61, 63, 73, 74, 84] (state stems and leaves).",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Find median class and approximate median for classes [(0, 10), (10, 20), (20, 30), (30, 40), (40, 50)] with frequencies [9, 5, 9, 7, 9].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Identify the modal class from classes [(0, 5), (5, 10), (10, 15), (15, 20), (20, 25)] with frequencies [3, 9, 11, 8, 8]. Explain briefly.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Compute the 20% trimmed mean for the data: [14, 26, 41, 42, 53, 54, 70, 70, 71, 87, 94, 98] (remove smallest and largest 2 values).",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Grouped data classes [(0, 10), (10, 20), (20, 30), (30, 40)] with frequencies [5, 7, 10, 5]. Find the mean using midpoints.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Grouped data classes [(0, 10), (10, 20), (20, 30), (30, 40)] with frequencies [3, 5, 7, 5]. Find the mean using midpoints.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Find median class and approximate median for classes [(0, 10), (10, 20), (20, 30), (30, 40), (40, 50)] with frequencies [12, 5, 6, 9, 10].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Grouped data classes [(0, 10), (10, 20), (20, 30), (30, 40)] with frequencies [7, 5, 8, 7]. Find the mean using midpoints.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Identify the modal class from classes [(0, 5), (5, 10), (10, 15), (15, 20), (20, 25)] with frequencies [11, 9, 6, 11, 12]. Explain briefly.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Compute the 10% trimmed mean for the data: [15, 49, 52, 53, 62, 64, 72, 75, 79, 88, 92, 98] (remove smallest and largest 1 values).",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Make a basic stem-and-leaf display for: [17, 18, 22, 23, 23, 23, 28, 46, 75, 85, 87, 90] (state stems and leaves).",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Identify the modal class from classes [(0, 5), (5, 10), (10, 15), (15, 20), (20, 25)] with frequencies [10, 7, 10, 8, 9]. Explain briefly.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Compute weighted mean for values [45, 84, 64, 45] with weights [2, 4, 1, 4].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given frequencies [9, 4, 8, 7, 4, 9], build the cumulative frequency (less than type) and state the median position.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Make a basic stem-and-leaf display for: [16, 17, 29, 33, 37, 38, 50, 50, 59, 62, 66, 76] (state stems and leaves).",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Compute weighted mean for values [17, 38, 75, 95] with weights [1, 1, 3, 5].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [8, None, 12, 12] (one missing). If the mean is 17, find the missing frequency.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"For classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [4, 6, None, 7] (one missing). If total frequency is 26, find the missing frequency.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [10, None, 9, 11] (one missing). If the mean is 22, find the missing frequency.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute the 20% trimmed mean for the data: [17, 25, 43, 48, 50, 51, 57, 61, 74, 78, 81, 90] (remove smallest and largest 2 values).",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute weighted mean for values [55, 80, 69, 82] with weights [3, 4, 1, 5].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [8, None, 9, 11] (one missing). If the mean is 23, find the missing frequency.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute weighted mean for values [13, 70, 77, 74] with weights [3, 2, 2, 2].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Using coding (u = (x - 25)\/10), estimate the mean for classes [(0, 10), (10, 20), (20, 30), (30, 40), (40, 50), (50, 60)] with frequencies [8, 8, 11, 6, 9, 8].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [6, None, 11, 10] (one missing). If the mean is 17, find the missing frequency.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute the 20% trimmed mean for the data: [10, 16, 23, 58, 58, 62, 62, 64, 64, 77, 96, 97] (remove smallest and largest 2 values).",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute weighted mean for values [78, 50, 91, 56] with weights [2, 4, 5, 3].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [6, None, 12, 5] (one missing). If the mean is 18, find the missing frequency.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [8, None, 10, 6] (one missing). If the mean is 19, find the missing frequency.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [9, None, 5, 9] (one missing). If the mean is 24, find the missing frequency.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [6, None, 5, 5] (one missing). If the mean is 21, find the missing frequency.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [12, None, 11, 12] (one missing). If the mean is 15, find the missing frequency.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Using coding (u = (x - 25)\/10), estimate the mean for classes [(0, 10), (10, 20), (20, 30), (30, 40), (40, 50), (50, 60)] with frequencies [10, 5, 5, 12, 4, 12].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute weighted mean for values [29, 54, 19, 32] with weights [1, 5, 1, 1].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute the 20% trimmed mean for the data: [10, 11, 15, 21, 26, 56, 67, 69, 74, 78, 92, 96] (remove smallest and largest 2 values).",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Using coding (u = (x - 35)\/10), estimate the mean for classes [(0, 10), (10, 20), (20, 30), (30, 40), (40, 50), (50, 60)] with frequencies [12, 4, 8, 10, 11, 7].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Using coding (u = (x - 25)\/10), estimate the mean for classes [(0, 10), (10, 20), (20, 30), (30, 40), (40, 50), (50, 60)] with frequencies [10, 6, 6, 8, 4, 10].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute weighted mean for values [94, 81, 73, 90] with weights [4, 4, 3, 5].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [7, None, 7, 5] (one missing). If the mean is 24, find the missing frequency.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"For classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [9, 7, None, 10] (one missing). If total frequency is 32, find the missing frequency.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute weighted mean for values [36, 27, 65, 39] with weights [3, 3, 1, 3].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute weighted mean for values [25, 25, 54, 55] with weights [3, 3, 2, 1].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute the 20% trimmed mean for the data: [14, 16, 22, 31, 37, 47, 65, 75, 77, 90, 96, 97] (remove smallest and largest 2 values).",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Using coding (u = (x - 35)\/10), estimate the mean for classes [(0, 10), (10, 20), (20, 30), (30, 40), (40, 50), (50, 60)] with frequencies [5, 5, 12, 10, 12, 9].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute weighted mean for values [69, 53, 91, 49] with weights [4, 2, 3, 5].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [6, None, 12, 6] (one missing). If the mean is 24, find the missing frequency.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Using coding (u = (x - 15)\/10), estimate the mean for classes [(0, 10), (10, 20), (20, 30), (30, 40), (40, 50), (50, 60)] with frequencies [10, 7, 10, 11, 11, 11].",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In classes [(0, 10), (10, 20), (20, 30), (30, 40)], frequencies are [9, None, 9, 11] (one missing). If the mean is 21, find the missing frequency.",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Compute the 20% trimmed mean for the data: [21, 29, 38, 55, 60, 65, 65, 66, 74, 74, 83, 90] (remove smallest and largest 2 values).",
+    "chapter_no":6,
+    "marks":5,
+    "difficulty":"Hard"
+  }
+]

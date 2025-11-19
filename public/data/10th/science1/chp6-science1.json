@@ -1,0 +1,1802 @@
+[
+  {
+    "question": "Write Snell law as n1 * sin(theta1) = n2 * sin(theta2). Explain each term briefly.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State the laws of refraction and define refractive index n.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain qualitatively why a spoon appears bent in water (refraction).",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Mention sign convention: angles are measured from the normal keep answers in degrees.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain why emergent ray from a parallel slab is parallel to the incident ray.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Light is incident from air to glass at 40 degrees and refracts to 25 degrees. Name the denser and the rarer medium.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Light is incident from air to glass at 40 degrees and refracts to 20 degrees. Name the denser and the rarer medium.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Light is incident from air to glass at 35 degrees and refracts to 10 degrees. Name the denser and the rarer medium.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Light is incident from air to glass at 25 degrees and refracts to 30 degrees. Name the denser and the rarer medium.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define optical density.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.68. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Light is incident from air to glass at 15 degrees and refracts to 10 degrees. Name the denser and the rarer medium.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define refractive index.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define total internal reflection.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.56. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Light is incident from air to glass at 15 degrees and refracts to 30 degrees. Name the denser and the rarer medium.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define apparent depth.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.39. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define critical angle.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Light is incident from air to glass at 35 degrees and refracts to 25 degrees. Name the denser and the rarer medium.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.55. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.34. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.6. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Light is incident from air to glass at 35 degrees and refracts to 20 degrees. Name the denser and the rarer medium.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Light is incident from air to glass at 30 degrees and refracts to 10 degrees. Name the denser and the rarer medium.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Light is incident from air to glass at 20 degrees and refracts to 30 degrees. Name the denser and the rarer medium.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.69. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Light is incident from air to glass at 20 degrees and refracts to 20 degrees. Name the denser and the rarer medium.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.3. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.66. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.44. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Light is incident from air to glass at 40 degrees and refracts to 30 degrees. Name the denser and the rarer medium.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.36. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State conditions for total internal reflection and give one application.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.09, n2=1.38, theta1=20 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Light speed in a medium v=188000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.03, n2=1.32, theta1=20 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Apparent depth h app=6 cm for a liquid with n=1.5. Find real depth h = n * h app.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.05, n2=1.48, theta1=35 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "From glass (n=1.5) to air (n=1), write sin(c) = 1/n and compute critical angle c in degrees (leave final in calculator-ready form).",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A coin at real depth h=27 cm in water (n=1.5). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Light speed in a medium v=172000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.05, n2=1.5, theta1=20 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A coin at real depth h=26 cm in water (n=1.33). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.05, n2=1.46, theta1=35 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.05, n2=1.68, theta1=25 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Light speed in a medium v=165000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "From glass (n=1.6) to air (n=1), write sin(c) = 1/n and compute critical angle c in degrees (leave final in calculator-ready form).",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Light speed in a medium v=180000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Light speed in a medium v=170000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.05, n2=1.39, theta1=25 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Glass slab thickness t=3 cm, refractive index n=1.5, incidence i=30 degrees. State formula for lateral shift and compute symbolically.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.02, n2=1.68, theta1=35 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Glass slab thickness t=3 cm, refractive index n=1.6, incidence i=30 degrees. State formula for lateral shift and compute symbolically.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A coin at real depth h=23 cm in water (n=1.5). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.02, n2=1.57, theta1=30 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Apparent depth h app=12 cm for a liquid with n=1.5. Find real depth h = n * h app.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Apparent depth h app=5 cm for a liquid with n=1.33. Find real depth h = n * h app.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.1, n2=1.63, theta1=35 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Apparent depth h app=12 cm for a liquid with n=1.33. Find real depth h = n * h app.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Glass slab thickness t=3 cm, refractive index n=1.6, incidence i=40 degrees. State formula for lateral shift and compute symbolically.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Light speed in a medium v=208000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.08, n2=1.68, theta1=20 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A coin at real depth h=23 cm in water (n=1.3). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Light speed in a medium v=198000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A coin at real depth h=28 cm in water (n=1.2). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A coin at real depth h=13 cm in water (n=1.5). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.02, n2=1.56, theta1=35 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Apparent depth h app=16 cm for a liquid with n=1.5. Find real depth h = n * h app.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Glass slab thickness t=5 cm, refractive index n=1.4, incidence i=40 degrees. State formula for lateral shift and compute symbolically.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Glass slab thickness t=1 cm, refractive index n=1.6, incidence i=40 degrees. State formula for lateral shift and compute symbolically.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.06, n2=1.62, theta1=20 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.06, n2=1.43, theta1=20 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "For a small prism of angle A=60 degrees and glass n=1.33, write deviation approx delta = (n - 1) * A (radian concept) and explain limit.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Glass slab thickness t=5 cm, refractive index n=1.4, incidence i=30 degrees. State formula for lateral shift and compute symbolically.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "For a small prism of angle A=45 degrees and glass n=1.6, write deviation approx delta = (n - 1) * A (radian concept) and explain limit.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "For a small prism of angle A=30 degrees and glass n=1.33, write deviation approx delta = (n - 1) * A (radian concept) and explain limit.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A coin at real depth h=19 cm in water (n=1.2). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Light speed in a medium v=191000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Apparent depth h app=17 cm for a liquid with n=1.33. Find real depth h = n * h app.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "For a small prism of angle A=45 degrees and glass n=1.33, write deviation approx delta = (n - 1) * A (radian concept) and explain limit.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Light speed in a medium v=195000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A coin at real depth h=9 cm in water (n=1.5). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Light speed in a medium v=164000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "For a small prism of angle A=60 degrees and glass n=1.6, write deviation approx delta = (n - 1) * A (radian concept) and explain limit.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.03, n2=1.35, theta1=30 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.06, n2=1.31, theta1=20 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Light speed in a medium v=167000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "From glass (n=1.33) to air (n=1), write sin(c) = 1/n and compute critical angle c in degrees (leave final in calculator-ready form).",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Apparent depth h app=8 cm for a liquid with n=1.33. Find real depth h = n * h app.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.05, n2=1.51, theta1=30 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A coin at real depth h=9 cm in water (n=1.2). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Apparent depth h app=13 cm for a liquid with n=1.5. Find real depth h = n * h app.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Apparent depth h app=10 cm for a liquid with n=1.33. Find real depth h = n * h app.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A coin at real depth h=12 cm in water (n=1.5). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Glass slab thickness t=1 cm, refractive index n=1.4, incidence i=40 degrees. State formula for lateral shift and compute symbolically.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.07, n2=1.5, theta1=25 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Light speed in a medium v=175000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "For a small prism of angle A=30 degrees and glass n=1.6, write deviation approx delta = (n - 1) * A (radian concept) and explain limit.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A coin at real depth h=13 cm in water (n=1.33). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A medium has refractive index n = 1.43. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Light is incident from air to glass at 15 degrees and refracts to 20 degrees. Name the denser and the rarer medium.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.54. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Light is incident from air to glass at 25 degrees and refracts to 10 degrees. Name the denser and the rarer medium.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Light is incident from air to glass at 25 degrees and refracts to 20 degrees. Name the denser and the rarer medium.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Light is incident from air to glass at 35 degrees and refracts to 30 degrees. Name the denser and the rarer medium.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Light is incident from air to glass at 40 degrees and refracts to 15 degrees. Name the denser and the rarer medium.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.46. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.63. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.5. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.52. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Light is incident from air to glass at 20 degrees and refracts to 10 degrees. Name the denser and the rarer medium.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Light is incident from air to glass at 30 degrees and refracts to 25 degrees. Name the denser and the rarer medium.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.57. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Light is incident from air to glass at 40 degrees and refracts to 10 degrees. Name the denser and the rarer medium.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Light is incident from air to glass at 20 degrees and refracts to 25 degrees. Name the denser and the rarer medium.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Light is incident from air to glass at 25 degrees and refracts to 15 degrees. Name the denser and the rarer medium.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.51. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Light is incident from air to glass at 20 degrees and refracts to 15 degrees. Name the denser and the rarer medium.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.41. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.62. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.38. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.35. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.33. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.42. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.37. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Light is incident from air to glass at 25 degrees and refracts to 25 degrees. Name the denser and the rarer medium.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.53. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Light is incident from air to glass at 30 degrees and refracts to 20 degrees. Name the denser and the rarer medium.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.59. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.47. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.61. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.65. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.08, n2=1.42, theta1=20 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A coin at real depth h=20 cm in water (n=1.33). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Glass slab thickness t=2 cm, refractive index n=1.4, incidence i=30 degrees. State formula for lateral shift and compute symbolically.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A coin at real depth h=17 cm in water (n=1.5). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Apparent depth h app=11 cm for a liquid with n=1.33. Find real depth h = n * h app.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A coin at real depth h=22 cm in water (n=1.5). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Light speed in a medium v=194000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A coin at real depth h=15 cm in water (n=1.2). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.0, n2=1.34, theta1=20 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Apparent depth h app=17 cm for a liquid with n=1.5. Find real depth h = n * h app.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.08, n2=1.45, theta1=30 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A coin at real depth h=27 cm in water (n=1.33). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A coin at real depth h=15 cm in water (n=1.3). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Glass slab thickness t=5 cm, refractive index n=1.6, incidence i=30 degrees. State formula for lateral shift and compute symbolically.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Glass slab thickness t=2 cm, refractive index n=1.4, incidence i=20 degrees. State formula for lateral shift and compute symbolically.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Light speed in a medium v=186000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.0, n2=1.56, theta1=30 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.05, n2=1.65, theta1=20 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.03, n2=1.61, theta1=20 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Glass slab thickness t=1 cm, refractive index n=1.4, incidence i=30 degrees. State formula for lateral shift and compute symbolically.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Glass slab thickness t=4 cm, refractive index n=1.6, incidence i=40 degrees. State formula for lateral shift and compute symbolically.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.08, n2=1.57, theta1=35 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Glass slab thickness t=1 cm, refractive index n=1.5, incidence i=20 degrees. State formula for lateral shift and compute symbolically.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A coin at real depth h=21 cm in water (n=1.33). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Glass slab thickness t=5 cm, refractive index n=1.6, incidence i=40 degrees. State formula for lateral shift and compute symbolically.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Glass slab thickness t=5 cm, refractive index n=1.5, incidence i=40 degrees. State formula for lateral shift and compute symbolically.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A coin at real depth h=29 cm in water (n=1.2). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Glass slab thickness t=4 cm, refractive index n=1.5, incidence i=40 degrees. State formula for lateral shift and compute symbolically.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.0, n2=1.42, theta1=20 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A coin at real depth h=30 cm in water (n=1.5). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Light speed in a medium v=187000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.04, n2=1.55, theta1=30 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A coin at real depth h=16 cm in water (n=1.5). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.08, n2=1.41, theta1=20 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Apparent depth h app=6 cm for a liquid with n=1.33. Find real depth h = n * h app.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Apparent depth h app=19 cm for a liquid with n=1.33. Find real depth h = n * h app.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.07, n2=1.52, theta1=25 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Glass slab thickness t=4 cm, refractive index n=1.6, incidence i=20 degrees. State formula for lateral shift and compute symbolically.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.04, n2=1.55, theta1=25 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Light speed in a medium v=162000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.04, n2=1.61, theta1=30 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.0, n2=1.61, theta1=30 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Light speed in a medium v=173000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.04, n2=1.44, theta1=35 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Apparent depth h app=20 cm for a liquid with n=1.33. Find real depth h = n * h app.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Glass slab thickness t=2 cm, refractive index n=1.5, incidence i=40 degrees. State formula for lateral shift and compute symbolically.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A coin at real depth h=12 cm in water (n=1.33). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Apparent depth h app=15 cm for a liquid with n=1.33. Find real depth h = n * h app.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Light speed in a medium v=174000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Light speed in a medium v=177000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.07, n2=1.65, theta1=30 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.02, n2=1.62, theta1=25 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A coin at real depth h=15 cm in water (n=1.5). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Light speed in a medium v=204000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Apparent depth h app=14 cm for a liquid with n=1.33. Find real depth h = n * h app.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Light speed in a medium v=192000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Light speed in a medium v=168000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A coin at real depth h=8 cm in water (n=1.33). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Apparent depth h app=9 cm for a liquid with n=1.5. Find real depth h = n * h app.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Glass slab thickness t=5 cm, refractive index n=1.5, incidence i=20 degrees. State formula for lateral shift and compute symbolically.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Glass slab thickness t=1 cm, refractive index n=1.5, incidence i=40 degrees. State formula for lateral shift and compute symbolically.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A coin at real depth h=11 cm in water (n=1.33). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.08, n2=1.52, theta1=25 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Apparent depth h app=10 cm for a liquid with n=1.5. Find real depth h = n * h app.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Light speed in a medium v=179000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "For a small prism of angle A=45 degrees and glass n=1.5, write deviation approx delta = (n - 1) * A (radian concept) and explain limit.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.08, n2=1.34, theta1=20 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Light is incident from air to glass at 35 degrees and refracts to 15 degrees. Name the denser and the rarer medium.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.45. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Light is incident from air to glass at 15 degrees and refracts to 15 degrees. Name the denser and the rarer medium.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Light is incident from air to glass at 30 degrees and refracts to 15 degrees. Name the denser and the rarer medium.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.64. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.49. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.58. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.48. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Light is incident from air to glass at 15 degrees and refracts to 25 degrees. Name the denser and the rarer medium.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.4. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.32. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.31. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Mention sign convention: angles are measured from the normal keep answers in degrees.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define apparent depth.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Light is incident from air to glass at 30 degrees and refracts to 30 degrees. Name the denser and the rarer medium.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.67. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Write Snell law as n1 * sin(theta1) = n2 * sin(theta2). Explain each term briefly.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A medium has refractive index n = 1.7. Explain its meaning.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain qualitatively why a spoon appears bent in water (refraction).",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Mention sign convention: angles are measured from the normal keep answers in degrees.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State the laws of refraction and define refractive index n.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain why emergent ray from a parallel slab is parallel to the incident ray.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain why emergent ray from a parallel slab is parallel to the incident ray.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain qualitatively why a spoon appears bent in water (refraction).",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain qualitatively why a spoon appears bent in water (refraction).",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Mention sign convention: angles are measured from the normal keep answers in degrees.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define critical angle.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define apparent depth.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Light is incident from air to glass at 30 degrees and refracts to 30 degrees. Name the denser and the rarer medium.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain why emergent ray from a parallel slab is parallel to the incident ray.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Mention sign convention: angles are measured from the normal keep answers in degrees.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain why emergent ray from a parallel slab is parallel to the incident ray.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain qualitatively why a spoon appears bent in water (refraction).",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Light speed in a medium v=160000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Apparent depth h app=13 cm for a liquid with n=1.33. Find real depth h = n * h app.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.02, n2=1.6, theta1=20 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.0, n2=1.55, theta1=35 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Light speed in a medium v=190000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Glass slab thickness t=4 cm, refractive index n=1.6, incidence i=30 degrees. State formula for lateral shift and compute symbolically.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.01, n2=1.3, theta1=25 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A coin at real depth h=19 cm in water (n=1.33). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.02, n2=1.58, theta1=35 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A coin at real depth h=30 cm in water (n=1.3). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A coin at real depth h=19 cm in water (n=1.5). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A coin at real depth h=25 cm in water (n=1.33). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.1, n2=1.39, theta1=25 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.05, n2=1.39, theta1=30 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.02, n2=1.46, theta1=30 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.05, n2=1.57, theta1=35 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Light speed in a medium v=202000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A coin at real depth h=26 cm in water (n=1.2). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A coin at real depth h=24 cm in water (n=1.5). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Light speed in a medium v=171000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A coin at real depth h=8 cm in water (n=1.3). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Light speed in a medium v=185000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.01, n2=1.33, theta1=25 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Glass slab thickness t=3 cm, refractive index n=1.4, incidence i=30 degrees. State formula for lateral shift and compute symbolically.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Apparent depth h app=16 cm for a liquid with n=1.33. Find real depth h = n * h app.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.0, n2=1.5, theta1=20 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.0, n2=1.54, theta1=20 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.06, n2=1.59, theta1=25 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Light speed in a medium v=201000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Apparent depth h app=7 cm for a liquid with n=1.5. Find real depth h = n * h app.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A coin at real depth h=15 cm in water (n=1.33). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.07, n2=1.43, theta1=35 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Glass slab thickness t=3 cm, refractive index n=1.5, incidence i=20 degrees. State formula for lateral shift and compute symbolically.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Light speed in a medium v=197000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.04, n2=1.39, theta1=35 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A coin at real depth h=29 cm in water (n=1.5). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Glass slab thickness t=2 cm, refractive index n=1.4, incidence i=40 degrees. State formula for lateral shift and compute symbolically.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Glass slab thickness t=1 cm, refractive index n=1.4, incidence i=20 degrees. State formula for lateral shift and compute symbolically.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Apparent depth h app=11 cm for a liquid with n=1.5. Find real depth h = n * h app.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Apparent depth h app=7 cm for a liquid with n=1.33. Find real depth h = n * h app.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Apparent depth h app=15 cm for a liquid with n=1.5. Find real depth h = n * h app.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A coin at real depth h=8 cm in water (n=1.5). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.08, n2=1.38, theta1=30 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Light speed in a medium v=207000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A coin at real depth h=22 cm in water (n=1.3). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A coin at real depth h=26 cm in water (n=1.3). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Apparent depth h app=19 cm for a liquid with n=1.5. Find real depth h = n * h app.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Light speed in a medium v=163000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.01, n2=1.34, theta1=25 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Light speed in a medium v=210000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "For a small prism of angle A=30 degrees and glass n=1.5, write deviation approx delta = (n - 1) * A (radian concept) and explain limit.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.01, n2=1.45, theta1=20 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A coin at real depth h=21 cm in water (n=1.5). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A coin at real depth h=23 cm in water (n=1.2). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Light speed in a medium v=193000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Light speed in a medium v=184000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.04, n2=1.6, theta1=35 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.09, n2=1.51, theta1=30 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Light speed in a medium v=166000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A coin at real depth h=9 cm in water (n=1.3). Find apparent depth h app = h / n.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Glass slab thickness t=4 cm, refractive index n=1.5, incidence i=30 degrees. State formula for lateral shift and compute symbolically.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.09, n2=1.41, theta1=35 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "For a small prism of angle A=60 degrees and glass n=1.5, write deviation approx delta = (n - 1) * A (radian concept) and explain limit.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Light speed in a medium v=196000000 m/s. Using n = c / v with c=3.0e8 m/s, compute refractive index (approx).",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Using n1 * sin(theta1) = n2 * sin(theta2), find theta2 (in degrees) for n1=1.04, n2=1.64, theta1=25 degrees. Show formula steps.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Glass slab thickness t=2 cm, refractive index n=1.6, incidence i=30 degrees. State formula for lateral shift and compute symbolically.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Glass slab thickness t=2 cm, refractive index n=1.5, incidence i=30 degrees. State formula for lateral shift and compute symbolically.",
+    "chapter_no": 6,
+    "marks": 5,
+    "difficulty": "Hard"
+  }
+]

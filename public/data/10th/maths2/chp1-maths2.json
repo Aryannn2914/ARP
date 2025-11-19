@@ -1,0 +1,1802 @@
+[
+  {
+    "question": "In triangle ABC PQ || BC. AP/PB = 2/2. Explain concept of Basic Proportionality Theorem and find AQ/QC.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC PQ || BC. AP/PB = 8/5. Explain concept of Basic Proportionality Theorem and find AQ/QC.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share height. Bases = 9 and 12. Explain concept and find area ratio = 9:12.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share height. Bases = 6 and 10. Explain concept and find area ratio = 6:10.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share base. Heights = 8 and 10. Explain and find area ratio = 8:10.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share base. Heights = 10 and 12. Explain and find area ratio = 10:12.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share height. Bases = 7 and 11. Explain concept and find area ratio = 7:11.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC AD bisects angle A. AB = 10, AC = 15. Explain angle bisector property and find BD/DC.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC AD bisects angle A. AB = 6, AC = 12. Explain angle bisector property and find BD/DC.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC AD bisects angle A. AB = 8, AC = 9. Explain angle bisector property and find BD/DC.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC PQ || BC. AP/PB = 4/8. Explain concept of Basic Proportionality Theorem and find AQ/QC.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC AD bisects angle A. AB = 8, AC = 12. Explain angle bisector property and find BD/DC.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Three parallel lines cut two transversals creating segments in ratio 9:8. Explain and find corresponding ratio on second transversal.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC AD bisects angle A. AB = 15, AC = 14. Explain angle bisector property and find BD/DC.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share base. Heights = 7 and 12. Explain and find area ratio = 7:12.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC AD bisects angle A. AB = 10, AC = 7. Explain angle bisector property and find BD/DC.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share base. Heights = 3 and 3. Explain and find area ratio = 3:3.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share height. Bases = 7 and 10. Explain concept and find area ratio = 7:10.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share base. Heights = 7 and 11. Explain and find area ratio = 7:11.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC AD bisects angle A. AB = 13, AC = 13. Explain angle bisector property and find BD/DC.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC AD bisects angle A. AB = 7, AC = 4. Explain angle bisector property and find BD/DC.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share base. Heights = 4 and 11. Explain and find area ratio = 4:11.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Three parallel lines cut two transversals creating segments in ratio 8:10. Explain and find corresponding ratio on second transversal.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share base. Heights = 11 and 9. Explain and find area ratio = 11:9.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share base. Heights = 9 and 12. Explain and find area ratio = 9:12.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share base. Heights = 9 and 6. Explain and find area ratio = 9:6.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share base. Heights = 10 and 10. Explain and find area ratio = 10:10.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC AD bisects angle A. AB = 9, AC = 15. Explain angle bisector property and find BD/DC.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share base. Heights = 7 and 4. Explain and find area ratio = 7:4.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC PQ || BC. AP/PB = 8/8. Explain concept of Basic Proportionality Theorem and find AQ/QC.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share height. Bases = 4 and 5. Explain concept and find area ratio = 4:5.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Three parallel lines cut two transversals creating segments in ratio 10:4. Explain and find corresponding ratio on second transversal.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC PQ || BC. AP/PB = 5/7. Explain concept of Basic Proportionality Theorem and find AQ/QC.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "If all sides are in ratio 1:6, explain SSS similarity and find scale factor 6.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Two similar triangles have area ratio 3:6. Explain how area ratio relates to side ratio and find side ratio.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Two similar triangles have area ratio 7:5. Explain how area ratio relates to side ratio and find side ratio.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For similar triangles, side ratio is 1:6. Explain and compute area ratio = 1:36.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Two similar triangles have area ratio 7:11. Explain how area ratio relates to side ratio and find side ratio.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Two similar triangles have area ratio 0:6. Explain how area ratio relates to side ratio and find side ratio.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For similar triangles, side ratio is 1:5. Explain and compute area ratio = 1:25.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:9. Explain why side ratio is 1:3 and verify: if smaller side is 3, bigger side = 9.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=54 degrees and B=76 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For similar triangles, side ratio is 1:4. Explain and compute area ratio = 1:16.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If all sides are in ratio 1:4, explain SSS similarity and find scale factor 4.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:16. Explain why side ratio is 1:4 and verify: if smaller side is 2, bigger side = 8.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=119 degrees and B=36 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=42 degrees and B=44 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=63 degrees and B=61 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=59 degrees and B=83 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=115 degrees and B=57 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If two sides are in ratio 1:7 and included angle equal, explain SAS similarity and find scale factor 7.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If two sides are in ratio 1:5 and included angle equal, explain SAS similarity and find scale factor 5.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If all sides are in ratio 1:8, explain SSS similarity and find scale factor 8.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If all sides are in ratio 1:2, explain SSS similarity and find scale factor 2.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If all sides are in ratio 1:5, explain SSS similarity and find scale factor 5.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=51 degrees and B=78 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Two similar triangles have area ratio 1:6. Explain how area ratio relates to side ratio and find side ratio.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:25. Explain why side ratio is 1:5 and verify: if smaller side is 4, bigger side = 20.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Two similar triangles have area ratio 7:4. Explain how area ratio relates to side ratio and find side ratio.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If all sides are in ratio 1:3, explain SSS similarity and find scale factor 3.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If two sides are in ratio 1:4 and included angle equal, explain SAS similarity and find scale factor 4.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If two sides are in ratio 1:3 and included angle equal, explain SAS similarity and find scale factor 3.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For similar triangles, side ratio is 1:3. Explain and compute area ratio = 1:9.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=101 degrees and B=35 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Two similar triangles have area ratio 1:7. Explain how area ratio relates to side ratio and find side ratio.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:16. Explain why side ratio is 1:4 and verify: if smaller side is 3, bigger side = 12.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:1. Explain why side ratio is 1:1 and verify: if smaller side is 4, bigger side = 4.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:16. Explain why side ratio is 1:4 and verify: if smaller side is 1, bigger side = 4.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain why if side ratio is 1:5, area ratio becomes 1:25 using similarity concept.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:4. Explain why side ratio is 1:2 and verify: if smaller side is 2, bigger side = 4.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "If a segment joins midpoints of two sides of triangle, explain why line is parallel to third side and half its length.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Two similar triangles have area ratio 0:1. Explain how area ratio relates to side ratio and find side ratio.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain why if side ratio is 1:4, area ratio becomes 1:16 using similarity concept.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:1. Explain why side ratio is 1:1 and verify: if smaller side is 1, bigger side = 1.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:25. Explain why side ratio is 1:5 and verify: if smaller side is 1, bigger side = 5.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Two similar triangles have area ratio 3:1. Explain how area ratio relates to side ratio and find side ratio.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:4. Explain why side ratio is 1:2 and verify: if smaller side is 4, bigger side = 8.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Two similar triangles have area ratio 0:4. Explain how area ratio relates to side ratio and find side ratio.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain why if side ratio is 1:6, area ratio becomes 1:36 using similarity concept.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:25. Explain why side ratio is 1:5 and verify: if smaller side is 2, bigger side = 10.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain why if side ratio is 1:3, area ratio becomes 1:9 using similarity concept.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Two similar triangles have area ratio 6:4. Explain how area ratio relates to side ratio and find side ratio.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain why if side ratio is 1:2, area ratio becomes 1:4 using similarity concept.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Two similar triangles have area ratio 0:7. Explain how area ratio relates to side ratio and find side ratio.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Two similar triangles have area ratio 7:10. Explain how area ratio relates to side ratio and find side ratio.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Two similar triangles have area ratio 6:10. Explain how area ratio relates to side ratio and find side ratio.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Two similar triangles have area ratio 1:5. Explain how area ratio relates to side ratio and find side ratio.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:4. Explain why side ratio is 1:2 and verify: if smaller side is 3, bigger side = 6.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:25. Explain why side ratio is 1:5 and verify: if smaller side is 3, bigger side = 15.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Two similar triangles have area ratio 3:0. Explain how area ratio relates to side ratio and find side ratio.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:1. Explain why side ratio is 1:1 and verify: if smaller side is 2, bigger side = 2.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Two similar triangles have area ratio 3:7. Explain how area ratio relates to side ratio and find side ratio.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Two similar triangles have area ratio 6:5. Explain how area ratio relates to side ratio and find side ratio.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:9. Explain why side ratio is 1:3 and verify: if smaller side is 1, bigger side = 3.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:16. Explain why side ratio is 1:4 and verify: if smaller side is 4, bigger side = 16.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Two similar triangles have area ratio 6:7. Explain how area ratio relates to side ratio and find side ratio.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:9. Explain why side ratio is 1:3 and verify: if smaller side is 2, bigger side = 6.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:9. Explain why side ratio is 1:3 and verify: if smaller side is 4, bigger side = 12.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:4. Explain why side ratio is 1:2 and verify: if smaller side is 1, bigger side = 2.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Two similar triangles have area ratio 1:4. Explain how area ratio relates to side ratio and find side ratio.",
+    "chapter_no": 1,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In triangle ABC AD bisects angle A. AB = 13, AC = 8. Explain angle bisector property and find BD/DC.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC AD bisects angle A. AB = 11, AC = 5. Explain angle bisector property and find BD/DC.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Three parallel lines cut two transversals creating segments in ratio 5:8. Explain and find corresponding ratio on second transversal.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share height. Bases = 5 and 10. Explain concept and find area ratio = 5:10.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC AD bisects angle A. AB = 11, AC = 13. Explain angle bisector property and find BD/DC.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC PQ || BC. AP/PB = 4/2. Explain concept of Basic Proportionality Theorem and find AQ/QC.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC AD bisects angle A. AB = 4, AC = 7. Explain angle bisector property and find BD/DC.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC PQ || BC. AP/PB = 4/6. Explain concept of Basic Proportionality Theorem and find AQ/QC.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share base. Heights = 7 and 10. Explain and find area ratio = 7:10.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share base. Heights = 9 and 4. Explain and find area ratio = 9:4.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC AD bisects angle A. AB = 14, AC = 15. Explain angle bisector property and find BD/DC.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share base. Heights = 6 and 3. Explain and find area ratio = 6:3.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share height. Bases = 8 and 10. Explain concept and find area ratio = 8:10.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC PQ || BC. AP/PB = 2/4. Explain concept of Basic Proportionality Theorem and find AQ/QC.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Three parallel lines cut two transversals creating segments in ratio 5:5. Explain and find corresponding ratio on second transversal.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share base. Heights = 4 and 10. Explain and find area ratio = 4:10.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share base. Heights = 8 and 12. Explain and find area ratio = 8:12.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Three parallel lines cut two transversals creating segments in ratio 6:9. Explain and find corresponding ratio on second transversal.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC PQ || BC. AP/PB = 5/4. Explain concept of Basic Proportionality Theorem and find AQ/QC.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share base. Heights = 10 and 8. Explain and find area ratio = 10:8.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Three parallel lines cut two transversals creating segments in ratio 8:9. Explain and find corresponding ratio on second transversal.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC PQ || BC. AP/PB = 5/3. Explain concept of Basic Proportionality Theorem and find AQ/QC.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Three parallel lines cut two transversals creating segments in ratio 7:8. Explain and find corresponding ratio on second transversal.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share height. Bases = 3 and 4. Explain concept and find area ratio = 3:4.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Three parallel lines cut two transversals creating segments in ratio 4:10. Explain and find corresponding ratio on second transversal.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Three parallel lines cut two transversals creating segments in ratio 7:6. Explain and find corresponding ratio on second transversal.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Three parallel lines cut two transversals creating segments in ratio 4:7. Explain and find corresponding ratio on second transversal.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC AD bisects angle A. AB = 4, AC = 4. Explain angle bisector property and find BD/DC.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Three parallel lines cut two transversals creating segments in ratio 4:9. Explain and find corresponding ratio on second transversal.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Three parallel lines cut two transversals creating segments in ratio 6:5. Explain and find corresponding ratio on second transversal.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share height. Bases = 5 and 8. Explain concept and find area ratio = 5:8.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Three parallel lines cut two transversals creating segments in ratio 3:4. Explain and find corresponding ratio on second transversal.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Three parallel lines cut two transversals creating segments in ratio 3:9. Explain and find corresponding ratio on second transversal.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "If two sides are in ratio 1:8 and included angle equal, explain SAS similarity and find scale factor 8.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=37 degrees and B=90 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=36 degrees and B=61 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=74 degrees and B=44 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=65 degrees and B=77 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=31 degrees and B=75 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=102 degrees and B=48 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For similar triangles, side ratio is 1:2. Explain and compute area ratio = 1:4.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=30 degrees and B=31 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If two sides are in ratio 1:2 and included angle equal, explain SAS similarity and find scale factor 2.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=107 degrees and B=41 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If all sides are in ratio 1:7, explain SSS similarity and find scale factor 7.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=97 degrees and B=120 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If two sides are in ratio 1:6 and included angle equal, explain SAS similarity and find scale factor 6.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=102 degrees and B=110 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=101 degrees and B=65 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=33 degrees and B=110 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=45 degrees and B=60 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=32 degrees and B=46 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=49 degrees and B=49 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=33 degrees and B=38 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=81 degrees and B=104 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=40 degrees and B=38 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=117 degrees and B=95 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:1. Explain why side ratio is 1:1 and verify: if smaller side is 3, bigger side = 3.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=106 degrees and B=56 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=43 degrees and B=50 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=98 degrees and B=85 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=87 degrees and B=73 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=59 degrees and B=109 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=95 degrees and B=36 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=52 degrees and B=57 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=43 degrees and B=40 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If a segment joins midpoints of two sides of triangle, explain why line is parallel to third side and half its length. variant_0",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Two similar triangles have area ratio 7:5. Explain how area ratio relates to side ratio and find side ratio. variant_1",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Two similar triangles have area ratio 7:5. Explain how area ratio relates to side ratio and find side ratio. variant_2",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Two similar triangles have area ratio 1:5. Explain how area ratio relates to side ratio and find side ratio. variant_3",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:9. Explain why side ratio is 1:3 and verify: if smaller side is 1, bigger side = 3. variant_4",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Two similar triangles have area ratio 3:0. Explain how area ratio relates to side ratio and find side ratio. variant_5",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:9. Explain why side ratio is 1:3 and verify: if smaller side is 3, bigger side = 9. variant_6",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "If a segment joins midpoints of two sides of triangle, explain why line is parallel to third side and half its length. variant_7",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "If a segment joins midpoints of two sides of triangle, explain why line is parallel to third side and half its length. variant_8",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:9. Explain why side ratio is 1:3 and verify: if smaller side is 3, bigger side = 9. variant_9",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "If a segment joins midpoints of two sides of triangle, explain why line is parallel to third side and half its length. variant_10",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "If a segment joins midpoints of two sides of triangle, explain why line is parallel to third side and half its length. variant_11",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain why if side ratio is 1:3, area ratio becomes 1:9 using similarity concept. variant_12",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:1. Explain why side ratio is 1:1 and verify: if smaller side is 3, bigger side = 3. variant_13",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain why if side ratio is 1:5, area ratio becomes 1:25 using similarity concept. variant_14",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Two similar triangles have area ratio 3:7. Explain how area ratio relates to side ratio and find side ratio. variant_15",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Two similar triangles have area ratio 7:10. Explain how area ratio relates to side ratio and find side ratio. variant_16",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain why if side ratio is 1:4, area ratio becomes 1:16 using similarity concept. variant_17",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain why if side ratio is 1:3, area ratio becomes 1:9 using similarity concept. variant_18",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:4. Explain why side ratio is 1:2 and verify: if smaller side is 4, bigger side = 8. variant_19",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:16. Explain why side ratio is 1:4 and verify: if smaller side is 1, bigger side = 4. variant_20",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "If a segment joins midpoints of two sides of triangle, explain why line is parallel to third side and half its length. variant_21",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Two similar triangles have area ratio 6:7. Explain how area ratio relates to side ratio and find side ratio. variant_22",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain why if side ratio is 1:6, area ratio becomes 1:36 using similarity concept. variant_23",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "If a segment joins midpoints of two sides of triangle, explain why line is parallel to third side and half its length. variant_24",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "If a segment joins midpoints of two sides of triangle, explain why line is parallel to third side and half its length. variant_25",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Two similar triangles have area ratio 6:4. Explain how area ratio relates to side ratio and find side ratio. variant_26",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Two similar triangles have area ratio 3:1. Explain how area ratio relates to side ratio and find side ratio. variant_27",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain why if side ratio is 1:6, area ratio becomes 1:36 using similarity concept. variant_28",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Two similar triangles have area ratio 0:6. Explain how area ratio relates to side ratio and find side ratio. variant_29",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain why if side ratio is 1:5, area ratio becomes 1:25 using similarity concept. variant_30",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:25. Explain why side ratio is 1:5 and verify: if smaller side is 3, bigger side = 15. variant_31",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Two similar triangles have area ratio 0:1. Explain how area ratio relates to side ratio and find side ratio. variant_32",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:1. Explain why side ratio is 1:1 and verify: if smaller side is 3, bigger side = 3. variant_33",
+    "chapter_no": 1,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Two triangles share height. Bases = 11 and 11. Explain concept and find area ratio = 11:11.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Three parallel lines cut two transversals creating segments in ratio 9:3. Explain and find corresponding ratio on second transversal.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC PQ || BC. AP/PB = 8/6. Explain concept of Basic Proportionality Theorem and find AQ/QC.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Three parallel lines cut two transversals creating segments in ratio 10:9. Explain and find corresponding ratio on second transversal.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Three parallel lines cut two transversals creating segments in ratio 3:5. Explain and find corresponding ratio on second transversal.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share height. Bases = 10 and 11. Explain concept and find area ratio = 10:11.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC AD bisects angle A. AB = 11, AC = 14. Explain angle bisector property and find BD/DC.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share height. Bases = 5 and 3. Explain concept and find area ratio = 5:3.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC AD bisects angle A. AB = 4, AC = 11. Explain angle bisector property and find BD/DC.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC PQ || BC. AP/PB = 3/8. Explain concept of Basic Proportionality Theorem and find AQ/QC.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share height. Bases = 7 and 12. Explain concept and find area ratio = 7:12.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC PQ || BC. AP/PB = 2/8. Explain concept of Basic Proportionality Theorem and find AQ/QC.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share base. Heights = 6 and 10. Explain and find area ratio = 6:10.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share base. Heights = 11 and 8. Explain and find area ratio = 11:8.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC AD bisects angle A. AB = 14, AC = 8. Explain angle bisector property and find BD/DC.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share base. Heights = 6 and 9. Explain and find area ratio = 6:9.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share base. Heights = 12 and 8. Explain and find area ratio = 12:8.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share height. Bases = 6 and 6. Explain concept and find area ratio = 6:6.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC PQ || BC. AP/PB = 4/5. Explain concept of Basic Proportionality Theorem and find AQ/QC.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Three parallel lines cut two transversals creating segments in ratio 10:7. Explain and find corresponding ratio on second transversal.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Three parallel lines cut two transversals creating segments in ratio 5:9. Explain and find corresponding ratio on second transversal.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC AD bisects angle A. AB = 14, AC = 10. Explain angle bisector property and find BD/DC.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share height. Bases = 11 and 9. Explain concept and find area ratio = 11:9.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share height. Bases = 11 and 12. Explain concept and find area ratio = 11:12.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Three parallel lines cut two transversals creating segments in ratio 8:5. Explain and find corresponding ratio on second transversal.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share base. Heights = 12 and 10. Explain and find area ratio = 12:10.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Three parallel lines cut two transversals creating segments in ratio 7:7. Explain and find corresponding ratio on second transversal.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share base. Heights = 5 and 12. Explain and find area ratio = 5:12.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share height. Bases = 8 and 9. Explain concept and find area ratio = 8:9.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share height. Bases = 10 and 12. Explain concept and find area ratio = 10:12.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Two triangles share base. Heights = 8 and 9. Explain and find area ratio = 8:9.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC PQ || BC. AP/PB = 3/6. Explain concept of Basic Proportionality Theorem and find AQ/QC.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In triangle ABC PQ || BC. AP/PB = 8/7. Explain concept of Basic Proportionality Theorem and find AQ/QC.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "If angles A=89 degrees and B=96 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=97 degrees and B=103 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=59 degrees and B=30 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=98 degrees and B=89 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=73 degrees and B=101 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=76 degrees and B=70 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=48 degrees and B=57 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=104 degrees and B=72 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=55 degrees and B=35 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=94 degrees and B=72 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=35 degrees and B=106 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=95 degrees and B=119 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=46 degrees and B=35 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=56 degrees and B=65 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=120 degrees and B=48 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=35 degrees and B=30 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=86 degrees and B=107 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=108 degrees and B=118 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=111 degrees and B=49 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=56 degrees and B=96 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=63 degrees and B=65 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=88 degrees and B=36 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=95 degrees and B=88 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=46 degrees and B=106 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=31 degrees and B=82 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=37 degrees and B=70 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=69 degrees and B=36 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=53 degrees and B=97 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=68 degrees and B=54 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=40 degrees and B=98 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=117 degrees and B=110 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=112 degrees and B=100 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angles A=57 degrees and B=35 degrees in one triangle match angles in another, explain AA similarity test.",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:9. Explain why side ratio is 1:3 and verify: if smaller side is 2, bigger side = 6. variant_0",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Two similar triangles have area ratio 1:7. Explain how area ratio relates to side ratio and find side ratio. variant_1",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Two similar triangles have area ratio 0:4. Explain how area ratio relates to side ratio and find side ratio. variant_2",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:16. Explain why side ratio is 1:4 and verify: if smaller side is 4, bigger side = 16. variant_3",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain why if side ratio is 1:6, area ratio becomes 1:36 using similarity concept. variant_4",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "If a segment joins midpoints of two sides of triangle, explain why line is parallel to third side and half its length. variant_5",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain why if side ratio is 1:5, area ratio becomes 1:25 using similarity concept. variant_6",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain why if side ratio is 1:2, area ratio becomes 1:4 using similarity concept. variant_7",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain why if side ratio is 1:5, area ratio becomes 1:25 using similarity concept. variant_8",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:25. Explain why side ratio is 1:5 and verify: if smaller side is 4, bigger side = 20. variant_9",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:25. Explain why side ratio is 1:5 and verify: if smaller side is 4, bigger side = 20. variant_10",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain why if side ratio is 1:4, area ratio becomes 1:16 using similarity concept. variant_11",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "If a segment joins midpoints of two sides of triangle, explain why line is parallel to third side and half its length. variant_12",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "If a segment joins midpoints of two sides of triangle, explain why line is parallel to third side and half its length. variant_13",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain why if side ratio is 1:3, area ratio becomes 1:9 using similarity concept. variant_14",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:16. Explain why side ratio is 1:4 and verify: if smaller side is 2, bigger side = 8. variant_15",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Two similar triangles have area ratio 7:5. Explain how area ratio relates to side ratio and find side ratio. variant_16",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "If a segment joins midpoints of two sides of triangle, explain why line is parallel to third side and half its length. variant_17",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Two similar triangles have area ratio 7:5. Explain how area ratio relates to side ratio and find side ratio. variant_18",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain why if side ratio is 1:6, area ratio becomes 1:36 using similarity concept. variant_19",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Two similar triangles have area ratio 7:4. Explain how area ratio relates to side ratio and find side ratio. variant_20",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:4. Explain why side ratio is 1:2 and verify: if smaller side is 3, bigger side = 6. variant_21",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "If a segment joins midpoints of two sides of triangle, explain why line is parallel to third side and half its length. variant_22",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "If a segment joins midpoints of two sides of triangle, explain why line is parallel to third side and half its length. variant_23",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain why if side ratio is 1:2, area ratio becomes 1:4 using similarity concept. variant_24",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain why if side ratio is 1:3, area ratio becomes 1:9 using similarity concept. variant_25",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain why if side ratio is 1:5, area ratio becomes 1:25 using similarity concept. variant_26",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "If a segment joins midpoints of two sides of triangle, explain why line is parallel to third side and half its length. variant_27",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "If a segment joins midpoints of two sides of triangle, explain why line is parallel to third side and half its length. variant_28",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain why if side ratio is 1:6, area ratio becomes 1:36 using similarity concept. variant_29",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Similar triangles have area ratio 1:9. Explain why side ratio is 1:3 and verify: if smaller side is 1, bigger side = 3. variant_30",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain why if side ratio is 1:3, area ratio becomes 1:9 using similarity concept. variant_31",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "If a segment joins midpoints of two sides of triangle, explain why line is parallel to third side and half its length. variant_32",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain why if side ratio is 1:3, area ratio becomes 1:9 using similarity concept. variant_33",
+    "chapter_no": 1,
+    "marks": 5,
+    "difficulty": "Hard"
+  }
+]

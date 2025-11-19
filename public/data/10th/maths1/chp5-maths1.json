@@ -1,0 +1,1802 @@
+[
+  {
+    "question":"The pass percentage in a test is 57%. If a student is chosen at random, find the probability that they fail.",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A fair die is rolled once. Find P(even).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A spinner is equally divided into 4 sectors numbered 1 to 4. Find P(a number divisible by 3).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A number is chosen at random from 1 to 118. Find P(even).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A fair coin is tossed once. Find P(head) and P(tail).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Event A has probability 0.29. Find P(not A).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Event A has probability 0.62. Find P(not A).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"The pass percentage in a test is 89%. If a student is chosen at random, find the probability that they fail.",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"The pass percentage in a test is 59%. If a student is chosen at random, find the probability that they fail.",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Two fair coins are tossed together. List the sample space and find P(exactly one head).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A fair die is rolled once. Find P(number > 4).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"The pass percentage in a test is 65%. If a student is chosen at random, find the probability that they fail.",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A number is chosen at random from 1 to 99. Find P(multiple of 3).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A fair coin is tossed 4 times. Find P(at least one head).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A fair die is rolled once. Find P(prime).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A fair coin is tossed 2 times. Find P(at least one head).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A number is chosen at random from 1 to 68. Find P(multiple of 3).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Event A has probability 0.31. Find P(not A).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A number is chosen at random from 1 to 55. Find P(multiple of 3).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"The pass percentage in a test is 74%. If a student is chosen at random, find the probability that they fail.",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A spinner is equally divided into 10 sectors numbered 1 to 10. Find P(a number divisible by 3).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A number is chosen at random from 1 to 69. Find P(multiple of 3).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A fair die is rolled once. Find P(multiple of 3).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A bag contains 3 black and 5 red balls. One ball is drawn. Find P(black).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A bag contains 5 red and 10 blue balls. One ball is drawn. Find P(red).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Event A has probability 0.5. Find P(not A).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"The pass percentage in a test is 52%. If a student is chosen at random, find the probability that they fail.",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"The pass percentage in a test is 88%. If a student is chosen at random, find the probability that they fail.",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"The pass percentage in a test is 83%. If a student is chosen at random, find the probability that they fail.",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"The pass percentage in a test is 68%. If a student is chosen at random, find the probability that they fail.",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A bag contains 4 green and 5 black balls. One ball is drawn. Find P(green).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In a class there are 13 boys and 26 girls. One student is chosen at random. Find P(choosing a girl).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A number is chosen at random from 1 to 62. Find P(prime (assume primes under consideration)).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A bag has 5 red and 3 black balls. Two balls are drawn without replacement. Find P(both black).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 6 red and 4 black balls. One ball is drawn and replaced, then another is drawn. Find P(both red).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 8 red and 8 black balls. One ball is drawn and replaced, then another is drawn. Find P(both red).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A factory produces items with 97% defect-free rate. If one item is chosen at random, find P(defective).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"From numbers 1\u201310, two distinct numbers are chosen at random. Find P(their sum is odd).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"From a standard 52-card deck, find P(heart).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 3 red and 2 black balls. One ball is drawn, replaced, and 3 red balls are added. Find P(red) on the next draw.",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In a group of 82 students, 44 like cricket, 62 like football, and 36 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"From a standard 52-card deck, find P(face card).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In a group of 109 students, 34 like cricket, 67 like football, and 18 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"From a standard 52-card deck, find P(ace).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 3 red and 6 black balls. Two balls are drawn without replacement. Find P(both black).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 8 red and 6 black balls. Two balls are drawn without replacement. Find P(both black).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A point is chosen uniformly on the line segment from 0 to 1. Find P(the point lies between 0.2 and 0.6).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 9 red and 9 black balls. Two balls are drawn without replacement. Find P(both black).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A factory produces items with 98% defect-free rate. If one item is chosen at random, find P(defective).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 7 red and 8 black balls. Two balls are drawn without replacement. Find P(both black).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 3 red and 6 black balls. One ball is drawn, replaced, and 3 red balls are added. Find P(red) on the next draw.",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A factory produces items with 93% defect-free rate. If one item is chosen at random, find P(defective).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 5 red and 8 black balls. One ball is drawn and replaced, then another is drawn. Find P(both red).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A factory produces items with 87% defect-free rate. If one item is chosen at random, find P(defective).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 2 red and 6 black balls. One ball is drawn and replaced, then another is drawn. Find P(both red).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 3 red and 8 black balls. One ball is drawn and replaced, then another is drawn. Find P(both red).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 2 red and 7 black balls. One ball is drawn and replaced, then another is drawn. Find P(both red).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Two fair dice are rolled together. Find P(sum = 12).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"From a standard 52-card deck, find P(black card).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 4 red and 3 black balls. One ball is drawn, replaced, and 4 red balls are added. Find P(red) on the next draw.",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 4 red and 6 black balls. One ball is drawn, replaced, and 4 red balls are added. Find P(red) on the next draw.",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In a group of 107 students, 50 like cricket, 66 like football, and 19 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In a group of 106 students, 55 like cricket, 66 like football, and 27 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In a group of 93 students, 49 like cricket, 67 like football, and 35 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Two fair dice are rolled together. Find P(sum = 7).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 9 red and 6 black balls. Two balls are drawn without replacement. Find P(both black).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Explain with an example the difference between independent events and dependent events.",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 99 students, 30 like cricket, 34 like football, and 25 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 99 students, 57 like cricket, 60 like football, and 21 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 120 students, 60 like cricket, 40 like football, and 19 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Briefly describe how a tree diagram helps compute probabilities with and without replacement.",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A bag has 5 red and 2 black balls. One ball is drawn, replaced, and 5 red balls are added. Find P(red) on the next draw.",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A bag has 2 red and 2 black balls. One ball is drawn, replaced, and 2 red balls are added. Find P(red) on the next draw.",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A bag has 2 red and 3 black balls. One ball is drawn, replaced, and 2 red balls are added. Find P(red) on the next draw.",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A fair die is rolled 5 times. Without computation of combinations, explain how you would estimate P(exactly 3 times a 6). (Concept only)",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A fair die is rolled 4 times. Without computation of combinations, explain how you would estimate P(exactly 3 times a 6). (Concept only)",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A fair die is rolled 3 times. Without computation of combinations, explain how you would estimate P(exactly 1 times a 6). (Concept only)",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A bag has 4 red and 2 black balls. One ball is drawn, replaced, and 4 red balls are added. Find P(red) on the next draw.",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Two cards are drawn without replacement from a 52-card deck. Find P(both are red).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A fair die is rolled 5 times. Without computation of combinations, explain how you would estimate P(exactly 2 times a 6). (Concept only)",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Two fair dice are rolled. Given both dice show even numbers, find the probability that the sum is 7.",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Two fair dice are rolled. Given at least one die shows 6, find the probability that the sum is 7.",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 112 students, 34 like cricket, 49 like football, and 18 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A bag has 6 red and 3 black balls. One ball is drawn, replaced, and 6 red balls are added. Find P(red) on the next draw.",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Two cards are drawn without replacement from a 52-card deck. Find P(both are aces).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A bag has 5 red and 3 black balls. One ball is drawn, replaced, and 5 red balls are added. Find P(red) on the next draw.",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 100 students, 38 like cricket, 65 like football, and 28 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A bag has 2 red and 4 black balls. One ball is drawn, replaced, and 2 red balls are added. Find P(red) on the next draw.",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Two cards are drawn without replacement from a 52-card deck. Find P(one red and one black).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 82 students, 68 like cricket, 69 like football, and 14 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 117 students, 61 like cricket, 33 like football, and 10 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 101 students, 39 like cricket, 61 like football, and 31 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Two fair dice are rolled. Given both dice show even numbers, find the probability that the sum is 8 or more.",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 91 students, 34 like cricket, 70 like football, and 10 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A fair die is rolled 3 times. Without computation of combinations, explain how you would estimate P(exactly 2 times a 6). (Concept only)",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A fair die is rolled 6 times. Without computation of combinations, explain how you would estimate P(exactly 4 times a 6). (Concept only)",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 95 students, 42 like cricket, 58 like football, and 18 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 113 students, 61 like cricket, 68 like football, and 47 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A bag has 5 red and 6 black balls. One ball is drawn, replaced, and 5 red balls are added. Find P(red) on the next draw.",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Two cards are drawn without replacement from a 52-card deck. Find P(both are from hearts).",
+    "chapter_no":5,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a class there are 28 boys and 14 girls. One student is chosen at random. Find P(choosing a girl).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"The pass percentage in a test is 81%. If a student is chosen at random, find the probability that they fail.",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A bag contains 6 black and 4 red balls. One ball is drawn. Find P(black).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In a class there are 19 boys and 26 girls. One student is chosen at random. Find P(choosing a girl).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Event A has probability 0.42. Find P(not A).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Three fair coins are tossed. Find P(exactly two heads).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A number is chosen at random from 1 to 116. Find P(multiple of 3).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Event A has probability 0.86. Find P(not A).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A fair coin is tossed 3 times. Find P(at least one head).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A spinner is equally divided into 8 sectors numbered 1 to 8. Find P(a number divisible by 3).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In a class there are 18 boys and 16 girls. One student is chosen at random. Find P(choosing a girl).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A number is chosen at random from 1 to 63. Find P(multiple of 3).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Event A has probability 0.37. Find P(not A).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A spinner is equally divided into 6 sectors numbered 1 to 6. Find P(a number divisible by 3).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In a class there are 22 boys and 10 girls. One student is chosen at random. Find P(choosing a girl).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A bag contains 7 blue and 8 red balls. One ball is drawn. Find P(blue).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In a class there are 26 boys and 20 girls. One student is chosen at random. Find P(choosing a girl).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In a class there are 22 boys and 18 girls. One student is chosen at random. Find P(choosing a girl).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A number is chosen at random from 1 to 103. Find P(multiple of 3).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Event A has probability 0.3. Find P(not A).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A bag contains 5 green and 5 black balls. One ball is drawn. Find P(green).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A fair die is rolled once. Find P(odd).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A number is chosen at random from 1 to 99. Find P(even).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In a class there are 24 boys and 10 girls. One student is chosen at random. Find P(choosing a girl).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A number is chosen at random from 1 to 78. Find P(prime (assume primes under consideration)).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A bag contains 8 red and 10 blue balls. One ball is drawn. Find P(red).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A bag contains 3 blue and 5 red balls. One ball is drawn. Find P(blue).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In a class there are 23 boys and 15 girls. One student is chosen at random. Find P(choosing a girl).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A bag contains 4 black and 10 red balls. One ball is drawn. Find P(black).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A bag contains 9 black and 10 red balls. One ball is drawn. Find P(black).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Event A has probability 0.23. Find P(not A).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"The pass percentage in a test is 64%. If a student is chosen at random, find the probability that they fail.",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A bag contains 5 blue and 7 red balls. One ball is drawn. Find P(blue).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A bag has 3 red and 3 black balls. One ball is drawn, replaced, and 3 red balls are added. Find P(red) on the next draw.",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 3 red and 4 black balls. One ball is drawn and replaced, then another is drawn. Find P(both red).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In a class, 60% students like Maths and 40% like Science; 25% like both. Find P(Maths | Science).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 2 red and 6 black balls. One ball is drawn, replaced, and 2 red balls are added. Find P(red) on the next draw.",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A factory produces items with 88% defect-free rate. If one item is chosen at random, find P(defective).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 9 red and 7 black balls. Two balls are drawn without replacement. Find P(both black).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Two fair dice are rolled together. Find P(sum = 2).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 8 red and 9 black balls. Two balls are drawn without replacement. Find P(both black).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Two fair dice are rolled together. Find P(sum = 8).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 5 red and 5 black balls. One ball is drawn, replaced, and 5 red balls are added. Find P(red) on the next draw.",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A factory produces items with 95% defect-free rate. If one item is chosen at random, find P(defective).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In a group of 110 students, 67 like cricket, 31 like football, and 10 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In a group of 116 students, 37 like cricket, 58 like football, and 28 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 6 red and 6 black balls. Two balls are drawn without replacement. Find P(both black).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 2 red and 5 black balls. One ball is drawn, replaced, and 2 red balls are added. Find P(red) on the next draw.",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 8 red and 3 black balls. One ball is drawn and replaced, then another is drawn. Find P(both red).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 7 red and 8 black balls. One ball is drawn and replaced, then another is drawn. Find P(both red).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 9 red and 3 black balls. Two balls are drawn without replacement. Find P(both black).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In a group of 112 students, 31 like cricket, 52 like football, and 26 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Two fair dice are rolled together. Find P(sum = 6).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In a group of 91 students, 44 like cricket, 69 like football, and 25 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 4 red and 3 black balls. One ball is drawn and replaced, then another is drawn. Find P(both red).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 4 red and 8 black balls. Two balls are drawn without replacement. Find P(both black).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In a group of 120 students, 68 like cricket, 61 like football, and 11 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 3 red and 5 black balls. One ball is drawn, replaced, and 3 red balls are added. Find P(red) on the next draw.",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A factory produces items with 94% defect-free rate. If one item is chosen at random, find P(defective).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In a group of 86 students, 35 like cricket, 66 like football, and 23 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 5 red and 2 black balls. One ball is drawn and replaced, then another is drawn. Find P(both red).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 8 red and 7 black balls. Two balls are drawn without replacement. Find P(both black).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In a group of 84 students, 34 like cricket, 68 like football, and 24 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Two fair dice are rolled together. Find P(sum = 11).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 3 red and 9 black balls. Two balls are drawn without replacement. Find P(both black).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 6 red and 2 black balls. One ball is drawn and replaced, then another is drawn. Find P(both red).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A fair die is rolled 6 times. Without computation of combinations, explain how you would estimate P(exactly 3 times a 6). (Concept only)",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 119 students, 31 like cricket, 55 like football, and 24 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 102 students, 36 like cricket, 31 like football, and 14 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A fair die is rolled 4 times. Without computation of combinations, explain how you would estimate P(exactly 1 times a 6). (Concept only)",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A bag has 6 red and 2 black balls. One ball is drawn, replaced, and 6 red balls are added. Find P(red) on the next draw.",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 103 students, 31 like cricket, 56 like football, and 20 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 90 students, 70 like cricket, 57 like football, and 41 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 112 students, 60 like cricket, 66 like football, and 34 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 103 students, 33 like cricket, 52 like football, and 10 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Two fair dice are rolled. Given at least one die shows 6, find the probability that the sum is 8 or more.",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A bag has 5 red and 4 black balls. One ball is drawn, replaced, and 5 red balls are added. Find P(red) on the next draw.",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 106 students, 47 like cricket, 58 like football, and 13 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A fair die is rolled 4 times. Without computation of combinations, explain how you would estimate P(exactly 2 times a 6). (Concept only)",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Two cards are drawn without replacement from a 52-card deck. Find P(both are face cards).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 98 students, 54 like cricket, 56 like football, and 28 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 99 students, 53 like cricket, 56 like football, and 48 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A bag has 4 red and 4 black balls. One ball is drawn, replaced, and 4 red balls are added. Find P(red) on the next draw.",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 88 students, 56 like cricket, 69 like football, and 47 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 110 students, 33 like cricket, 45 like football, and 28 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 96 students, 69 like cricket, 57 like football, and 28 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 113 students, 53 like cricket, 63 like football, and 41 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 113 students, 36 like cricket, 50 like football, and 14 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 97 students, 60 like cricket, 32 like football, and 22 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 110 students, 70 like cricket, 32 like football, and 24 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 114 students, 50 like cricket, 43 like football, and 16 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A fair die is rolled 6 times. Without computation of combinations, explain how you would estimate P(exactly 1 times a 6). (Concept only)",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 104 students, 65 like cricket, 31 like football, and 16 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 92 students, 51 like cricket, 67 like football, and 31 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 108 students, 44 like cricket, 58 like football, and 28 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A bag has 6 red and 4 black balls. One ball is drawn, replaced, and 6 red balls are added. Find P(red) on the next draw.",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 98 students, 59 like cricket, 62 like football, and 47 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A fair die is rolled 5 times. Without computation of combinations, explain how you would estimate P(exactly 1 times a 6). (Concept only)",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 105 students, 53 like cricket, 51 like football, and 16 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 118 students, 40 like cricket, 48 like football, and 25 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Event A has probability 0.46. Find P(not A).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"The pass percentage in a test is 87%. If a student is chosen at random, find the probability that they fail.",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In a class there are 19 boys and 19 girls. One student is chosen at random. Find P(choosing a girl).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In a class there are 17 boys and 11 girls. One student is chosen at random. Find P(choosing a girl).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A number is chosen at random from 1 to 49. Find P(multiple of 3).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A bag contains 10 blue and 8 red balls. One ball is drawn. Find P(blue).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In a class there are 13 boys and 12 girls. One student is chosen at random. Find P(choosing a girl).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A fair die is rolled once. Find P(square number).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A bag contains 6 blue and 9 red balls. One ball is drawn. Find P(blue).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A bag contains 6 red and 5 blue balls. One ball is drawn. Find P(red).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In a class there are 20 boys and 24 girls. One student is chosen at random. Find P(choosing a girl).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A number is chosen at random from 1 to 60. Find P(even).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"The pass percentage in a test is 58%. If a student is chosen at random, find the probability that they fail.",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A number is chosen at random from 1 to 70. Find P(even).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"The pass percentage in a test is 78%. If a student is chosen at random, find the probability that they fail.",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Event A has probability 0.38. Find P(not A).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A bag contains 8 black and 10 red balls. One ball is drawn. Find P(black).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In a class there are 22 boys and 17 girls. One student is chosen at random. Find P(choosing a girl).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Event A has probability 0.78. Find P(not A).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In a class there are 18 boys and 27 girls. One student is chosen at random. Find P(choosing a girl).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"The pass percentage in a test is 67%. If a student is chosen at random, find the probability that they fail.",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In a class there are 17 boys and 22 girls. One student is chosen at random. Find P(choosing a girl).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In a class there are 12 boys and 12 girls. One student is chosen at random. Find P(choosing a girl).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Event A has probability 0.35. Find P(not A).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"The pass percentage in a test is 66%. If a student is chosen at random, find the probability that they fail.",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A bag contains 5 red and 4 blue balls. One ball is drawn. Find P(red).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Event A has probability 0.57. Find P(not A).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Event A has probability 0.34. Find P(not A).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"In a class there are 24 boys and 13 girls. One student is chosen at random. Find P(choosing a girl).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"The pass percentage in a test is 60%. If a student is chosen at random, find the probability that they fail.",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Event A has probability 0.52. Find P(not A).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A bag contains 8 black and 9 red balls. One ball is drawn. Find P(black).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A bag contains 7 green and 8 black balls. One ball is drawn. Find P(green).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"A bag has 2 red and 2 black balls. One ball is drawn and replaced, then another is drawn. Find P(both red).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 9 red and 4 black balls. Two balls are drawn without replacement. Find P(both black).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 2 red and 5 black balls. One ball is drawn and replaced, then another is drawn. Find P(both red).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 8 red and 3 black balls. Two balls are drawn without replacement. Find P(both black).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In a group of 96 students, 37 like cricket, 49 like football, and 23 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A factory produces items with 86% defect-free rate. If one item is chosen at random, find P(defective).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In a group of 109 students, 53 like cricket, 49 like football, and 16 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"From a standard 52-card deck, find P(10 or face card).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In a group of 118 students, 70 like cricket, 69 like football, and 32 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 7 red and 9 black balls. Two balls are drawn without replacement. Find P(both black).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A factory produces items with 85% defect-free rate. If one item is chosen at random, find P(defective).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In a group of 120 students, 59 like cricket, 44 like football, and 24 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 5 red and 5 black balls. Two balls are drawn without replacement. Find P(both black).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In a group of 118 students, 46 like cricket, 53 like football, and 35 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In a group of 113 students, 49 like cricket, 66 like football, and 31 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In a group of 114 students, 53 like cricket, 62 like football, and 35 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 8 red and 4 black balls. One ball is drawn and replaced, then another is drawn. Find P(both red).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 8 red and 7 black balls. One ball is drawn and replaced, then another is drawn. Find P(both red).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Two fair dice are rolled together. Find P(sum = 3).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A factory produces items with 90% defect-free rate. If one item is chosen at random, find P(defective).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In a group of 119 students, 61 like cricket, 64 like football, and 50 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 5 red and 5 black balls. One ball is drawn and replaced, then another is drawn. Find P(both red).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 2 red and 8 black balls. One ball is drawn and replaced, then another is drawn. Find P(both red).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In a group of 105 students, 30 like cricket, 65 like football, and 25 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 5 red and 4 black balls. One ball is drawn and replaced, then another is drawn. Find P(both red).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 8 red and 2 black balls. One ball is drawn and replaced, then another is drawn. Find P(both red).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 6 red and 5 black balls. One ball is drawn and replaced, then another is drawn. Find P(both red).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 6 red and 7 black balls. Two balls are drawn without replacement. Find P(both black).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In a group of 82 students, 59 like cricket, 59 like football, and 47 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In a group of 94 students, 55 like cricket, 67 like football, and 25 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 5 red and 9 black balls. Two balls are drawn without replacement. Find P(both black).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"In a group of 102 students, 53 like cricket, 45 like football, and 27 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 7 red and 4 black balls. One ball is drawn and replaced, then another is drawn. Find P(both red).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A bag has 6 red and 5 black balls. One ball is drawn, replaced, and 6 red balls are added. Find P(red) on the next draw.",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 97 students, 49 like cricket, 65 like football, and 42 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 114 students, 33 like cricket, 61 like football, and 21 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 101 students, 38 like cricket, 34 like football, and 27 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A bag has 4 red and 5 black balls. One ball is drawn, replaced, and 4 red balls are added. Find P(red) on the next draw.",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 83 students, 48 like cricket, 62 like football, and 15 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A fair die is rolled 6 times. Without computation of combinations, explain how you would estimate P(exactly 2 times a 6). (Concept only)",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 82 students, 35 like cricket, 32 like football, and 12 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 99 students, 57 like cricket, 33 like football, and 20 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A bag has 3 red and 4 black balls. One ball is drawn, replaced, and 3 red balls are added. Find P(red) on the next draw.",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A fair die is rolled 6 times. Without computation of combinations, explain how you would estimate P(exactly 5 times a 6). (Concept only)",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 97 students, 30 like cricket, 62 like football, and 16 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 95 students, 64 like cricket, 70 like football, and 51 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 109 students, 60 like cricket, 33 like football, and 12 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A fair die is rolled 5 times. Without computation of combinations, explain how you would estimate P(exactly 4 times a 6). (Concept only)",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 101 students, 42 like cricket, 66 like football, and 33 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 113 students, 49 like cricket, 48 like football, and 35 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 117 students, 43 like cricket, 47 like football, and 26 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 81 students, 68 like cricket, 50 like football, and 32 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 114 students, 66 like cricket, 70 like football, and 16 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 94 students, 33 like cricket, 55 like football, and 28 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 104 students, 33 like cricket, 45 like football, and 24 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 94 students, 56 like cricket, 37 like football, and 12 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 91 students, 38 like cricket, 36 like football, and 21 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 116 students, 31 like cricket, 45 like football, and 13 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 103 students, 68 like cricket, 55 like football, and 49 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 113 students, 35 like cricket, 40 like football, and 16 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 91 students, 33 like cricket, 70 like football, and 20 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 88 students, 50 like cricket, 36 like football, and 25 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 97 students, 65 like cricket, 70 like football, and 50 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 93 students, 49 like cricket, 32 like football, and 26 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 89 students, 34 like cricket, 35 like football, and 14 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 107 students, 45 like cricket, 56 like football, and 27 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"In a group of 96 students, 34 like cricket, 47 like football, and 19 like both. Find P(neither).",
+    "chapter_no":5,
+    "marks":5,
+    "difficulty":"Hard"
+  }
+]

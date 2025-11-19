@@ -1,0 +1,1802 @@
+[
+  {
+    "question": "Define electric current and its unit.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define potential difference and its unit.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is electric fuse and what is its function?",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State factors on which resistance of conductor depends.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define potential difference and its unit. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State Joule's law of heating.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define electric power and write its formula.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State relation between current, voltage and resistance.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State relation between current, voltage and resistance. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define electric current and its unit. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What happens to current if resistance is doubled keeping voltage same?",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State Ohm's law.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State Joule's law of heating. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define electric current and its unit. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State factors on which resistance of conductor depends. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define electric power and write its formula. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define electric current and its unit. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State Ohm's law. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What happens to current if resistance is doubled keeping voltage same? (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What happens to current if resistance is doubled keeping voltage same? (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define electric power and write its formula. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define electric power and write its formula. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is electric fuse and what is its function? (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define electric power and write its formula. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is electric fuse and what is its function? (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State factors on which resistance of conductor depends. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define electric current and its unit. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define electric current and its unit. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State Ohm's law. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define electric current and its unit. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What happens to current if resistance is doubled keeping voltage same? (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State Ohm's law. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define resistance and write its SI unit.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Calculate current when voltage = 12V and resistance = 6ohm.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Derive expression for equivalent resistance in series.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "State and explain Ohm’s law with circuit diagram.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate current when voltage = 12V and resistance = 6ohm. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate resistance when current = 0.5A and voltage = 3V.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate resistance when current = 0.5A and voltage = 3V. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What are advantages of parallel connection in domestic circuit?",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain Joule’s law of heating and its applications.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Differentiate between resistance and resistivity.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain effect on current when length or area of conductor changes.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Derive expression for equivalent resistance in parallel.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Differentiate between resistance and resistivity. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Differentiate between resistance and resistivity. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate current when voltage = 12V and resistance = 6ohm. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Differentiate between resistance and resistivity. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate resistance when current = 0.5A and voltage = 3V. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Derive expression for equivalent resistance in series. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain effect on current when length or area of conductor changes. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain effect on current when length or area of conductor changes. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What are advantages of parallel connection in domestic circuit? (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate resistance when current = 0.5A and voltage = 3V. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Derive expression for equivalent resistance in parallel. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate resistance when current = 0.5A and voltage = 3V. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate resistance when current = 0.5A and voltage = 3V. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain effect on current when length or area of conductor changes. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate resistance when current = 0.5A and voltage = 3V. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate resistance when current = 0.5A and voltage = 3V. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate current when voltage = 12V and resistance = 6ohm. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Derive expression for equivalent resistance in parallel. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "State and explain Ohm’s law with circuit diagram. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Derive expression for equivalent resistance in series. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain Joule’s law of heating and its applications. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain effect on current when length or area of conductor changes. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Derive expression for total resistance when three resistors are connected in parallel.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain magnetic effect of current with right-hand thumb rule.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain electromagnetic induction and Faraday’s experiment.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Derive expression for total resistance when three resistors are connected in parallel. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State and explain Ohm’s law, derive relation between V, I and R and draw its graph.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Derive relation between power, current and voltage. Calculate energy in kWh for 2 hours at 1kW.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain working of electric generator with neat diagram.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State and explain Ohm’s law, derive relation between V, I and R and draw its graph. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State Joule’s law of heating and derive relation H = I²Rt.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain magnetic effect of current with right-hand thumb rule. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Derive relation between power, current and voltage. Calculate energy in kWh for 2 hours at 1kW. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain working principle of electric motor with labelled diagram.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State and explain Ohm’s law, derive relation between V, I and R and draw its graph. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State and explain Ohm’s law, derive relation between V, I and R and draw its graph. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain working of electric generator with neat diagram. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain electromagnetic induction and Faraday’s experiment. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State and explain Ohm’s law, derive relation between V, I and R and draw its graph. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe an experiment to verify Ohm’s law with procedure and observation.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State Joule’s law of heating and derive relation H = I²Rt. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State and explain Ohm’s law, derive relation between V, I and R and draw its graph. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain electromagnetic induction and Faraday’s experiment. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain magnetic effect of current with right-hand thumb rule. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain working principle of electric motor with labelled diagram. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain working of electric generator with neat diagram. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain working principle of electric motor with labelled diagram. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe an experiment to verify Ohm’s law with procedure and observation. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Derive expression for total resistance when three resistors are connected in parallel. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe an experiment to verify Ohm’s law with procedure and observation. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Derive relation between power, current and voltage. Calculate energy in kWh for 2 hours at 1kW. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State and explain Ohm’s law, derive relation between V, I and R and draw its graph. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain magnetic effect of current with right-hand thumb rule. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State and explain Ohm’s law, derive relation between V, I and R and draw its graph. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Derive expression for total resistance when three resistors are connected in parallel. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Derive relation between power, current and voltage. Calculate energy in kWh for 2 hours at 1kW. (variant)",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Define potential difference and its unit. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is electric fuse and what is its function? (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State factors on which resistance of conductor depends. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define electric power and write its formula. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define resistance and write its SI unit. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State factors on which resistance of conductor depends. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define resistance and write its SI unit. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State Joule's law of heating. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State Joule's law of heating. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State Ohm's law. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State relation between current, voltage and resistance. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State Joule's law of heating. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State factors on which resistance of conductor depends. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State Joule's law of heating. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define resistance and write its SI unit. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define potential difference and its unit. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State Joule's law of heating. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State factors on which resistance of conductor depends. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State Joule's law of heating. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State relation between current, voltage and resistance. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define electric power and write its formula. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define resistance and write its SI unit. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State relation between current, voltage and resistance. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State relation between current, voltage and resistance. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define potential difference and its unit. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What happens to current if resistance is doubled keeping voltage same? (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define electric power and write its formula. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State relation between current, voltage and resistance. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define resistance and write its SI unit. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define electric power and write its formula. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State relation between current, voltage and resistance. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State Joule's law of heating. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State Ohm's law. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain how fuse works in household circuit.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Derive expression for equivalent resistance in series. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how fuse works in household circuit. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Differentiate between resistance and resistivity. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Differentiate between resistance and resistivity. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how fuse works in household circuit. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain effect on current when length or area of conductor changes. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What are advantages of parallel connection in domestic circuit? (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate current when voltage = 12V and resistance = 6ohm. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "State and explain Ohm’s law with circuit diagram. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "State and explain Ohm’s law with circuit diagram. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain Joule’s law of heating and its applications. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Derive expression for equivalent resistance in parallel. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain Joule’s law of heating and its applications. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate current when voltage = 12V and resistance = 6ohm. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Derive expression for equivalent resistance in series. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What are advantages of parallel connection in domestic circuit? (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how fuse works in household circuit. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate current when voltage = 12V and resistance = 6ohm. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain effect on current when length or area of conductor changes. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What are advantages of parallel connection in domestic circuit? (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate current when voltage = 12V and resistance = 6ohm. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate current when voltage = 12V and resistance = 6ohm. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What are advantages of parallel connection in domestic circuit? (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain Joule’s law of heating and its applications. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Differentiate between resistance and resistivity. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate current when voltage = 12V and resistance = 6ohm. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Differentiate between resistance and resistivity. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate resistance when current = 0.5A and voltage = 3V. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate resistance when current = 0.5A and voltage = 3V. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Differentiate between resistance and resistivity. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate resistance when current = 0.5A and voltage = 3V. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Derive expression for equivalent resistance in parallel. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Derive expression for total resistance when three resistors are connected in parallel. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe an experiment to verify Ohm’s law with procedure and observation. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Derive expression for total resistance when three resistors are connected in parallel. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain working principle of electric motor with labelled diagram. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe an experiment to verify Ohm’s law with procedure and observation. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Derive relation between power, current and voltage. Calculate energy in kWh for 2 hours at 1kW. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe an experiment to verify Ohm’s law with procedure and observation. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain electromagnetic induction and Faraday’s experiment. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain magnetic effect of current with right-hand thumb rule. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State and explain Ohm’s law, derive relation between V, I and R and draw its graph. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Derive relation between power, current and voltage. Calculate energy in kWh for 2 hours at 1kW. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain working principle of electric motor with labelled diagram. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain working principle of electric motor with labelled diagram. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain magnetic effect of current with right-hand thumb rule. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State Joule’s law of heating and derive relation H = I²Rt. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain working principle of electric motor with labelled diagram. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain heating effect of electric current and derive formula for heat produced.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe an experiment to verify Ohm’s law with procedure and observation. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Derive expression for total resistance when three resistors are connected in parallel. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain magnetic effect of current with right-hand thumb rule. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain working principle of electric motor with labelled diagram. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Derive expression for total resistance when three resistors are connected in parallel. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe an experiment to verify Ohm’s law with procedure and observation. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain working of electric generator with neat diagram. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State Joule’s law of heating and derive relation H = I²Rt. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State and explain Ohm’s law, derive relation between V, I and R and draw its graph. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain heating effect of electric current and derive formula for heat produced. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Derive relation between power, current and voltage. Calculate energy in kWh for 2 hours at 1kW. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State Joule’s law of heating and derive relation H = I²Rt. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State Joule’s law of heating and derive relation H = I²Rt. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain magnetic effect of current with right-hand thumb rule. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Derive relation between power, current and voltage. Calculate energy in kWh for 2 hours at 1kW. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State and explain Ohm’s law, derive relation between V, I and R and draw its graph. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State Joule’s law of heating and derive relation H = I²Rt. (variant)",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Define potential difference and its unit. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State Joule's law of heating. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State Ohm's law. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define potential difference and its unit. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define resistance and write its SI unit. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define electric current and its unit. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define resistance and write its SI unit. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State Ohm's law. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State Joule's law of heating. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State Joule's law of heating. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What happens to current if resistance is doubled keeping voltage same? (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define electric current and its unit. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define potential difference and its unit. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State relation between current, voltage and resistance. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State factors on which resistance of conductor depends. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State Ohm's law. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What happens to current if resistance is doubled keeping voltage same? (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is electric fuse and what is its function? (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define potential difference and its unit. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define potential difference and its unit. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define potential difference and its unit. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State factors on which resistance of conductor depends. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define resistance and write its SI unit. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State Ohm's law. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State relation between current, voltage and resistance. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define electric power and write its formula. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define potential difference and its unit. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State Joule's law of heating. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State Ohm's law. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State Ohm's law. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State Joule's law of heating. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State Joule's law of heating. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State factors on which resistance of conductor depends. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Calculate resistance when current = 0.5A and voltage = 3V. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate resistance when current = 0.5A and voltage = 3V. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Differentiate between resistance and resistivity. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "State and explain Ohm’s law with circuit diagram. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain Joule’s law of heating and its applications. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Derive expression for equivalent resistance in series. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain Joule’s law of heating and its applications. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Derive expression for equivalent resistance in parallel. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Derive expression for equivalent resistance in parallel. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain effect on current when length or area of conductor changes. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "State and explain Ohm’s law with circuit diagram. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate current when voltage = 12V and resistance = 6ohm. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "State and explain Ohm’s law with circuit diagram. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What are advantages of parallel connection in domestic circuit? (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What are advantages of parallel connection in domestic circuit? (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate current when voltage = 12V and resistance = 6ohm. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What are advantages of parallel connection in domestic circuit? (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate current when voltage = 12V and resistance = 6ohm. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate current when voltage = 12V and resistance = 6ohm. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Derive expression for equivalent resistance in series. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain Joule’s law of heating and its applications. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain Joule’s law of heating and its applications. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "State and explain Ohm’s law with circuit diagram. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "State and explain Ohm’s law with circuit diagram. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Derive expression for equivalent resistance in series. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate resistance when current = 0.5A and voltage = 3V. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What are advantages of parallel connection in domestic circuit? (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how fuse works in household circuit. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate resistance when current = 0.5A and voltage = 3V. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What are advantages of parallel connection in domestic circuit? (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Derive expression for equivalent resistance in parallel. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain effect on current when length or area of conductor changes. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Differentiate between resistance and resistivity. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Derive relation between power, current and voltage. Calculate energy in kWh for 2 hours at 1kW. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State Joule’s law of heating and derive relation H = I²Rt. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain working of electric generator with neat diagram. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State Joule’s law of heating and derive relation H = I²Rt. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State and explain Ohm’s law, derive relation between V, I and R and draw its graph. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State and explain Ohm’s law, derive relation between V, I and R and draw its graph. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain working principle of electric motor with labelled diagram. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain magnetic effect of current with right-hand thumb rule. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain magnetic effect of current with right-hand thumb rule. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain heating effect of electric current and derive formula for heat produced. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State and explain Ohm’s law, derive relation between V, I and R and draw its graph. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain heating effect of electric current and derive formula for heat produced. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State Joule’s law of heating and derive relation H = I²Rt. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain magnetic effect of current with right-hand thumb rule. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain heating effect of electric current and derive formula for heat produced. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Derive relation between power, current and voltage. Calculate energy in kWh for 2 hours at 1kW. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain working of electric generator with neat diagram. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe an experiment to verify Ohm’s law with procedure and observation. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State and explain Ohm’s law, derive relation between V, I and R and draw its graph. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain working of electric generator with neat diagram. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain magnetic effect of current with right-hand thumb rule. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain heating effect of electric current and derive formula for heat produced. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State Joule’s law of heating and derive relation H = I²Rt. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Derive expression for total resistance when three resistors are connected in parallel. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain heating effect of electric current and derive formula for heat produced. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe an experiment to verify Ohm’s law with procedure and observation. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State and explain Ohm’s law, derive relation between V, I and R and draw its graph. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Derive relation between power, current and voltage. Calculate energy in kWh for 2 hours at 1kW. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Derive relation between power, current and voltage. Calculate energy in kWh for 2 hours at 1kW. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain working principle of electric motor with labelled diagram. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Derive expression for total resistance when three resistors are connected in parallel. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain working of electric generator with neat diagram. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain heating effect of electric current and derive formula for heat produced. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Derive relation between power, current and voltage. Calculate energy in kWh for 2 hours at 1kW. (variant)",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  }
+]

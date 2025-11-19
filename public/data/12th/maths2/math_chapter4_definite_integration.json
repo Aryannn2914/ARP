@@ -1,0 +1,3152 @@
+[
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find ∫₁^{2} f(x) dx where f(x) = x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the geometrical meaning of ∫ₐᵇ f(x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫₁^{2} f(x) dx where f(x) = x+1."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "If ∫₀^{pi} f(x) dx = 5, find ∫₀^{pi} f(pi−x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the geometrical meaning of ∫ₐᵇ f(x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫₀^{pi/2} f(x) dx where f(x) = x+1."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫₁^{3} f(x) dx where f(x) = tan x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the fundamental theorem of calculus for f(x) = e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫₀^{pi/2} f(x) dx where f(x) = sin x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the relation between definite and indefinite integrals for f(x) = e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the relation between definite and indefinite integrals for f(x) = x^2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find ∫₁^{2} f(x) dx where f(x) = 1/x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the fundamental theorem of calculus for f(x) = e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫₀^{pi/2} sin x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "If ∫₀^{pi} f(x) dx = 5, find ∫₀^{pi} f(pi−x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the fundamental theorem of calculus for f(x) = 1/x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫₁^{2} f(x) dx where f(x) = x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find the value of ∫₀^{a} f(x) dx using symmetry when f(x) = x^2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫₁^{2} f(x) dx where f(x) = tan x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the relation between definite and indefinite integrals for f(x) = sin x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the geometrical meaning of ∫ₐᵇ f(x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫₁^{2} f(x) dx where f(x) = x^3."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫₁^{3} f(x) dx where f(x) = cos x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "If ∫₀^{pi} f(x) dx = 5, find ∫₀^{pi} f(pi−x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫₁^{3} f(x) dx where f(x) = cos x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi/2} f(x) dx where f(x) = cos x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the relation between definite and indefinite integrals for f(x) = tan x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the geometrical meaning of ∫ₐᵇ f(x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the relation between definite and indefinite integrals for f(x) = cos x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "If ∫₀^{pi} f(x) dx = 5, find ∫₀^{pi} f(pi−x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State one property of definite integrals for f(x) = cos x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find ∫₁^{3} f(x) dx where f(x) = e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "If ∫₀^{pi} f(x) dx = 5, find ∫₀^{pi} f(pi−x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the geometrical meaning of ∫ₐᵇ f(x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find ∫₁^{2} f(x) dx where f(x) = x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State one property of definite integrals for f(x) = sin x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "If ∫₀^{pi} f(x) dx = 5, find ∫₀^{pi} f(pi−x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "If ∫₀^{pi} f(x) dx = 5, find ∫₀^{pi} f(pi−x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find ∫₁^{3} f(x) dx where f(x) = e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫₀^{pi/2} f(x) dx where f(x) = x^2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find ∫₁^{3} f(x) dx where f(x) = e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the relation between definite and indefinite integrals for f(x) = x^2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State one property of definite integrals for f(x) = sec x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find the value of ∫₀^{a} f(x) dx using symmetry when f(x) = x+1."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find ∫₁^{3} f(x) dx where f(x) = x^2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the value of ∫₀^{a} f(x) dx using symmetry when f(x) = x+1."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State one property of definite integrals for f(x) = 1/x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find ∫₁^{3} f(x) dx where f(x) = x+1."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the fundamental theorem of calculus for f(x) = 1/x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find ∫₁^{2} f(x) dx where f(x) = 1/x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the value of ∫₀^{a} f(x) dx using symmetry when f(x) = cos x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the fundamental theorem of calculus for f(x) = x^2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi/2} sin x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫₁^{3} f(x) dx where f(x) = sin x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫₀^{pi/2} sin x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫₁^{3} f(x) dx where f(x) = x^3."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the geometrical meaning of ∫ₐᵇ f(x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the geometrical meaning of ∫ₐᵇ f(x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the relation between definite and indefinite integrals for f(x) = sec x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫₀^{pi/2} sin x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫₁^{2} f(x) dx where f(x) = 1/x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫₁^{3} f(x) dx where f(x) = cos x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi/2} f(x) dx where f(x) = x^2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫₀^{pi/2} f(x) dx where f(x) = cos x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫₀^{pi/2} f(x) dx where f(x) = 1/x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the geometrical meaning of ∫ₐᵇ f(x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the geometrical meaning of ∫ₐᵇ f(x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the fundamental theorem of calculus for f(x) = x^3."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫₀^{pi/2} sin x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫₁^{2} f(x) dx where f(x) = tan x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "If ∫₀^{pi} f(x) dx = 5, find ∫₀^{pi} f(pi−x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫₀^{pi/2} f(x) dx where f(x) = x^2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the relation between definite and indefinite integrals for f(x) = x^2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the geometrical meaning of ∫ₐᵇ f(x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "If ∫₀^{pi} f(x) dx = 5, find ∫₀^{pi} f(pi−x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the geometrical meaning of ∫ₐᵇ f(x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫₁^{3} f(x) dx where f(x) = x^2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find ∫₁^{3} f(x) dx where f(x) = x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the geometrical meaning of ∫ₐᵇ f(x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi/2} sin x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫₀^{pi/2} f(x) dx where f(x) = sin x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "If ∫₀^{pi} f(x) dx = 5, find ∫₀^{pi} f(pi−x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫₀^{pi/2} sin x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫₁^{3} f(x) dx where f(x) = sec x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find the value of ∫₀^{a} f(x) dx using symmetry when f(x) = cos x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the fundamental theorem of calculus for f(x) = x+1."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the relation between definite and indefinite integrals for f(x) = x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi/2} sin x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫₁^{3} f(x) dx where f(x) = sin x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find ∫₁^{3} f(x) dx where f(x) = x^2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫₁^{2} f(x) dx where f(x) = x^3."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the geometrical meaning of ∫ₐᵇ f(x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the fundamental theorem of calculus for f(x) = cos x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫₀^{pi/2} f(x) dx where f(x) = x^3."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the fundamental theorem of calculus for f(x) = x^3."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the value of ∫₀^{a} f(x) dx using symmetry when f(x) = cos x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the relation between definite and indefinite integrals for f(x) = cos x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State one property of definite integrals for f(x) = e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫₁^{2} f(x) dx where f(x) = x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the fundamental theorem of calculus for f(x) = x^2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the geometrical meaning of ∫ₐᵇ f(x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the relation between definite and indefinite integrals for f(x) = x^2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the relation between definite and indefinite integrals for f(x) = e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫₁^{3} f(x) dx where f(x) = e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫₁^{3} f(x) dx where f(x) = x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find ∫₁^{3} f(x) dx where f(x) = e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫₁^{2} f(x) dx where f(x) = sin x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫₁^{2} f(x) dx where f(x) = x+1."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the value of ∫₀^{a} f(x) dx using symmetry when f(x) = x^3."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the relation between definite and indefinite integrals for f(x) = cos x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the value of ∫₀^{a} f(x) dx using symmetry when f(x) = x+1."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫₀^{pi/2} f(x) dx where f(x) = x^2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the value of ∫₀^{a} f(x) dx using symmetry when f(x) = x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State one property of definite integrals for f(x) = e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi/2} sin x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫₁^{3} f(x) dx where f(x) = x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State one property of definite integrals for f(x) = x+1."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the relation between definite and indefinite integrals for f(x) = x^3."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "If ∫₀^{pi} f(x) dx = 5, find ∫₀^{pi} f(pi−x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the relation between definite and indefinite integrals for f(x) = x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the geometrical meaning of ∫ₐᵇ f(x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the relation between definite and indefinite integrals for f(x) = x+1."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "If ∫₀^{pi} f(x) dx = 5, find ∫₀^{pi} f(pi−x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the geometrical meaning of ∫ₐᵇ f(x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State one property of definite integrals for f(x) = tan x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the relation between definite and indefinite integrals for f(x) = tan x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the geometrical meaning of ∫ₐᵇ f(x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find ∫₁^{2} f(x) dx where f(x) = tan x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫₀^{pi/2} sin x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫₀^{pi/2} sin x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the geometrical meaning of ∫ₐᵇ f(x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the geometrical meaning of ∫ₐᵇ f(x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫₁^{2} f(x) dx where f(x) = e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫₁^{3} f(x) dx where f(x) = tan x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find ∫₁^{3} f(x) dx where f(x) = 1/x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫₁^{2} f(x) dx where f(x) = e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the value of ∫₀^{a} f(x) dx using symmetry when f(x) = x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "If ∫₀^{pi} f(x) dx = 5, find ∫₀^{pi} f(pi−x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the relation between definite and indefinite integrals for f(x) = tan x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫₁^{3} f(x) dx where f(x) = x^2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the fundamental theorem of calculus for f(x) = cos x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "If ∫₀^{pi} f(x) dx = 5, find ∫₀^{pi} f(pi−x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫₁^{3} f(x) dx where f(x) = cos x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫₁^{2} f(x) dx where f(x) = 1/x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find ∫₁^{2} f(x) dx where f(x) = e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "If ∫₀^{pi} f(x) dx = 5, find ∫₀^{pi} f(pi−x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the value of ∫₀^{a} f(x) dx using symmetry when f(x) = x+1."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "If ∫₀^{pi} f(x) dx = 5, find ∫₀^{pi} f(pi−x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State one property of definite integrals for f(x) = x^3."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "If ∫₀^{pi} f(x) dx = 5, find ∫₀^{pi} f(pi−x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Using ∫₀^{a} f(x) dx = ∫₀^{a} f(a−x) dx, evaluate ∫₀^{4} f(x) dx when f(x) = cos 3x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} sin²x dx = ∫₀^{pi/2} cos²x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Show that ∫₀^{a} x dx = (a²)/2 using geometry."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{2} f(x) dx for f(x) = (2x)/(x^2+4)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Show that ∫₀^{pi/2} sin x dx = ∫₀^{pi/2} cos x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Prove that ∫₀^{pi/2} sin²x dx = ∫₀^{pi/2} cos²x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫₀^{2} f(x) dx for f(x) = cos 3x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫₀^{2} f(x) dx for f(x) = x e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{2} f(x) dx for f(x) = x/(x^2+1)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫₀^{a} f(x) dx using substitution when f(x) = x/(x^2+1)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} sin²x dx = ∫₀^{pi/2} cos²x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫₀^{pi/2} f(x) dx using trigonometric identities for f(x) = x/(x^2+1)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Show that ∫₀^{pi/2} sin x dx = ∫₀^{pi/2} cos x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫₀^{a} f(x) dx using substitution when f(x) = x^2 e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫₀^{pi/2} f(x) dx and verify by substitution x = pi/2 − t for f(x) = x/(x^2+1)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{2} f(x) dx for f(x) = x cos x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Show that ∫₀^{a} x dx = (a²)/2 using geometry."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Prove that ∫₀^{pi/2} sin²x dx = ∫₀^{pi/2} cos²x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Show that ∫₀^{a} x dx = (a²)/2 using geometry."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫₀^{pi/2} f(x) dx and verify by substitution x = pi/2 − t for f(x) = x^2 e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find ∫₀^{pi/2} f(x) dx and verify by substitution x = pi/2 − t for f(x) = x/(x^2+1)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Show that ∫₀^{a} x dx = (a²)/2 using geometry."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{2} f(x) dx for f(x) = cos 3x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫₀^{pi/2} f(x) dx and verify by substitution x = pi/2 − t for f(x) = x/(x^2+1)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Using ∫₀^{a} f(x) dx = ∫₀^{a} f(a−x) dx, evaluate ∫₀^{4} f(x) dx when f(x) = x/(x^2+1)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Using ∫₀^{a} f(x) dx = ∫₀^{a} f(a−x) dx, evaluate ∫₀^{4} f(x) dx when f(x) = sin 2x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫₀^{pi/4} f(x) dx by parts for f(x) = (2x)/(x^2+4)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Show that ∫₀^{pi/2} sin x dx = ∫₀^{pi/2} cos x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Show that ∫₀^{pi/2} sin x dx = ∫₀^{pi/2} cos x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫₀^{pi/2} f(x) dx using trigonometric identities for f(x) = ln x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫₀^{pi/2} f(x) dx using trigonometric identities for f(x) = x sin x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find ∫₀^{pi/2} f(x) dx using trigonometric identities for f(x) = x^2 e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Prove that ∫₀^{pi/2} sin²x dx = ∫₀^{pi/2} cos²x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} sin²x dx = ∫₀^{pi/2} cos²x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi/4} f(x) dx by parts for f(x) = cos 3x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫₀^{pi/2} f(x) dx using trigonometric identities for f(x) = (2x)/(x^2+4)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find ∫₀^{pi/2} f(x) dx and verify by substitution x = pi/2 − t for f(x) = tan^2 x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Show that ∫₀^{a} x dx = (a²)/2 using geometry."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Show that ∫₀^{a} x dx = (a²)/2 using geometry."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫₀^{pi/2} f(x) dx using trigonometric identities for f(x) = x e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Show that ∫₀^{pi/2} sin x dx = ∫₀^{pi/2} cos x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫₀^{pi/2} f(x) dx using trigonometric identities for f(x) = tan^2 x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi} f(x) dx where f(x) = x cos x using the property f(x) = f(pi−x)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Show that ∫₀^{pi/2} sin x dx = ∫₀^{pi/2} cos x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Using ∫₀^{a} f(x) dx = ∫₀^{a} f(a−x) dx, evaluate ∫₀^{4} f(x) dx when f(x) = x^2 e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Show that ∫₀^{a} x dx = (a²)/2 using geometry."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫₀^{pi/2} f(x) dx using trigonometric identities for f(x) = cos 3x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫₀^{pi/2} f(x) dx using trigonometric identities for f(x) = cos 3x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Show that ∫₀^{a} x dx = (a²)/2 using geometry."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫₀^{pi} f(x) dx where f(x) = ln x using the property f(x) = f(pi−x)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫₀^{a} f(x) dx using substitution when f(x) = x sin x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{2} f(x) dx for f(x) = sin 2x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Prove that ∫₀^{pi/2} sin²x dx = ∫₀^{pi/2} cos²x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Show that ∫₀^{a} x dx = (a²)/2 using geometry."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{2} f(x) dx for f(x) = x/(x^2+1)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi/4} f(x) dx by parts for f(x) = x e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find ∫₀^{a} f(x) dx using substitution when f(x) = x e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫₀^{a} f(x) dx using substitution when f(x) = tan^2 x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Using ∫₀^{a} f(x) dx = ∫₀^{a} f(a−x) dx, evaluate ∫₀^{4} f(x) dx when f(x) = tan^2 x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find ∫₀^{pi/2} f(x) dx using trigonometric identities for f(x) = x^2 e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{2} f(x) dx for f(x) = x cos x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{2} f(x) dx for f(x) = x cos x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Using ∫₀^{a} f(x) dx = ∫₀^{a} f(a−x) dx, evaluate ∫₀^{4} f(x) dx when f(x) = tan^2 x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Prove that ∫₀^{pi/2} sin²x dx = ∫₀^{pi/2} cos²x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫₀^{pi/2} f(x) dx using trigonometric identities for f(x) = ln x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi/4} f(x) dx by parts for f(x) = x sin x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Show that ∫₀^{a} x dx = (a²)/2 using geometry."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi/4} f(x) dx by parts for f(x) = x/(x^2+1)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫₀^{pi/2} f(x) dx using trigonometric identities for f(x) = x e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Using ∫₀^{a} f(x) dx = ∫₀^{a} f(a−x) dx, evaluate ∫₀^{4} f(x) dx when f(x) = tan^2 x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫₀^{pi/2} f(x) dx and verify by substitution x = pi/2 − t for f(x) = x/(x^2+1)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Prove that ∫₀^{pi/2} sin²x dx = ∫₀^{pi/2} cos²x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫₀^{2} f(x) dx for f(x) = x cos x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Show that ∫₀^{a} x dx = (a²)/2 using geometry."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} sin²x dx = ∫₀^{pi/2} cos²x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi/4} f(x) dx by parts for f(x) = x sin x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi/4} f(x) dx by parts for f(x) = x e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫₀^{pi/4} f(x) dx by parts for f(x) = cos 3x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} sin²x dx = ∫₀^{pi/2} cos²x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫₀^{pi/2} f(x) dx and verify by substitution x = pi/2 − t for f(x) = sin 2x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫₀^{pi/2} f(x) dx using trigonometric identities for f(x) = x/(x^2+1)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{2} f(x) dx for f(x) = x/(x^2+1)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Show that ∫₀^{a} x dx = (a²)/2 using geometry."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫₀^{a} f(x) dx using substitution when f(x) = cos 3x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{2} f(x) dx for f(x) = cos 3x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi/4} f(x) dx by parts for f(x) = x/(x^2+1)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫₀^{pi/4} f(x) dx by parts for f(x) = x^2 e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫₀^{pi/2} f(x) dx and verify by substitution x = pi/2 − t for f(x) = ln x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Show that ∫₀^{a} x dx = (a²)/2 using geometry."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{2} f(x) dx for f(x) = x cos x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi/4} f(x) dx by parts for f(x) = x cos x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Show that ∫₀^{pi/2} sin x dx = ∫₀^{pi/2} cos x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Show that ∫₀^{a} x dx = (a²)/2 using geometry."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫₀^{pi/2} f(x) dx and verify by substitution x = pi/2 − t for f(x) = tan^2 x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫₀^{a} f(x) dx using substitution when f(x) = sin 2x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫₀^{pi/4} f(x) dx by parts for f(x) = x e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫₀^{pi/2} f(x) dx and verify by substitution x = pi/2 − t for f(x) = x e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫₀^{pi} f(x) dx where f(x) = (2x)/(x^2+4) using the property f(x) = f(pi−x)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Show that ∫₀^{pi/2} sin x dx = ∫₀^{pi/2} cos x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫₀^{pi} f(x) dx where f(x) = tan^2 x using the property f(x) = f(pi−x)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Show that ∫₀^{a} x dx = (a²)/2 using geometry."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫₀^{pi} f(x) dx where f(x) = cos 3x using the property f(x) = f(pi−x)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Show that ∫₀^{a} x dx = (a²)/2 using geometry."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫₀^{pi/2} f(x) dx using trigonometric identities for f(x) = x/(x^2+1)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫₀^{pi} f(x) dx where f(x) = x e^x using the property f(x) = f(pi−x)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Prove that ∫₀^{pi/2} sin²x dx = ∫₀^{pi/2} cos²x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{2} f(x) dx for f(x) = x cos x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫₀^{pi/2} f(x) dx using trigonometric identities for f(x) = tan^2 x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} sin²x dx = ∫₀^{pi/2} cos²x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find ∫₀^{pi/2} f(x) dx using trigonometric identities for f(x) = x/(x^2+1)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Using ∫₀^{a} f(x) dx = ∫₀^{a} f(a−x) dx, evaluate ∫₀^{4} f(x) dx when f(x) = tan^2 x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Using ∫₀^{a} f(x) dx = ∫₀^{a} f(a−x) dx, evaluate ∫₀^{4} f(x) dx when f(x) = tan^2 x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Prove that ∫₀^{pi/2} sin²x dx = ∫₀^{pi/2} cos²x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫₀^{2} f(x) dx for f(x) = sin 2x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫₀^{a} f(x) dx using substitution when f(x) = x e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫₀^{pi/2} f(x) dx and verify by substitution x = pi/2 − t for f(x) = x cos x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫₀^{pi/2} f(x) dx using trigonometric identities for f(x) = x/(x^2+1)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Show that ∫₀^{a} x dx = (a²)/2 using geometry."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Using ∫₀^{a} f(x) dx = ∫₀^{a} f(a−x) dx, evaluate ∫₀^{4} f(x) dx when f(x) = cos 3x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Show that ∫₀^{a} x dx = (a²)/2 using geometry."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Using ∫₀^{a} f(x) dx = ∫₀^{a} f(a−x) dx, evaluate ∫₀^{4} f(x) dx when f(x) = tan^2 x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫₀^{2} f(x) dx for f(x) = x^2 e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫₀^{2} f(x) dx for f(x) = x e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Show that ∫₀^{pi/2} sin x dx = ∫₀^{pi/2} cos x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Using ∫₀^{a} f(x) dx = ∫₀^{a} f(a−x) dx, evaluate ∫₀^{4} f(x) dx when f(x) = tan^2 x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} sin²x dx = ∫₀^{pi/2} cos²x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Show that ∫₀^{a} x dx = (a²)/2 using geometry."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Using ∫₀^{a} f(x) dx = ∫₀^{a} f(a−x) dx, evaluate ∫₀^{4} f(x) dx when f(x) = (2x)/(x^2+4)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Show that ∫₀^{a} x dx = (a²)/2 using geometry."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find ∫₀^{pi/2} f(x) dx using trigonometric identities for f(x) = ln x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫₀^{pi} f(x) dx where f(x) = x cos x using the property f(x) = f(pi−x)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Prove that ∫₀^{pi/2} sin²x dx = ∫₀^{pi/2} cos²x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Using ∫₀^{a} f(x) dx = ∫₀^{a} f(a−x) dx, evaluate ∫₀^{4} f(x) dx when f(x) = tan^2 x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Show that ∫₀^{pi/2} sin x dx = ∫₀^{pi/2} cos x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Show that ∫₀^{a} x dx = (a²)/2 using geometry."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} sin²x dx = ∫₀^{pi/2} cos²x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Show that ∫₀^{a} x dx = (a²)/2 using geometry."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫₀^{pi/2} f(x) dx using trigonometric identities for f(x) = ln x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫₀^{a} f(x) dx using substitution when f(x) = x e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Show that ∫₀^{a} x dx = (a²)/2 using geometry."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫₀^{pi/2} f(x) dx using trigonometric identities for f(x) = (2x)/(x^2+4)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find ∫₀^{a} f(x) dx using substitution when f(x) = ln x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find ∫₀^{a} f(x) dx using substitution when f(x) = x^2 e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi} f(x) dx where f(x) = (2x)/(x^2+4) using the property f(x) = f(pi−x)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi} f(x) dx where f(x) = sin 2x using the property f(x) = f(pi−x)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} sin²x dx = ∫₀^{pi/2} cos²x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Evaluate ∫₀^{pi} f(x) dx where f(x) = sin 2x using the property f(x) = f(pi−x)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Show that ∫₀^{pi/2} sin x dx = ∫₀^{pi/2} cos x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Show that ∫₀^{a} x dx = (a²)/2 using geometry."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} sin²x dx = ∫₀^{pi/2} cos²x dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} log(sin x) dx = ∫₀^{pi/2} log(cos x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Show that ∫₀^{pi/2} (sin x + cos x) dx = √2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫₀^{pi/2} sin²x cos²x dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find ∫₀^{pi/4} f(x) dx by using substitution and properties of definite integrals where f(x) = (x^3)/(x^2+1)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that ∫₀^{pi/2} log(sin x) dx = ∫₀^{pi/2} log(cos x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Show that ∫₀^{pi/2} (sin x + cos x) dx = √2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using properties, prove that ∫₀^{pi} sin x dx = 2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Show that ∫₀^{pi/2} (sin x + cos x) dx = √2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using the property of definite integrals, find ∫₀^{a} (x² + (a−x)²) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} log(sin x) dx = ∫₀^{pi/2} log(cos x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using the property of definite integrals, find ∫₀^{a} (x² + (a−x)²) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that ∫₀^{pi/2} log(sin x) dx = ∫₀^{pi/2} log(cos x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫₀^{pi} |sin x| dx geometrically."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} (sinⁿx + cosⁿx) dx = √pi/2 for specific n."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫₀^{pi/2} e^x sin x dx using integration by parts twice."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Show that ∫₀^{pi/2} (sin x + cos x) dx = √2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using properties, prove that ∫₀^{pi} sin x dx = 2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using properties, prove that ∫₀^{pi} sin x dx = 2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} (sinⁿx + cosⁿx) dx = √pi/2 for specific n."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find ∫₀^{pi/4} f(x) dx by using substitution and properties of definite integrals where f(x) = (x^3)/(x^2+1)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find ∫₀^{pi/4} f(x) dx by using substitution and properties of definite integrals where f(x) = x^2/(x^2+4)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫₀^{pi/2} e^x sin x dx using integration by parts twice."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that ∫₀^{pi/2} (sinⁿx + cosⁿx) dx = √pi/2 for specific n."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that ∫₀^{pi/2} (sinⁿx + cosⁿx) dx = √pi/2 for specific n."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Show that ∫₀^{pi/2} (sin x + cos x) dx = √2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that ∫₀^{pi/2} log(sin x) dx = ∫₀^{pi/2} log(cos x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Show that ∫₀^{pi/2} (sin x + cos x) dx = √2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using the property of definite integrals, find ∫₀^{a} (x² + (a−x)²) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} (sinⁿx + cosⁿx) dx = √pi/2 for specific n."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫₀^{pi/2} sin²x cos²x dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that ∫₀^{pi/2} log(sin x) dx = ∫₀^{pi/2} log(cos x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Show that ∫₀^{pi/2} (sin x + cos x) dx = √2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi/2} sin²x cos²x dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} log(sin x) dx = ∫₀^{pi/2} log(cos x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} sinⁿx dx = ∫₀^{pi/2} cosⁿx dx for all positive n."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Show that ∫₀^{pi/2} (sin x + cos x) dx = √2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Show that ∫₀^{pi/2} (sin x + cos x) dx = √2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find ∫₀^{pi/4} f(x) dx by using substitution and properties of definite integrals where f(x) = x^3 cos x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫₀^{pi} |sin x| dx geometrically."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using properties, prove that ∫₀^{pi} sin x dx = 2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find ∫₀^{pi/4} f(x) dx by using substitution and properties of definite integrals where f(x) = ln(1+x)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} log(sin x) dx = ∫₀^{pi/2} log(cos x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that ∫₀^{pi/2} sinⁿx dx = ∫₀^{pi/2} cosⁿx dx for all positive n."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using the property of definite integrals, find ∫₀^{a} (x² + (a−x)²) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi/2} e^x sin x dx using integration by parts twice."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Show that ∫₀^{pi/2} (sin x + cos x) dx = √2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that ∫₀^{pi/2} log(sin x) dx = ∫₀^{pi/2} log(cos x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} (sinⁿx + cosⁿx) dx = √pi/2 for specific n."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫₀^{pi} |sin x| dx geometrically."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that ∫₀^{pi/2} log(sin x) dx = ∫₀^{pi/2} log(cos x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Show that ∫₀^{pi/2} (sin x + cos x) dx = √2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that ∫₀^{pi/2} sinⁿx dx = ∫₀^{pi/2} cosⁿx dx for all positive n."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that ∫₀^{pi/2} log(sin x) dx = ∫₀^{pi/2} log(cos x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫₀^{pi/2} e^x sin x dx using integration by parts twice."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫₀^{pi} |sin x| dx geometrically."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find ∫₀^{pi/4} f(x) dx by using substitution and properties of definite integrals where f(x) = x^2 e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that ∫₀^{pi/2} sinⁿx dx = ∫₀^{pi/2} cosⁿx dx for all positive n."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} sinⁿx dx = ∫₀^{pi/2} cosⁿx dx for all positive n."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find ∫₀^{pi/4} f(x) dx by using substitution and properties of definite integrals where f(x) = x^2 e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi/2} e^x sin x dx using integration by parts twice."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find ∫₀^{pi/4} f(x) dx by using substitution and properties of definite integrals where f(x) = x^2/(x^2+4)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫₀^{pi/2} e^x sin x dx using integration by parts twice."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} log(sin x) dx = ∫₀^{pi/2} log(cos x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that ∫₀^{pi/2} (sinⁿx + cosⁿx) dx = √pi/2 for specific n."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi/2} e^x sin x dx using integration by parts twice."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫₀^{pi/2} sin²x cos²x dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using properties, prove that ∫₀^{pi} sin x dx = 2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using the property of definite integrals, find ∫₀^{a} (x² + (a−x)²) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Show that ∫₀^{pi/2} (sin x + cos x) dx = √2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi/2} sin²x cos²x dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} log(sin x) dx = ∫₀^{pi/2} log(cos x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫₀^{pi/2} e^x sin x dx using integration by parts twice."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that ∫₀^{pi/2} (sinⁿx + cosⁿx) dx = √pi/2 for specific n."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using the property of definite integrals, find ∫₀^{a} (x² + (a−x)²) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using properties, prove that ∫₀^{pi} sin x dx = 2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that ∫₀^{pi/2} (sinⁿx + cosⁿx) dx = √pi/2 for specific n."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi/2} sin²x cos²x dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that ∫₀^{pi/2} sinⁿx dx = ∫₀^{pi/2} cosⁿx dx for all positive n."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi/2} sin²x cos²x dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using the property of definite integrals, find ∫₀^{a} (x² + (a−x)²) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi/2} e^x sin x dx using integration by parts twice."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find ∫₀^{pi/4} f(x) dx by using substitution and properties of definite integrals where f(x) = x e^(x^2)."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} (sinⁿx + cosⁿx) dx = √pi/2 for specific n."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that ∫₀^{pi/2} log(sin x) dx = ∫₀^{pi/2} log(cos x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using properties, prove that ∫₀^{pi} sin x dx = 2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using properties, prove that ∫₀^{pi} sin x dx = 2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫₀^{pi/2} e^x sin x dx using integration by parts twice."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi/2} e^x sin x dx using integration by parts twice."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using properties, prove that ∫₀^{pi} sin x dx = 2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that ∫₀^{pi/2} (sinⁿx + cosⁿx) dx = √pi/2 for specific n."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi} |sin x| dx geometrically."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫₀^{pi/2} e^x sin x dx using integration by parts twice."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi} |sin x| dx geometrically."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using the property of definite integrals, find ∫₀^{a} (x² + (a−x)²) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using properties, prove that ∫₀^{pi} sin x dx = 2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi} |sin x| dx geometrically."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find ∫₀^{pi/4} f(x) dx by using substitution and properties of definite integrals where f(x) = x^3 cos x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find ∫₀^{pi/4} f(x) dx by using substitution and properties of definite integrals where f(x) = x^2 e^x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} sinⁿx dx = ∫₀^{pi/2} cosⁿx dx for all positive n."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using properties, prove that ∫₀^{pi} sin x dx = 2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find ∫₀^{pi/4} f(x) dx by using substitution and properties of definite integrals where f(x) = sin x cos x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Show that ∫₀^{pi/2} (sin x + cos x) dx = √2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi/2} sin²x cos²x dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫₀^{pi/2} e^x sin x dx using integration by parts twice."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} (sinⁿx + cosⁿx) dx = √pi/2 for specific n."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫₀^{pi} |sin x| dx geometrically."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using the property of definite integrals, find ∫₀^{a} (x² + (a−x)²) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that ∫₀^{pi/2} sinⁿx dx = ∫₀^{pi/2} cosⁿx dx for all positive n."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Show that ∫₀^{pi/2} (sin x + cos x) dx = √2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} (sinⁿx + cosⁿx) dx = √pi/2 for specific n."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫₀^{pi/2} sin²x cos²x dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi/2} sin²x cos²x dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫₀^{pi} |sin x| dx geometrically."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Show that ∫₀^{pi/2} (sin x + cos x) dx = √2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that ∫₀^{pi/2} (sinⁿx + cosⁿx) dx = √pi/2 for specific n."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫₀^{pi/2} sin²x cos²x dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using the property of definite integrals, find ∫₀^{a} (x² + (a−x)²) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using properties, prove that ∫₀^{pi} sin x dx = 2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} (sinⁿx + cosⁿx) dx = √pi/2 for specific n."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi/2} sin²x cos²x dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that ∫₀^{pi/2} log(sin x) dx = ∫₀^{pi/2} log(cos x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} (sinⁿx + cosⁿx) dx = √pi/2 for specific n."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi/2} sin²x cos²x dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫₀^{pi/2} e^x sin x dx using integration by parts twice."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫₀^{pi} |sin x| dx geometrically."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi/2} sin²x cos²x dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Show that ∫₀^{pi/2} (sin x + cos x) dx = √2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi} |sin x| dx geometrically."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi} |sin x| dx geometrically."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that ∫₀^{pi/2} (sinⁿx + cosⁿx) dx = √pi/2 for specific n."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi/2} e^x sin x dx using integration by parts twice."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} log(sin x) dx = ∫₀^{pi/2} log(cos x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Show that ∫₀^{pi/2} (sin x + cos x) dx = √2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫₀^{pi} |sin x| dx geometrically."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Using the property of definite integrals, find ∫₀^{a} (x² + (a−x)²) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} log(sin x) dx = ∫₀^{pi/2} log(cos x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} log(sin x) dx = ∫₀^{pi/2} log(cos x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find ∫₀^{pi/4} f(x) dx by using substitution and properties of definite integrals where f(x) = x^3 cos x."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Show that ∫₀^{pi/2} (sin x + cos x) dx = √2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that ∫₀^{pi/2} sinⁿx dx = ∫₀^{pi/2} cosⁿx dx for all positive n."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Using properties, prove that ∫₀^{pi} sin x dx = 2."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi/2} e^x sin x dx using integration by parts twice."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫₀^{pi/2} e^x sin x dx using integration by parts twice."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} sinⁿx dx = ∫₀^{pi/2} cosⁿx dx for all positive n."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Evaluate ∫₀^{pi} |sin x| dx geometrically."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that ∫₀^{pi/2} log(sin x) dx = ∫₀^{pi/2} log(cos x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} (sinⁿx + cosⁿx) dx = √pi/2 for specific n."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Prove that ∫₀^{pi/2} log(sin x) dx = ∫₀^{pi/2} log(cos x) dx."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Evaluate ∫₀^{pi/2} sin²x cos²x dx using trigonometric identities."
+  },
+  {
+    "chapter_no": 4,
+    "chapter_title": "Definite Integration",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Prove that ∫₀^{pi/2} log(sin x) dx = ∫₀^{pi/2} log(cos x) dx."
+  }
+]

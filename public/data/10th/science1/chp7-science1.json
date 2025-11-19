@@ -1,0 +1,1802 @@
+[
+  {
+    "question": "Write a short note on lens maker formula and assumptions with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Define the key terms in thin lens formula 1 over v minus 1 over u equals 1 over f and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Write a short note on sign convention for spherical lenses with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "State power of a lens in dioptres and unit in two or three lines and include one everyday example.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Write a short note on principal focus and focal plane with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State optical center and principal axis in two or three lines and include one everyday example.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Define the key terms in image formation by a convex lens for object beyond 2F described in words and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State image formation by a convex lens for object at F described in words in two or three lines and include one everyday example.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State image formation by a convex lens for object between F and O described in words in two or three lines and include one everyday example.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State image formation by a concave lens described in words in two or three lines and include one everyday example.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State magnifying glass working and limits in two or three lines and include one everyday example.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Write a short note on simple microscope magnification in words with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Define the key terms in compound microscope qualitative description and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "State telescope objective and eyepiece roles in two or three lines and include one everyday example.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Write a short note on cameras and focusing mechanism in words with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State accommodation of the eye and lens power change in two or three lines and include one everyday example.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define the key terms in myopia and its lens correction and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State hypermetropia and its lens correction in two or three lines and include one everyday example.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Write a short note on presbyopia and bifocals concept with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Write a short note on astigmatism qualitative fix using cylinders with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Write a short note on parallax method to locate image position with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Write a short note on least count and precaution in focal length experiments with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Define the key terms in sources of error in lens experiments and mitigation and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Write a short note on graph of 1 over v versus 1 over u to obtain focal length with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Write a short note on uses of lenses in daily life with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Write a short note on safety precautions while experimenting with lenses and sunlight with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Write a short note on lens maker formula and assumptions with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "State thin lens formula 1 over v minus 1 over u equals 1 over f in two or three lines and include one everyday example.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State sign convention for spherical lenses in two or three lines and include one everyday example.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State power of a lens in dioptres and unit in two or three lines and include one everyday example.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "State principal focus and focal plane in two or three lines and include one everyday example.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Write a short note on optical center and principal axis with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "State image formation by a convex lens for object beyond 2F described in words in two or three lines and include one everyday example.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Write a short note on image formation by a convex lens for object at F described in words with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define the key terms in image formation by a convex lens for object between F and O described in words and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State image formation by a concave lens described in words in two or three lines and include one everyday example.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define the key terms in magnifying glass working and limits and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State simple microscope magnification in words in two or three lines and include one everyday example.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State compound microscope qualitative description in two or three lines and include one everyday example.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Write a short note on telescope objective and eyepiece roles with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Define the key terms in cameras and focusing mechanism in words and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define the key terms in accommodation of the eye and lens power change and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Write a short note on myopia and its lens correction with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Define the key terms in hypermetropia and its lens correction and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Define the key terms in presbyopia and bifocals concept and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "State astigmatism qualitative fix using cylinders in two or three lines and include one everyday example.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Define the key terms in parallax method to locate image position and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define the key terms in least count and precaution in focal length experiments and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define the key terms in sources of error in lens experiments and mitigation and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "State graph of 1 over v versus 1 over u to obtain focal length in two or three lines and include one everyday example.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define the key terms in uses of lenses in daily life and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Define the key terms in safety precautions while experimenting with lenses and sunlight and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Define the key terms in lens maker formula and assumptions and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Define the key terms in thin lens formula 1 over v minus 1 over u equals 1 over f and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "State sign convention for spherical lenses in two or three lines and include one everyday example.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Define the key terms in power of a lens in dioptres and unit and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Define the key terms in principal focus and focal plane and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define the key terms in optical center and principal axis and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Write a short note on image formation by a convex lens for object beyond 2F described in words with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Write a short note on image formation by a convex lens for object at F described in words with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Write a short note on image formation by a convex lens for object between F and O described in words with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State image formation by a concave lens described in words in two or three lines and include one everyday example.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define the key terms in magnifying glass working and limits and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Define the key terms in simple microscope magnification in words and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Write a short note on compound microscope qualitative description with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "State telescope objective and eyepiece roles in two or three lines and include one everyday example.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "State cameras and focusing mechanism in words in two or three lines and include one everyday example.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Write a short note on accommodation of the eye and lens power change with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Write a short note on myopia and its lens correction with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Define the key terms in hypermetropia and its lens correction and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Write a short note on presbyopia and bifocals concept with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Write a short note on astigmatism qualitative fix using cylinders with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Write a short note on parallax method to locate image position with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Define the key terms in least count and precaution in focal length experiments and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Write a short note on sources of error in lens experiments and mitigation with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "State graph of 1 over v versus 1 over u to obtain focal length in two or three lines and include one everyday example.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Write a short note on uses of lenses in daily life with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Define the key terms in safety precautions while experimenting with lenses and sunlight and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Write a short note on lens maker formula and assumptions with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Define the key terms in thin lens formula 1 over v minus 1 over u equals 1 over f and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Write a short note on sign convention for spherical lenses with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Define the key terms in power of a lens in dioptres and unit and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define the key terms in principal focus and focal plane and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define the key terms in optical center and principal axis and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State image formation by a convex lens for object beyond 2F described in words in two or three lines and include one everyday example.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "State image formation by a convex lens for object at F described in words in two or three lines and include one everyday example.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State image formation by a convex lens for object between F and O described in words in two or three lines and include one everyday example.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Write a short note on image formation by a concave lens described in words with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Write a short note on magnifying glass working and limits with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Write a short note on simple microscope magnification in words with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "State compound microscope qualitative description in two or three lines and include one everyday example.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State telescope objective and eyepiece roles in two or three lines and include one everyday example.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Define the key terms in cameras and focusing mechanism in words and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "State accommodation of the eye and lens power change in two or three lines and include one everyday example.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Define the key terms in myopia and its lens correction and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Define the key terms in hypermetropia and its lens correction and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Write a short note on presbyopia and bifocals concept with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Write a short note on astigmatism qualitative fix using cylinders with one relevant precaution or note.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Define the key terms in parallax method to locate image position and mention one use in practice.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "State least count and precaution in focal length experiments in two or three lines and include one everyday example.",
+    "chapter_no": 7,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain lens maker formula and assumptions and list one assumption and one limitation.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain thin lens formula 1 over v minus 1 over u equals 1 over f and list one assumption and one limitation.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain sign convention for spherical lenses; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain power of a lens in dioptres and unit and list one assumption and one limitation.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain principal focus and focal plane; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain optical center and principal axis and list one assumption and one limitation.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain image formation by a convex lens for object beyond 2F described in words and list one assumption and one limitation.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain image formation by a convex lens for object at F described in words and list one assumption and one limitation.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain image formation by a convex lens for object between F and O described in words and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain image formation by a concave lens described in words and list one assumption and one limitation.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain magnifying glass working and limits and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain simple microscope magnification in words and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain compound microscope qualitative description and list one assumption and one limitation.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain telescope objective and eyepiece roles and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain cameras and focusing mechanism in words; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain accommodation of the eye and lens power change and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain myopia and its lens correction and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain hypermetropia and its lens correction and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain presbyopia and bifocals concept and list one assumption and one limitation.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain astigmatism qualitative fix using cylinders and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain parallax method to locate image position and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain least count and precaution in focal length experiments; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain sources of error in lens experiments and mitigation and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain graph of 1 over v versus 1 over u to obtain focal length; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain uses of lenses in daily life; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain safety precautions while experimenting with lenses and sunlight and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain lens maker formula and assumptions; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain thin lens formula 1 over v minus 1 over u equals 1 over f and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain sign convention for spherical lenses; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain power of a lens in dioptres and unit and list one assumption and one limitation.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain principal focus and focal plane; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain optical center and principal axis and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain image formation by a convex lens for object beyond 2F described in words and list one assumption and one limitation.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain image formation by a convex lens for object at F described in words and list one assumption and one limitation.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain image formation by a convex lens for object between F and O described in words and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain image formation by a concave lens described in words; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain magnifying glass working and limits and list one assumption and one limitation.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain simple microscope magnification in words; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain compound microscope qualitative description and list one assumption and one limitation.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain telescope objective and eyepiece roles and list one assumption and one limitation.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain cameras and focusing mechanism in words and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain accommodation of the eye and lens power change and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain myopia and its lens correction and list one assumption and one limitation.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain hypermetropia and its lens correction; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain presbyopia and bifocals concept; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain astigmatism qualitative fix using cylinders and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain parallax method to locate image position; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain least count and precaution in focal length experiments; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain sources of error in lens experiments and mitigation; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain graph of 1 over v versus 1 over u to obtain focal length and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain uses of lenses in daily life; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain safety precautions while experimenting with lenses and sunlight and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain lens maker formula and assumptions and list one assumption and one limitation.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain thin lens formula 1 over v minus 1 over u equals 1 over f and list one assumption and one limitation.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain sign convention for spherical lenses and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain power of a lens in dioptres and unit; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain principal focus and focal plane; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain optical center and principal axis and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain image formation by a convex lens for object beyond 2F described in words and list one assumption and one limitation.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain image formation by a convex lens for object at F described in words; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain image formation by a convex lens for object between F and O described in words and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain image formation by a concave lens described in words and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain magnifying glass working and limits and list one assumption and one limitation.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain simple microscope magnification in words and list one assumption and one limitation.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain compound microscope qualitative description and list one assumption and one limitation.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain telescope objective and eyepiece roles and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain cameras and focusing mechanism in words and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain accommodation of the eye and lens power change; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain myopia and its lens correction; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain hypermetropia and its lens correction; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain presbyopia and bifocals concept; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain astigmatism qualitative fix using cylinders; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain parallax method to locate image position and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain least count and precaution in focal length experiments and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain sources of error in lens experiments and mitigation; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain graph of 1 over v versus 1 over u to obtain focal length; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain uses of lenses in daily life; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain safety precautions while experimenting with lenses and sunlight and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain lens maker formula and assumptions; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain thin lens formula 1 over v minus 1 over u equals 1 over f and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain sign convention for spherical lenses and list one assumption and one limitation.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain power of a lens in dioptres and unit and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain principal focus and focal plane and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain optical center and principal axis and list one assumption and one limitation.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain image formation by a convex lens for object beyond 2F described in words and list one assumption and one limitation.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain image formation by a convex lens for object at F described in words; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain image formation by a convex lens for object between F and O described in words and list one assumption and one limitation.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain image formation by a concave lens described in words; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain magnifying glass working and limits; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain simple microscope magnification in words; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain compound microscope qualitative description and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain telescope objective and eyepiece roles and list one assumption and one limitation.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain cameras and focusing mechanism in words; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain accommodation of the eye and lens power change and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain myopia and its lens correction; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain hypermetropia and its lens correction and list one assumption and one limitation.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain presbyopia and bifocals concept and list one assumption and one limitation.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain astigmatism qualitative fix using cylinders and describe one brief step by step procedure or description in words.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain parallax method to locate image position; include one simple numeric illustration using whole numbers only.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain least count and precaution in focal length experiments and list one assumption and one limitation.",
+    "chapter_no": 7,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Write a detailed note on lens maker formula and assumptions comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Answer in steps: discuss thin lens formula 1 over v minus 1 over u equals 1 over f, include a short word based ray description if relevant, add one small numeric example with focal length in centimetres written in words, and conclude with a practical note.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Discuss sign convention for spherical lenses thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Write a detailed note on power of a lens in dioptres and unit comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Answer in steps: discuss principal focus and focal plane, include a short word based ray description if relevant, add one small numeric example with focal length in centimetres written in words, and conclude with a practical note.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Discuss optical center and principal axis thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Write a detailed note on image formation by a convex lens for object beyond 2F described in words comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Discuss image formation by a convex lens for object at F described in words thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Discuss image formation by a convex lens for object between F and O described in words thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Discuss image formation by a concave lens described in words thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Write a detailed note on magnifying glass working and limits comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Discuss simple microscope magnification in words thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Write a detailed note on compound microscope qualitative description comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Write a detailed note on telescope objective and eyepiece roles comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Discuss cameras and focusing mechanism in words thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Answer in steps: discuss accommodation of the eye and lens power change, include a short word based ray description if relevant, add one small numeric example with focal length in centimetres written in words, and conclude with a practical note.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Discuss myopia and its lens correction thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Write a detailed note on hypermetropia and its lens correction comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Write a detailed note on presbyopia and bifocals concept comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Answer in steps: discuss astigmatism qualitative fix using cylinders, include a short word based ray description if relevant, add one small numeric example with focal length in centimetres written in words, and conclude with a practical note.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Discuss parallax method to locate image position thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Write a detailed note on least count and precaution in focal length experiments comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Answer in steps: discuss sources of error in lens experiments and mitigation, include a short word based ray description if relevant, add one small numeric example with focal length in centimetres written in words, and conclude with a practical note.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Answer in steps: discuss graph of 1 over v versus 1 over u to obtain focal length, include a short word based ray description if relevant, add one small numeric example with focal length in centimetres written in words, and conclude with a practical note.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Answer in steps: discuss uses of lenses in daily life, include a short word based ray description if relevant, add one small numeric example with focal length in centimetres written in words, and conclude with a practical note.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Discuss safety precautions while experimenting with lenses and sunlight thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Write a detailed note on lens maker formula and assumptions comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Write a detailed note on thin lens formula 1 over v minus 1 over u equals 1 over f comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Write a detailed note on sign convention for spherical lenses comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Discuss power of a lens in dioptres and unit thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Discuss principal focus and focal plane thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Discuss optical center and principal axis thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Discuss image formation by a convex lens for object beyond 2F described in words thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Discuss image formation by a convex lens for object at F described in words thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Answer in steps: discuss image formation by a convex lens for object between F and O described in words, include a short word based ray description if relevant, add one small numeric example with focal length in centimetres written in words, and conclude with a practical note.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Discuss image formation by a concave lens described in words thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Discuss magnifying glass working and limits thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Answer in steps: discuss simple microscope magnification in words, include a short word based ray description if relevant, add one small numeric example with focal length in centimetres written in words, and conclude with a practical note.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Discuss compound microscope qualitative description thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Discuss telescope objective and eyepiece roles thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Answer in steps: discuss cameras and focusing mechanism in words, include a short word based ray description if relevant, add one small numeric example with focal length in centimetres written in words, and conclude with a practical note.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Discuss accommodation of the eye and lens power change thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Discuss myopia and its lens correction thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Write a detailed note on hypermetropia and its lens correction comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Discuss presbyopia and bifocals concept thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Answer in steps: discuss astigmatism qualitative fix using cylinders, include a short word based ray description if relevant, add one small numeric example with focal length in centimetres written in words, and conclude with a practical note.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Discuss parallax method to locate image position thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Write a detailed note on least count and precaution in focal length experiments comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Write a detailed note on sources of error in lens experiments and mitigation comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Write a detailed note on graph of 1 over v versus 1 over u to obtain focal length comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Answer in steps: discuss uses of lenses in daily life, include a short word based ray description if relevant, add one small numeric example with focal length in centimetres written in words, and conclude with a practical note.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Write a detailed note on safety precautions while experimenting with lenses and sunlight comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Write a detailed note on lens maker formula and assumptions comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Discuss thin lens formula 1 over v minus 1 over u equals 1 over f thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Answer in steps: discuss sign convention for spherical lenses, include a short word based ray description if relevant, add one small numeric example with focal length in centimetres written in words, and conclude with a practical note.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Discuss power of a lens in dioptres and unit thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Discuss principal focus and focal plane thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Write a detailed note on optical center and principal axis comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Discuss image formation by a convex lens for object beyond 2F described in words thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Write a detailed note on image formation by a convex lens for object at F described in words comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Write a detailed note on image formation by a convex lens for object between F and O described in words comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Write a detailed note on image formation by a concave lens described in words comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Answer in steps: discuss magnifying glass working and limits, include a short word based ray description if relevant, add one small numeric example with focal length in centimetres written in words, and conclude with a practical note.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Write a detailed note on simple microscope magnification in words comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Answer in steps: discuss compound microscope qualitative description, include a short word based ray description if relevant, add one small numeric example with focal length in centimetres written in words, and conclude with a practical note.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Write a detailed note on telescope objective and eyepiece roles comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Answer in steps: discuss cameras and focusing mechanism in words, include a short word based ray description if relevant, add one small numeric example with focal length in centimetres written in words, and conclude with a practical note.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Write a detailed note on accommodation of the eye and lens power change comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Discuss myopia and its lens correction thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Write a detailed note on hypermetropia and its lens correction comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Answer in steps: discuss presbyopia and bifocals concept, include a short word based ray description if relevant, add one small numeric example with focal length in centimetres written in words, and conclude with a practical note.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Discuss astigmatism qualitative fix using cylinders thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Discuss parallax method to locate image position thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Answer in steps: discuss least count and precaution in focal length experiments, include a short word based ray description if relevant, add one small numeric example with focal length in centimetres written in words, and conclude with a practical note.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Discuss sources of error in lens experiments and mitigation thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Answer in steps: discuss graph of 1 over v versus 1 over u to obtain focal length, include a short word based ray description if relevant, add one small numeric example with focal length in centimetres written in words, and conclude with a practical note.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Answer in steps: discuss uses of lenses in daily life, include a short word based ray description if relevant, add one small numeric example with focal length in centimetres written in words, and conclude with a practical note.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Write a detailed note on safety precautions while experimenting with lenses and sunlight comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Discuss lens maker formula and assumptions thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Answer in steps: discuss thin lens formula 1 over v minus 1 over u equals 1 over f, include a short word based ray description if relevant, add one small numeric example with focal length in centimetres written in words, and conclude with a practical note.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Answer in steps: discuss sign convention for spherical lenses, include a short word based ray description if relevant, add one small numeric example with focal length in centimetres written in words, and conclude with a practical note.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Answer in steps: discuss power of a lens in dioptres and unit, include a short word based ray description if relevant, add one small numeric example with focal length in centimetres written in words, and conclude with a practical note.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Write a detailed note on principal focus and focal plane comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Write a detailed note on optical center and principal axis comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Discuss image formation by a convex lens for object beyond 2F described in words thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Write a detailed note on image formation by a convex lens for object at F described in words comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Write a detailed note on image formation by a convex lens for object between F and O described in words comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Write a detailed note on image formation by a concave lens described in words comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Discuss magnifying glass working and limits thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Answer in steps: discuss simple microscope magnification in words, include a short word based ray description if relevant, add one small numeric example with focal length in centimetres written in words, and conclude with a practical note.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Write a detailed note on compound microscope qualitative description comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Discuss telescope objective and eyepiece roles thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Answer in steps: discuss cameras and focusing mechanism in words, include a short word based ray description if relevant, add one small numeric example with focal length in centimetres written in words, and conclude with a practical note.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Answer in steps: discuss accommodation of the eye and lens power change, include a short word based ray description if relevant, add one small numeric example with focal length in centimetres written in words, and conclude with a practical note.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Answer in steps: discuss myopia and its lens correction, include a short word based ray description if relevant, add one small numeric example with focal length in centimetres written in words, and conclude with a practical note.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Answer in steps: discuss hypermetropia and its lens correction, include a short word based ray description if relevant, add one small numeric example with focal length in centimetres written in words, and conclude with a practical note.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Discuss presbyopia and bifocals concept thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Discuss astigmatism qualitative fix using cylinders thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Write a detailed note on parallax method to locate image position comparing two cases, include one application, and end with a safety or limitations point.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Discuss least count and precaution in focal length experiments thoroughly; outline principle, method, result, and one possible source of error with mitigation.",
+    "chapter_no": 7,
+    "marks": 5,
+    "difficulty": "Easy"
+  }
+]

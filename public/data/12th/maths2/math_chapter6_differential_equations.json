@@ -1,0 +1,3152 @@
+[
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the meaning of the order and degree of a differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the general solution of dy/dx = x²."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the meaning of the order and degree of a differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Form the differential equation representing y = c₁eˣ + c₂e⁻ˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the general solution of dy/dx = x²."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define a differential equation and give one example."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the differential equation representing the family of straight lines y = mx + c."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Define a homogeneous differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define a differential equation and give one example."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the difference between a general solution and a particular solution."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the difference between a general solution and a particular solution."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the meaning of the order and degree of a differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Define a homogeneous differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the degree of (d²y/dx²)³ + dy/dx + y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Form the differential equation representing y = c₁eˣ + c₂e⁻ˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define a homogeneous differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the meaning of the order and degree of a differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find the order of the differential equation d³y/dx³ + y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the meaning of the order and degree of a differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the difference between a general solution and a particular solution."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the general solution of dy/dx = eˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the meaning of the order and degree of a differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the differential equation representing the family of straight lines y = mx + c."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Form the differential equation representing y = c₁eˣ + c₂e⁻ˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the differential equation representing the family of straight lines y = mx + c."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Define a differential equation and give one example."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the difference between a general solution and a particular solution."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the general solution of dy/dx = x² + y²."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the difference between a general solution and a particular solution."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Form the differential equation representing y = c₁eˣ + c₂e⁻ˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find the order and degree of the equation (d²y/dx²)² + dy/dx = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the differential equation representing the family of straight lines y = mx + c."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Form the differential equation representing y = c₁eˣ + c₂e⁻ˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the general solution of dy/dx = x + y."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the meaning of the order and degree of a differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find the order and degree of the equation (d²y/dx²)² + dy/dx = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Form the differential equation representing y = c₁eˣ + c₂e⁻ˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Form the differential equation representing y = c₁eˣ + c₂e⁻ˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the differential equation representing the family of straight lines y = mx + c."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define a differential equation and give one example."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the differential equation representing the family of straight lines y = mx + c."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the difference between a general solution and a particular solution."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the order and degree of the equation (d²y/dx²)² + dy/dx = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find the order of the differential equation d³y/dx³ + y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the differential equation representing the family of straight lines y = mx + c."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the order of the differential equation d³y/dx³ + y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find the order and degree of the equation (d²y/dx²)² + dy/dx = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the differential equation representing the family of straight lines y = mx + c."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define a homogeneous differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the meaning of the order and degree of a differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the order of the differential equation d³y/dx³ + y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define a homogeneous differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find the degree of (d²y/dx²)³ + dy/dx + y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the differential equation representing the family of straight lines y = mx + c."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the degree of (d²y/dx²)³ + dy/dx + y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the differential equation representing the family of straight lines y = mx + c."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the general solution of dy/dx = y/x."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the general solution of dy/dx = eˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the difference between a general solution and a particular solution."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the degree of (d²y/dx²)³ + dy/dx + y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the meaning of the order and degree of a differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the differential equation representing the family of straight lines y = mx + c."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Define a differential equation and give one example."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define a differential equation and give one example."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define a differential equation and give one example."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the general solution of dy/dx = eˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the general solution of dy/dx = y/x."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define a homogeneous differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the degree of (d²y/dx²)³ + dy/dx + y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the meaning of the order and degree of a differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Form the differential equation representing y = c₁eˣ + c₂e⁻ˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define a differential equation and give one example."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the difference between a general solution and a particular solution."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the general solution of dy/dx = y/x."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Form the differential equation representing y = c₁eˣ + c₂e⁻ˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the general solution of dy/dx = y."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the differential equation representing the family of straight lines y = mx + c."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the differential equation representing the family of straight lines y = mx + c."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the general solution of dy/dx = x + y."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find the degree of (d²y/dx²)³ + dy/dx + y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define a differential equation and give one example."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Form the differential equation representing y = c₁eˣ + c₂e⁻ˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the degree of (d²y/dx²)³ + dy/dx + y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the differential equation representing the family of straight lines y = mx + c."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find the order of the differential equation d³y/dx³ + y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define a homogeneous differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the difference between a general solution and a particular solution."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find the degree of (d²y/dx²)³ + dy/dx + y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the differential equation representing the family of straight lines y = mx + c."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the differential equation representing the family of straight lines y = mx + c."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the meaning of the order and degree of a differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the general solution of dy/dx = cos x."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define a homogeneous differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define a differential equation and give one example."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define a homogeneous differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the order of the differential equation d³y/dx³ + y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the difference between a general solution and a particular solution."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the order and degree of the equation (d²y/dx²)² + dy/dx = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the meaning of the order and degree of a differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define a homogeneous differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the general solution of dy/dx = y/x."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the difference between a general solution and a particular solution."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the difference between a general solution and a particular solution."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the differential equation representing the family of straight lines y = mx + c."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the differential equation representing the family of straight lines y = mx + c."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the differential equation representing the family of straight lines y = mx + c."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the meaning of the order and degree of a differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the meaning of the order and degree of a differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the order of the differential equation d³y/dx³ + y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the difference between a general solution and a particular solution."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the order of the differential equation d³y/dx³ + y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define a differential equation and give one example."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the order of the differential equation d³y/dx³ + y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the order and degree of the equation (d²y/dx²)² + dy/dx = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Find the degree of (d²y/dx²)³ + dy/dx + y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the differential equation representing the family of straight lines y = mx + c."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the order and degree of the equation (d²y/dx²)² + dy/dx = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the difference between a general solution and a particular solution."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Form the differential equation representing y = c₁eˣ + c₂e⁻ˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the difference between a general solution and a particular solution."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the general solution of dy/dx = x²."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the difference between a general solution and a particular solution."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Form the differential equation representing y = c₁eˣ + c₂e⁻ˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the general solution of dy/dx = x + y."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the order and degree of the equation (d²y/dx²)² + dy/dx = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the difference between a general solution and a particular solution."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the general solution of dy/dx = eˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "State the meaning of the order and degree of a differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the degree of (d²y/dx²)³ + dy/dx + y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the degree of (d²y/dx²)³ + dy/dx + y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the general solution of dy/dx = x²."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the general solution of dy/dx = cos x."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the meaning of the order and degree of a differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the differential equation representing the family of straight lines y = mx + c."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Write the differential equation representing the family of straight lines y = mx + c."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the meaning of the order and degree of a differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the order of the differential equation d³y/dx³ + y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Form the differential equation representing y = c₁eˣ + c₂e⁻ˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the difference between a general solution and a particular solution."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the differential equation representing the family of straight lines y = mx + c."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Define a homogeneous differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Form the differential equation representing y = c₁eˣ + c₂e⁻ˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Write the differential equation representing the family of straight lines y = mx + c."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the meaning of the order and degree of a differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "State the meaning of the order and degree of a differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Form the differential equation representing y = c₁eˣ + c₂e⁻ˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the order of the differential equation d³y/dx³ + y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Form the differential equation representing y = c₁eˣ + c₂e⁻ˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Easy",
+    "question": "Find the order and degree of the equation (d²y/dx²)² + dy/dx = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 2,
+    "difficulty": "Medium",
+    "question": "Form the differential equation representing y = c₁eˣ + c₂e⁻ˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Form a differential equation representing all circles with centre at origin."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = x² + y² using separation of variables."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Verify that y = eˣ + e⁻ˣ is a solution of d²y/dx² - y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = 3x²."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Form a differential equation whose general solution is y = A eˣ + B e⁻ˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the general solution of dy/dx = sin x using separation of variables."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the general solution of dy/dx = 3x²."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the general solution of dy/dx = 3x²."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = 3x²."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Solve the differential equation dy/dx = x/y."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = x² using separation of variables."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the degree and order of (d³y/dx³) + (dy/dx)² = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Form a differential equation whose general solution is y = A eˣ + B e⁻ˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Solve the differential equation dy/dx = cos x."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Reduce dy/dx + y = eˣ to its standard form and solve."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = 3x²."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Verify that y = eˣ + e⁻ˣ is a solution of d²y/dx² - y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find the general solution of dy/dx = sin x using separation of variables."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Verify that y = eˣ + e⁻ˣ is a solution of d²y/dx² - y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Reduce dy/dx + y = eˣ to its standard form and solve."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Reduce dy/dx + y = eˣ to its standard form and solve."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Verify that y = eˣ + e⁻ˣ is a solution of d²y/dx² - y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = 3x²."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Reduce dy/dx + y = eˣ to its standard form and solve."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Form a differential equation representing all circles with centre at origin."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Form a differential equation representing all circles with centre at origin."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Solve dy/dx = ky (separation of variables)."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Form a differential equation whose general solution is y = A eˣ + B e⁻ˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Form a differential equation whose general solution is y = A eˣ + B e⁻ˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the degree and order of (d³y/dx³) + (dy/dx)² = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the degree and order of (d³y/dx³) + (dy/dx)² = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find the degree and order of (d³y/dx³) + (dy/dx)² = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find the general solution of dy/dx = x using separation of variables."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = cos x using separation of variables."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Solve dy/dx = ky (separation of variables)."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the degree and order of (d³y/dx³) + (dy/dx)² = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Reduce dy/dx + y = eˣ to its standard form and solve."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Verify that y = eˣ + e⁻ˣ is a solution of d²y/dx² - y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Verify that y = eˣ + e⁻ˣ is a solution of d²y/dx² - y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the degree and order of (d³y/dx³) + (dy/dx)² = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Form a differential equation whose general solution is y = A eˣ + B e⁻ˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the degree and order of (d³y/dx³) + (dy/dx)² = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the order and degree of the equation (d²y/dx²)³ + (dy/dx)² = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Form a differential equation whose general solution is y = A eˣ + B e⁻ˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Form a differential equation representing all circles with centre at origin."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Verify that y = eˣ + e⁻ˣ is a solution of d²y/dx² - y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the degree and order of (d³y/dx³) + (dy/dx)² = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the degree and order of (d³y/dx³) + (dy/dx)² = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Verify that y = eˣ + e⁻ˣ is a solution of d²y/dx² - y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the order and degree of the equation (d²y/dx²)³ + (dy/dx)² = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Solve the differential equation dy/dx = x."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = 3x²."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the general solution of dy/dx = x + y using separation of variables."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Verify that y = eˣ + e⁻ˣ is a solution of d²y/dx² - y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = 3x²."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Solve dy/dx = ky (separation of variables)."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Solve the differential equation dy/dx = x + y."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Solve the differential equation dy/dx = x² + y²."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Form a differential equation representing all circles with centre at origin."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find the degree and order of (d³y/dx³) + (dy/dx)² = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = 3x²."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = 3x²."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Form a differential equation representing all circles with centre at origin."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the general solution of dy/dx = x using separation of variables."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the degree and order of (d³y/dx³) + (dy/dx)² = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Solve dy/dx = ky (separation of variables)."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Verify that y = eˣ + e⁻ˣ is a solution of d²y/dx² - y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Solve dy/dx = ky (separation of variables)."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the degree and order of (d³y/dx³) + (dy/dx)² = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Form a differential equation representing all circles with centre at origin."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Reduce dy/dx + y = eˣ to its standard form and solve."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the general solution of dy/dx = eˣ using separation of variables."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the general solution of dy/dx = 3x²."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Verify that y = eˣ + e⁻ˣ is a solution of d²y/dx² - y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = x² + y² using separation of variables."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Solve dy/dx = ky (separation of variables)."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Solve dy/dx = ky (separation of variables)."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Solve dy/dx = ky (separation of variables)."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = eˣ using separation of variables."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Reduce dy/dx + y = eˣ to its standard form and solve."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the degree and order of (d³y/dx³) + (dy/dx)² = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = 3x²."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Verify that y = eˣ + e⁻ˣ is a solution of d²y/dx² - y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Solve the differential equation dy/dx = eˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = 3x²."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Solve dy/dx = ky (separation of variables)."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Solve dy/dx = ky (separation of variables)."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Reduce dy/dx + y = eˣ to its standard form and solve."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Verify that y = eˣ + e⁻ˣ is a solution of d²y/dx² - y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = 3x²."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Solve dy/dx = ky (separation of variables)."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Form a differential equation whose general solution is y = A eˣ + B e⁻ˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Verify that y = eˣ + e⁻ˣ is a solution of d²y/dx² - y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Reduce dy/dx + y = eˣ to its standard form and solve."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Solve the differential equation dy/dx = x²."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Solve dy/dx = ky (separation of variables)."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Reduce dy/dx + y = eˣ to its standard form and solve."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the order and degree of the equation (d²y/dx²)³ + (dy/dx)² = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Form a differential equation whose general solution is y = A eˣ + B e⁻ˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the order and degree of the equation (d²y/dx²)³ + (dy/dx)² = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Verify that y = eˣ + e⁻ˣ is a solution of d²y/dx² - y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find the order and degree of the equation (d²y/dx²)³ + (dy/dx)² = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Verify that y = eˣ + e⁻ˣ is a solution of d²y/dx² - y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the degree and order of (d³y/dx³) + (dy/dx)² = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the order and degree of the equation (d²y/dx²)³ + (dy/dx)² = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the general solution of dy/dx = eˣ using separation of variables."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = 3x²."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the degree and order of (d³y/dx³) + (dy/dx)² = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = x² using separation of variables."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find the degree and order of (d³y/dx³) + (dy/dx)² = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Form a differential equation representing all circles with centre at origin."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Form a differential equation representing all circles with centre at origin."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find the general solution of dy/dx = y using separation of variables."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the general solution of dy/dx = 3x²."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Solve the differential equation dy/dx = x + y."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Reduce dy/dx + y = eˣ to its standard form and solve."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the degree and order of (d³y/dx³) + (dy/dx)² = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Verify that y = eˣ + e⁻ˣ is a solution of d²y/dx² - y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Form a differential equation representing all circles with centre at origin."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Verify that y = eˣ + e⁻ˣ is a solution of d²y/dx² - y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Form a differential equation representing all circles with centre at origin."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the general solution of dy/dx = 3x²."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find the general solution of dy/dx = 3x²."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Form a differential equation whose general solution is y = A eˣ + B e⁻ˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Form a differential equation representing all circles with centre at origin."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = eˣ using separation of variables."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Verify that y = eˣ + e⁻ˣ is a solution of d²y/dx² - y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Form a differential equation representing all circles with centre at origin."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Verify that y = eˣ + e⁻ˣ is a solution of d²y/dx² - y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the degree and order of (d³y/dx³) + (dy/dx)² = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the order and degree of the equation (d²y/dx²)³ + (dy/dx)² = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Find the general solution of dy/dx = x² + y² using separation of variables."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Form a differential equation representing all circles with centre at origin."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Form a differential equation whose general solution is y = A eˣ + B e⁻ˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Verify that y = eˣ + e⁻ˣ is a solution of d²y/dx² - y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = cos x using separation of variables."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Verify that y = eˣ + e⁻ˣ is a solution of d²y/dx² - y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the degree and order of (d³y/dx³) + (dy/dx)² = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Solve the differential equation dy/dx = x + y."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Verify that y = eˣ + e⁻ˣ is a solution of d²y/dx² - y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the degree and order of (d³y/dx³) + (dy/dx)² = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Solve the differential equation dy/dx = sin x."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Hard",
+    "question": "Solve the differential equation dy/dx = cos x."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the order and degree of the equation (d²y/dx²)³ + (dy/dx)² = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the order and degree of the equation (d²y/dx²)³ + (dy/dx)² = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = x/y using separation of variables."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Find the order and degree of the equation (d²y/dx²)³ + (dy/dx)² = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Form a differential equation whose general solution is y = A eˣ + B e⁻ˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Easy",
+    "question": "Verify that y = eˣ + e⁻ˣ is a solution of d²y/dx² - y = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 3,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = x² using separation of variables."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = (x² + y²)/xy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Form the differential equation of the family of parabolas y² = 4ax."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Solve the homogeneous differential equation dy/dx = f(y/x) by substitution y = vx."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the general solution of dy/dx + 2y = eˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the general solution of dy/dx = (x² + y²)/xy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Form the differential equation of the family of parabolas y² = 4ax."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the formula for integrating factor (I.F.) in a linear differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Form the differential equation of the family of parabolas y² = 4ax."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Verify that y = A eˣ + B e⁻ˣ satisfies d²y/dx² = y."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = (x² + y²)/xy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Verify that y = A eˣ + B e⁻ˣ satisfies d²y/dx² = y."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the general solution of dy/dx = (x² + y²)/xy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the expression for the general solution of dy/dx + y tan x = sin x."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the general solution of (1 + eˣ)y' = eˣy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Solve the exact differential equation (2xy + y²)dx + (x² + 2xy)dy = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Form the differential equation of the family of parabolas y² = 4ax."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the formula for integrating factor (I.F.) in a linear differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the formula for integrating factor (I.F.) in a linear differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the general solution of (1 + eˣ)y' = eˣy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the general solution of dy/dx + 2y = eˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the general solution of dy/dx + 2y = eˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Solve the exact differential equation (2xy + y²)dx + (x² + 2xy)dy = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the general solution of (1 + eˣ)y' = eˣy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the general solution of (1 + eˣ)y' = eˣy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Form the differential equation of the family of parabolas y² = 4ax."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the general solution of dy/dx = (x² + y²)/xy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Form the differential equation of the family of parabolas y² = 4ax."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Verify that y = A eˣ + B e⁻ˣ satisfies d²y/dx² = y."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the general solution of (1 + eˣ)y' = eˣy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Solve the homogeneous differential equation dy/dx = f(y/x) by substitution y = vx."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the general solution of dy/dx = (x² + y²)/xy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Form the differential equation of the family of parabolas y² = 4ax."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Solve the homogeneous differential equation dy/dx = f(y/x) by substitution y = vx."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = (x² + y²)/xy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the general solution of a first-order linear differential equation dy/dx + Py = Q."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Form the differential equation of the family of parabolas y² = 4ax."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Form the differential equation of the family of parabolas y² = 4ax."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx + 2y = eˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the expression for the general solution of dy/dx + y tan x = sin x."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the formula for integrating factor (I.F.) in a linear differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx + 2y = eˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = (x² + y²)/xy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the general solution of a first-order linear differential equation dy/dx + Py = Q."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Verify that y = A eˣ + B e⁻ˣ satisfies d²y/dx² = y."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Solve the exact differential equation (2xy + y²)dx + (x² + 2xy)dy = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Form the differential equation of the family of parabolas y² = 4ax."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the general solution of dy/dx = (x² + y²)/xy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the general solution of (1 + eˣ)y' = eˣy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the expression for the general solution of dy/dx + y tan x = sin x."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the general solution of dy/dx = (x² + y²)/xy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Form the differential equation of the family of parabolas y² = 4ax."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the general solution of a first-order linear differential equation dy/dx + Py = Q."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the general solution of dy/dx = (x² + y²)/xy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Solve the exact differential equation (2xy + y²)dx + (x² + 2xy)dy = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the expression for the general solution of dy/dx + y tan x = sin x."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the general solution of dy/dx + 2y = eˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the general solution of a first-order linear differential equation dy/dx + Py = Q."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the general solution of a first-order linear differential equation dy/dx + Py = Q."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the general solution of dy/dx + 2y = eˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Solve the exact differential equation (2xy + y²)dx + (x² + 2xy)dy = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the general solution of dy/dx + 2y = eˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Solve the exact differential equation (2xy + y²)dx + (x² + 2xy)dy = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = (x² + y²)/xy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the general solution of (1 + eˣ)y' = eˣy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Solve the exact differential equation (2xy + y²)dx + (x² + 2xy)dy = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Solve the homogeneous differential equation dy/dx = f(y/x) by substitution y = vx."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the formula for integrating factor (I.F.) in a linear differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Verify that y = A eˣ + B e⁻ˣ satisfies d²y/dx² = y."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Form the differential equation of the family of parabolas y² = 4ax."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Solve the homogeneous differential equation dy/dx = f(y/x) by substitution y = vx."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = (x² + y²)/xy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Solve the exact differential equation (2xy + y²)dx + (x² + 2xy)dy = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the general solution of (1 + eˣ)y' = eˣy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Verify that y = A eˣ + B e⁻ˣ satisfies d²y/dx² = y."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the formula for integrating factor (I.F.) in a linear differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the general solution of (1 + eˣ)y' = eˣy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Solve the homogeneous differential equation dy/dx = f(y/x) by substitution y = vx."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the general solution of a first-order linear differential equation dy/dx + Py = Q."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Solve the homogeneous differential equation dy/dx = f(y/x) by substitution y = vx."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Verify that y = A eˣ + B e⁻ˣ satisfies d²y/dx² = y."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Solve the exact differential equation (2xy + y²)dx + (x² + 2xy)dy = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the general solution of dy/dx + 2y = eˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the general solution of (1 + eˣ)y' = eˣy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the general solution of dy/dx = (x² + y²)/xy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the formula for integrating factor (I.F.) in a linear differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the formula for integrating factor (I.F.) in a linear differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Solve the exact differential equation (2xy + y²)dx + (x² + 2xy)dy = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Solve the exact differential equation (2xy + y²)dx + (x² + 2xy)dy = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the formula for integrating factor (I.F.) in a linear differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the general solution of (1 + eˣ)y' = eˣy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the expression for the general solution of dy/dx + y tan x = sin x."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Solve the exact differential equation (2xy + y²)dx + (x² + 2xy)dy = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the expression for the general solution of dy/dx + y tan x = sin x."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Verify that y = A eˣ + B e⁻ˣ satisfies d²y/dx² = y."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the formula for integrating factor (I.F.) in a linear differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the expression for the general solution of dy/dx + y tan x = sin x."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the general solution of dy/dx + 2y = eˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the general solution of dy/dx + 2y = eˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the general solution of a first-order linear differential equation dy/dx + Py = Q."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the formula for integrating factor (I.F.) in a linear differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx + 2y = eˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Form the differential equation of the family of parabolas y² = 4ax."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Solve the homogeneous differential equation dy/dx = f(y/x) by substitution y = vx."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Solve the exact differential equation (2xy + y²)dx + (x² + 2xy)dy = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the general solution of (1 + eˣ)y' = eˣy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the expression for the general solution of dy/dx + y tan x = sin x."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Verify that y = A eˣ + B e⁻ˣ satisfies d²y/dx² = y."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the general solution of a first-order linear differential equation dy/dx + Py = Q."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Form the differential equation of the family of parabolas y² = 4ax."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the general solution of (1 + eˣ)y' = eˣy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Solve the homogeneous differential equation dy/dx = f(y/x) by substitution y = vx."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Solve the homogeneous differential equation dy/dx = f(y/x) by substitution y = vx."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the expression for the general solution of dy/dx + y tan x = sin x."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Form the differential equation of the family of parabolas y² = 4ax."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the general solution of (1 + eˣ)y' = eˣy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Solve the homogeneous differential equation dy/dx = f(y/x) by substitution y = vx."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Verify that y = A eˣ + B e⁻ˣ satisfies d²y/dx² = y."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the formula for integrating factor (I.F.) in a linear differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the general solution of (1 + eˣ)y' = eˣy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Solve the homogeneous differential equation dy/dx = f(y/x) by substitution y = vx."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the general solution of dy/dx = (x² + y²)/xy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the general solution of (1 + eˣ)y' = eˣy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Solve the homogeneous differential equation dy/dx = f(y/x) by substitution y = vx."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Solve the exact differential equation (2xy + y²)dx + (x² + 2xy)dy = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the expression for the general solution of dy/dx + y tan x = sin x."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Solve the homogeneous differential equation dy/dx = f(y/x) by substitution y = vx."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Form the differential equation of the family of parabolas y² = 4ax."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the expression for the general solution of dy/dx + y tan x = sin x."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the expression for the general solution of dy/dx + y tan x = sin x."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the general solution of (1 + eˣ)y' = eˣy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Solve the exact differential equation (2xy + y²)dx + (x² + 2xy)dy = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = (x² + y²)/xy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Form the differential equation of the family of parabolas y² = 4ax."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the expression for the general solution of dy/dx + y tan x = sin x."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Verify that y = A eˣ + B e⁻ˣ satisfies d²y/dx² = y."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = (x² + y²)/xy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = (x² + y²)/xy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the general solution of dy/dx + 2y = eˣ."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Form the differential equation of the family of parabolas y² = 4ax."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the general solution of a first-order linear differential equation dy/dx + Py = Q."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the formula for integrating factor (I.F.) in a linear differential equation."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Solve the exact differential equation (2xy + y²)dx + (x² + 2xy)dy = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Solve the exact differential equation (2xy + y²)dx + (x² + 2xy)dy = 0."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Derive the general solution of a first-order linear differential equation dy/dx + Py = Q."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Derive the expression for the general solution of dy/dx + y tan x = sin x."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the general solution of dy/dx = (x² + y²)/xy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the general solution of (1 + eˣ)y' = eˣy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Hard",
+    "question": "Find the general solution of dy/dx = (x² + y²)/xy."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Solve the homogeneous differential equation dy/dx = f(y/x) by substitution y = vx."
+  },
+  {
+    "chapter_no": 6,
+    "chapter_title": "Differential Equations",
+    "marks": 5,
+    "difficulty": "Medium",
+    "question": "Find the general solution of dy/dx = (x² + y²)/xy."
+  }
+]

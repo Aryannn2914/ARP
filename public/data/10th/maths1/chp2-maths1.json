@@ -1,0 +1,1802 @@
+[
+  {
+    "question":"State if this is a quadratic in x. If not, reason: x+5=0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Write in ax^2+bx+c=0 form: 4(x-1)^2 + 8x = 6",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Solve by factorization: x^2 - 9x + 18 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 + 2x + 1 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"State if this is a quadratic in x. If not, reason: x^2+7=0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Write in ax^2+bx+c=0 form: 5(x-1)^2 + 9x = 7",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Solve by factorization: x^2 - 9x + 18 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 + 10x + 25 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"State if this is a quadratic in x. If not, reason: 2\/x +3=0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Write in ax^2+bx+c=0 form: 1(x-1)^2 + 1x = 6",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Solve by factorization: x^2 + 1x - 2 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 + 10x + 25 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"State if this is a quadratic in x. If not, reason: 2\/x +3=0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Write in ax^2+bx+c=0 form: 5(x-1)^2 + 3x = 7",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Solve by factorization: x^2 - 7x + 12 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 + 2x + 1 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"State if this is a quadratic in x. If not, reason: 3x^2-4x+1=0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Write in ax^2+bx+c=0 form: 5(x-1)^2 + 9x = 5",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Solve by factorization: x^2 - 16x + 60 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 + 7x + 10 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"State if this is a quadratic in x. If not, reason: x+5=0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Write in ax^2+bx+c=0 form: 1(x-1)^2 + 8x = 5",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Solve by factorization: x^2 + 2x - 3 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 + 10x + 25 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"State if this is a quadratic in x. If not, reason: x^2+7=0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Write in ax^2+bx+c=0 form: 1(x-1)^2 + 9x = 7",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Solve by factorization: x^2 - 7x + 10 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 + 4x + 4 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"State if this is a quadratic in x. If not, reason: x+5=0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Write in ax^2+bx+c=0 form: 1(x-1)^2 + 9x = 1",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Solve by factorization: x^2 + 8x + 12 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 - 8x + 15 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"State if this is a quadratic in x. If not, reason: 3x^2-4x+1=0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Solve using quadratic formula: 2x^2 + 10x + 12 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve by completing square: x^2 - 4x + 3 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given p+q=-7, pq=21. Form monic quadratic.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Form monic quadratic with roots 3 and 0.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A rectangle has area 143 m^2 and length = width + 8. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve using quadratic formula: x^2 - 12x + 32 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve by completing square: x^2 - 9x + 18 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given p+q=10, pq=20. Form monic quadratic.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Form monic quadratic with roots 1 and -2.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A rectangle has area 178 m^2 and length = width + 10. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve using quadratic formula: x^2 + 9x + 14 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve by completing square: x^2 + 0x - 1 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given p+q=8, pq=12. Form monic quadratic.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Form monic quadratic with roots 4 and -1.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A rectangle has area 78 m^2 and length = width + 6. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve using quadratic formula: x^2 - 18x + 77 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve by completing square: x^2 + 2x + 0 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given p+q=1, pq=13. Form monic quadratic.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Form monic quadratic with roots 3 and 0.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A rectangle has area 80 m^2 and length = width + 4. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve using quadratic formula: x^2 - 5x + 6 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve by completing square: x^2 + 2x + 0 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given p+q=3, pq=-10. Form monic quadratic.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Form monic quadratic with roots 7 and 1.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A rectangle has area 191 m^2 and length = width + 9. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve using quadratic formula: x^2 + 5x + 6 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve by completing square: x^2 - 13x + 42 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given p+q=0, pq=-14. Form monic quadratic.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Form monic quadratic with roots -1 and 7.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A rectangle has area 194 m^2 and length = width + 5. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve using quadratic formula: 2x^2 + 14x + 24 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve by completing square: x^2 + 2x + 0 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given p+q=8, pq=7. Form monic quadratic.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given original roots p = 7, q = 1, form quadratic whose roots are 2p and 2q. (Compute new sum and product first.)",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A vehicle travels 42 km at v and returns at v+8. Total time 3h. Form quadratic in v and solve.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A rectangle has area 82 m^2 and length = width + 8. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 - 5x + 4 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Solve by completing square: x^2 - 14x + 48 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Given original roots p = 1, q = 7, form quadratic whose roots are 3p and 2q. (Compute new sum and product first.)",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A vehicle travels 46 km at v and returns at v+4. Total time 4h. Form quadratic in v and solve.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A rectangle has area 55 m^2 and length = width + 6. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 - 8x + 16 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Solve by completing square: x^2 + 5x + 4 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Given original roots p = 2, q = 2, form quadratic whose roots are 1\/p and 1\/q. (Compute new sum and product first.)",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A vehicle travels 41 km at v and returns at v+10. Total time 4h. Form quadratic in v and solve.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A rectangle has area 89 m^2 and length = width + 6. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 - 3x + 2 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Solve by completing square: x^2 + 4x + 3 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Given original roots p = 4, q = 7, form quadratic whose roots are p\/q and q\/p. (Compute new sum and product first.)",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A vehicle travels 72 km at v and returns at v+6. Total time 2h. Form quadratic in v and solve.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A rectangle has area 109 m^2 and length = width + 8. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 - 10x + 24 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Solve by completing square: x^2 - 2x + 0 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Given original roots p = 7, q = 4, form quadratic whose roots are p+2 and q+2. (Compute new sum and product first.)",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A vehicle travels 31 km at v and returns at v+3. Total time 3h. Form quadratic in v and solve.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A rectangle has area 175 m^2 and length = width + 4. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 - 4x + 3 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Solve by completing square: x^2 + 8x + 15 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Given original roots p = 8, q = 6, form quadratic whose roots are 2p and 2q. (Compute new sum and product first.)",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A vehicle travels 77 km at v and returns at v+7. Total time 3h. Form quadratic in v and solve.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A rectangle has area 183 m^2 and length = width + 8. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 - 4x + 3 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Solve by completing square: x^2 - 3x + 2 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Given original roots p = 3, q = 5, form quadratic whose roots are p-3 and q-3. (Compute new sum and product first.)",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A vehicle travels 77 km at v and returns at v+9. Total time 4h. Form quadratic in v and solve.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A rectangle has area 129 m^2 and length = width + 7. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 + 8x + 16 = 0",
+    "chapter_no":2,
+    "marks":2,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"State if this is a quadratic in x. If not, reason: 2\/x +3=0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Write in ax^2+bx+c=0 form: 5(x-1)^2 + 6x = 6",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Solve by factorization: x^2 + 6x + 8 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 - 2x + 0 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"State if this is a quadratic in x. If not, reason: 2\/x +3=0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Write in ax^2+bx+c=0 form: 1(x-1)^2 + 8x = 1",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Solve by factorization: x^2 - 10x + 21 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 + 6x + 8 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"State if this is a quadratic in x. If not, reason: x^2+7=0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Write in ax^2+bx+c=0 form: 3(x-1)^2 + 6x = 4",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Solve by factorization: x^2 - 8x + 12 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 + 12x + 36 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"State if this is a quadratic in x. If not, reason: x^2+7=0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Write in ax^2+bx+c=0 form: 2(x-1)^2 + 4x = 4",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Solve by factorization: x^2 + 7x + 10 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 - 5x + 4 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"State if this is a quadratic in x. If not, reason: 3x^2-4x+1=0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Write in ax^2+bx+c=0 form: 3(x-1)^2 + 2x = 5",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Solve by factorization: x^2 - 10x + 24 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 + 10x + 25 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"State if this is a quadratic in x. If not, reason: 3x^2-4x+1=0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Write in ax^2+bx+c=0 form: 4(x-1)^2 + 8x = 7",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Solve by factorization: x^2 - 1x + 0 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 + 4x + 4 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"State if this is a quadratic in x. If not, reason: 3x^2-4x+1=0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Write in ax^2+bx+c=0 form: 2(x-1)^2 + 5x = 8",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Solve by factorization: x^2 - 2x + 0 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 + 4x + 4 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"State if this is a quadratic in x. If not, reason: x^2+7=0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Write in ax^2+bx+c=0 form: 5(x-1)^2 + 8x = 3",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Solve by factorization: x^2 - 12x + 35 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 + 8x + 16 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"State if this is a quadratic in x. If not, reason: 3x^2-4x+1=0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Solve using quadratic formula: x^2 + 12x + 32 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve by completing square: x^2 - 7x + 10 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given p+q=-8, pq=17. Form monic quadratic.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Form monic quadratic with roots -5 and 3.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A rectangle has area 84 m^2 and length = width + 8. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve using quadratic formula: x^2 - 13x + 42 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve by completing square: x^2 - 15x + 54 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given p+q=-10, pq=15. Form monic quadratic.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Form monic quadratic with roots 6 and 1.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A rectangle has area 134 m^2 and length = width + 6. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve using quadratic formula: 2x^2 + 10x + 0 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve by completing square: x^2 + 6x + 8 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given p+q=-8, pq=7. Form monic quadratic.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Form monic quadratic with roots 6 and 7.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A rectangle has area 72 m^2 and length = width + 3. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve using quadratic formula: x^2 + 6x + 8 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve by completing square: x^2 - 12x + 35 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given p+q=-4, pq=14. Form monic quadratic.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Form monic quadratic with roots 1 and 6.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A rectangle has area 63 m^2 and length = width + 3. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve using quadratic formula: x^2 + 9x + 14 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve by completing square: x^2 - 3x + 0 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given p+q=8, pq=3. Form monic quadratic.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Form monic quadratic with roots -1 and 1.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A rectangle has area 174 m^2 and length = width + 4. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve using quadratic formula: 2x^2 + 28x + 96 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve by completing square: x^2 + 7x + 10 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given p+q=-4, pq=-3. Form monic quadratic.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Form monic quadratic with roots -7 and 0.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A rectangle has area 172 m^2 and length = width + 10. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve using quadratic formula: x^2 - 4x + 3 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve by completing square: x^2 - 11x + 28 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given p+q=1, pq=26. Form monic quadratic.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given original roots p = 4, q = 5, form quadratic whose roots are p\/q and q\/p. (Compute new sum and product first.)",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A vehicle travels 67 km at v and returns at v+9. Total time 4h. Form quadratic in v and solve.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A rectangle has area 77 m^2 and length = width + 9. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 + 0x - 1 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Solve by completing square: x^2 - 15x + 54 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Given original roots p = 4, q = 6, form quadratic whose roots are p\/q and q\/p. (Compute new sum and product first.)",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A vehicle travels 65 km at v and returns at v+10. Total time 2h. Form quadratic in v and solve.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A rectangle has area 79 m^2 and length = width + 4. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 + 11x + 30 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Solve by completing square: x^2 + 0x - 1 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Given original roots p = 2, q = 1, form quadratic whose roots are p-3 and q-3. (Compute new sum and product first.)",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A vehicle travels 74 km at v and returns at v+3. Total time 3h. Form quadratic in v and solve.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A rectangle has area 132 m^2 and length = width + 5. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 + 0x + 0 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Solve by completing square: x^2 + 7x + 12 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Given original roots p = 6, q = 1, form quadratic whose roots are 1\/p and 1\/q. (Compute new sum and product first.)",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A vehicle travels 69 km at v and returns at v+7. Total time 2h. Form quadratic in v and solve.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A rectangle has area 158 m^2 and length = width + 5. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 + 5x + 6 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Solve by completing square: x^2 + 9x + 20 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Given original roots p = 8, q = 5, form quadratic whose roots are 3p and 2q. (Compute new sum and product first.)",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A vehicle travels 76 km at v and returns at v+7. Total time 3h. Form quadratic in v and solve.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A rectangle has area 164 m^2 and length = width + 3. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 + 8x + 15 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Solve by completing square: x^2 - 15x + 54 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Given original roots p = 4, q = 3, form quadratic whose roots are p+2 and q+2. (Compute new sum and product first.)",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A vehicle travels 39 km at v and returns at v+5. Total time 5h. Form quadratic in v and solve.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A rectangle has area 198 m^2 and length = width + 6. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 + 10x + 24 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Solve by completing square: x^2 + 5x + 4 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Given original roots p = 7, q = 4, form quadratic whose roots are p\/q and q\/p. (Compute new sum and product first.)",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A vehicle travels 48 km at v and returns at v+3. Total time 2h. Form quadratic in v and solve.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A rectangle has area 200 m^2 and length = width + 10. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 + 12x + 36 = 0",
+    "chapter_no":2,
+    "marks":3,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"State if this is a quadratic in x. If not, reason: x+5=0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Write in ax^2+bx+c=0 form: 4(x-1)^2 + 3x = 7",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Solve by factorization: x^2 - 3x + 2 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 - 3x + 0 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"State if this is a quadratic in x. If not, reason: x^2+7=0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Write in ax^2+bx+c=0 form: 4(x-1)^2 + 1x = 6",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Solve by factorization: x^2 - 1x + 0 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 + 7x + 10 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"State if this is a quadratic in x. If not, reason: x+5=0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Write in ax^2+bx+c=0 form: 3(x-1)^2 + 2x = 8",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Solve by factorization: x^2 + 5x + 4 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 - 2x + 0 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"State if this is a quadratic in x. If not, reason: 3x^2-4x+1=0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Write in ax^2+bx+c=0 form: 4(x-1)^2 + 7x = 2",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Solve by factorization: x^2 + 10x + 24 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 - 9x + 18 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"State if this is a quadratic in x. If not, reason: x+5=0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Write in ax^2+bx+c=0 form: 4(x-1)^2 + 8x = 6",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Solve by factorization: x^2 + 7x + 12 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 - 7x + 12 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"State if this is a quadratic in x. If not, reason: 3x^2-4x+1=0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Write in ax^2+bx+c=0 form: 1(x-1)^2 + 4x = 8",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Solve by factorization: x^2 - 6x + 5 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 + 4x + 3 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"State if this is a quadratic in x. If not, reason: 2\/x +3=0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Write in ax^2+bx+c=0 form: 4(x-1)^2 + 4x = 2",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Solve by factorization: x^2 + 4x + 3 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 - 6x + 8 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"State if this is a quadratic in x. If not, reason: 3x^2-4x+1=0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Write in ax^2+bx+c=0 form: 2(x-1)^2 + 4x = 9",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Solve by factorization: x^2 + 1x - 2 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 + 3x + 2 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"State if this is a quadratic in x. If not, reason: x+5=0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Easy"
+  },
+  {
+    "question":"Solve using quadratic formula: x^2 - 13x + 40 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve by completing square: x^2 + 3x + 2 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given p+q=2, pq=1. Form monic quadratic.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Form monic quadratic with roots -2 and 4.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A rectangle has area 156 m^2 and length = width + 8. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve using quadratic formula: x^2 - 14x + 45 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve by completing square: x^2 + 1x - 2 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given p+q=-7, pq=-17. Form monic quadratic.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Form monic quadratic with roots 2 and 7.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A rectangle has area 75 m^2 and length = width + 9. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve using quadratic formula: x^2 + 8x + 15 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve by completing square: x^2 - 11x + 30 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given p+q=-6, pq=5. Form monic quadratic.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Form monic quadratic with roots 7 and -2.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A rectangle has area 110 m^2 and length = width + 8. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve using quadratic formula: 2x^2 + 18x + 36 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve by completing square: x^2 + 4x + 3 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given p+q=-7, pq=20. Form monic quadratic.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Form monic quadratic with roots -5 and -2.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A rectangle has area 140 m^2 and length = width + 8. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve using quadratic formula: x^2 + 4x + 3 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve by completing square: x^2 - 1x - 2 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given p+q=0, pq=-7. Form monic quadratic.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Form monic quadratic with roots -6 and 5.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A rectangle has area 177 m^2 and length = width + 7. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve using quadratic formula: x^2 - 19x + 88 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve by completing square: x^2 - 5x + 6 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given p+q=4, pq=28. Form monic quadratic.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Form monic quadratic with roots 5 and 5.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"A rectangle has area 178 m^2 and length = width + 4. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve using quadratic formula: x^2 - 13x + 40 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Solve by completing square: x^2 - 4x + 3 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given p+q=-1, pq=-15. Form monic quadratic.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Medium"
+  },
+  {
+    "question":"Given original roots p = 1, q = 2, form quadratic whose roots are 1\/p and 1\/q. (Compute new sum and product first.)",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A vehicle travels 55 km at v and returns at v+4. Total time 4h. Form quadratic in v and solve.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A rectangle has area 197 m^2 and length = width + 9. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 + 10x + 25 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Solve by completing square: x^2 - 6x + 8 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Given original roots p = 3, q = 3, form quadratic whose roots are p+2 and q+2. (Compute new sum and product first.)",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A vehicle travels 68 km at v and returns at v+6. Total time 3h. Form quadratic in v and solve.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A rectangle has area 177 m^2 and length = width + 10. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 - 7x + 10 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Solve by completing square: x^2 + 1x - 2 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Given original roots p = 3, q = 7, form quadratic whose roots are 1\/p and 1\/q. (Compute new sum and product first.)",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A vehicle travels 42 km at v and returns at v+7. Total time 2h. Form quadratic in v and solve.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A rectangle has area 97 m^2 and length = width + 3. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 - 6x + 9 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Solve by completing square: x^2 - 5x + 6 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Given original roots p = 6, q = 1, form quadratic whose roots are 2p and 2q. (Compute new sum and product first.)",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A vehicle travels 72 km at v and returns at v+9. Total time 4h. Form quadratic in v and solve.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A rectangle has area 61 m^2 and length = width + 10. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 + 7x + 10 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Solve by completing square: x^2 + 5x + 4 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Given original roots p = 2, q = 6, form quadratic whose roots are p+2 and q+2. (Compute new sum and product first.)",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A vehicle travels 76 km at v and returns at v+9. Total time 2h. Form quadratic in v and solve.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A rectangle has area 141 m^2 and length = width + 9. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 - 11x + 30 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Solve by completing square: x^2 - 1x + 0 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Given original roots p = 5, q = 5, form quadratic whose roots are p-3 and q-3. (Compute new sum and product first.)",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A vehicle travels 37 km at v and returns at v+8. Total time 5h. Form quadratic in v and solve.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A rectangle has area 68 m^2 and length = width + 8. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 - 8x + 15 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Solve by completing square: x^2 + 9x + 20 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Given original roots p = 4, q = 4, form quadratic whose roots are p\/q and q\/p. (Compute new sum and product first.)",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A vehicle travels 78 km at v and returns at v+4. Total time 5h. Form quadratic in v and solve.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"A rectangle has area 129 m^2 and length = width + 5. Form quadratic in width and find dimensions.",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  },
+  {
+    "question":"Find discriminant and nature of roots: x^2 - 9x + 20 = 0",
+    "chapter_no":2,
+    "marks":5,
+    "difficulty":"Hard"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "chapters": [
+    "chapter10_electrostatics_questions.json",
+    "chapter11_current_electricity_questions.json",
+    "chapter12_magnetic_effects_questions.json",
+    "chapter13_magnetism_and_matter_questions.json",
+    "chapter14_electromagnetic_induction_questions.json",
+    "chapter15_alternating_current_questions.json",
+    "chapter16_electromagnetic_waves_questions.json",
+    "chapter1_rotational_dynamics_questions.json",
+    "chapter2_gravitation_questions.json",
+    "chapter3_shm_questions.json",
+    "chapter4_elasticity_questions.json",
+    "chapter5_surface_tension_questions.json",
+    "chapter6_viscosity_questions.json",
+    "chapter7_wave_motion_questions.json",
+    "chapter8_sound_waves_questions.json",
+    "chapter9_wave_optics_questions.json"
+  ]
+}

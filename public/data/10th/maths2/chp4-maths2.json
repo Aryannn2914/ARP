@@ -1,0 +1,1802 @@
+[
+  {
+    "question": "In geometry, how to construct perpendicular to a line? Explain.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In geometry, how to copy an angle? Explain.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Steps to locate midpoint of segment.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In geometry, how to bisect a given angle? Explain.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain how to copy an angle using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Steps to construct 60 degree angle.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Steps to construct perpendicular to a line.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Describe construction method to construct parallel line using arcs.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Describe construction method to construct 60 degree angle.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain how to construct 30 degree angle using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain how to locate midpoint of segment using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In geometry, how to construct parallel line using arcs? Explain.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Describe construction method to construct perpendicular bisector.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Steps to transfer a length using compass.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Describe construction method to construct 30 degree angle.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Steps to construct perpendicular from point outside line.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Steps to construct 90 degree angle.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain how to bisect a given angle using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Steps to construct equilateral triangle.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Steps to construct parallel line using arcs.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Describe construction method to transfer a length using compass.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Describe construction method to copy an angle.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain how to construct parallel line using arcs using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In geometry, how to construct 60 degree angle? Explain.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In geometry, how to construct 90 degree angle? Explain.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In geometry, how to construct 30 degree angle? Explain.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Describe construction method to locate midpoint of segment.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Describe construction method to construct perpendicular to a line.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In geometry, how to transfer a length using compass? Explain.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Describe construction method to construct 90 degree angle.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In geometry, how to construct perpendicular from point outside line? Explain.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In geometry, how to construct equilateral triangle? Explain.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Steps to construct 30 degree angle.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In geometry, how to construct rectangle given dimensions? Explain.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Steps to construct right triangle by hypotenuse-side.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Describe construction method to construct triangle given base, angle and side.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to construct altitude in triangle using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Describe construction method to construct triangle by ASA.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to construct triangle by SAS using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to construct tangent to circle from external point using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to construct 45 degree angle using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In geometry, how to construct square? Explain.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In geometry, how to construct triangle by SSS? Explain.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Describe construction method to construct triangle by SAS.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Steps to construct tangent to circle from external point.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Describe construction method to verify triangle after construction.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to construct square using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to construct right triangle by hypotenuse-side using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In geometry, how to construct triangle by ASA? Explain.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to construct 120 degree angle using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Describe construction method to construct 120 degree angle.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Describe construction method to construct rectangle given dimensions.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Describe construction method to construct 45 degree angle.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to construct triangle given base, angle and side using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In geometry, how to construct right triangle by hypotenuse-side? Explain.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Steps to construct triangle given base, angle and side.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In geometry, how to verify triangle after construction? Explain.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In geometry, how to construct altitude in triangle? Explain.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In geometry, how to divide segment in ratio m:n? Explain.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In geometry, how to construct 45 degree angle? Explain.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Describe construction method to construct triangle by SSS.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to construct triangle by ASA using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to divide segment in ratio m:n using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Steps to construct altitude in triangle.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to verify triangle after construction using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Steps to construct triangle by SAS.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In geometry, how to construct regular hexagon in circle? Explain.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe construction method to construct orthocenter of triangle.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In geometry, how to construct incircle of triangle? Explain.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain how to construct internal angle bisector using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In geometry, how to construct locus equidistant from two lines? Explain.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In geometry, how to construct triangle given altitude and base? Explain.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe construction method to construct locus equidistant from two lines.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe construction method to construct polygon by compass only idea.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In geometry, how to construct centroid by medians? Explain.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In geometry, how to construct cyclic quadrilateral conceptually? Explain.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In geometry, how to construct triangle given inradius and base? Explain.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain how to construct triangle given inradius and base using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In geometry, how to construct triangle given difference of sides? Explain.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain how to construct orthocenter of triangle using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe construction method to construct triangle given difference of sides.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Steps to construct triangle given altitude and base.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Steps to construct triangle given perimeter and base angles.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain how to construct triangle given median to base using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain how to construct circumcenter of triangle using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe construction method to construct triangle given perimeter and base angles.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Steps to construct external angle bisector.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain how to construct triangle given altitude and base using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Steps to construct orthocenter of triangle.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Steps to construct circumcenter of triangle.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Steps to construct internal angle bisector.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe construction method to construct triangle given median to base.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain how to construct cyclic quadrilateral conceptually using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In geometry, how to construct external angle bisector? Explain.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain how to construct polygon by compass only idea using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe construction method to construct incircle of triangle.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain how to construct golden ratio segment using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain how to construct locus equidistant from two lines using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In geometry, how to construct polygon by compass only idea? Explain.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe construction method to construct external angle bisector.",
+    "chapter_no": 4,
+    "marks": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain how to locate midpoint of segment using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Steps to construct equilateral triangle.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain how to construct 30 degree angle using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In geometry, how to construct perpendicular to a line? Explain.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain how to copy an angle using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Describe construction method to construct 90 degree angle.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Steps to transfer a length using compass.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Describe construction method to construct perpendicular bisector.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In geometry, how to copy an angle? Explain.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Describe construction method to construct 60 degree angle.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Describe construction method to construct parallel line using arcs.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain how to bisect a given angle using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Describe construction method to construct perpendicular from point outside line.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Steps to construct 60 degree angle.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In geometry, how to bisect a given angle? Explain.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In geometry, how to construct parallel line using arcs? Explain.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Describe construction method to construct perpendicular to a line.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain how to construct 90 degree angle using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Steps to construct perpendicular to a line.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In geometry, how to construct 90 degree angle? Explain.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Steps to construct 30 degree angle.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Describe construction method to copy an angle.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Describe construction method to transfer a length using compass.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Describe construction method to locate midpoint of segment.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In geometry, how to transfer a length using compass? Explain.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In geometry, how to construct perpendicular from point outside line? Explain.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain how to construct parallel line using arcs using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In geometry, how to construct equilateral triangle? Explain.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In geometry, how to construct 60 degree angle? Explain.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Steps to construct 90 degree angle.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Steps to locate midpoint of segment.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In geometry, how to construct 30 degree angle? Explain.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Steps to construct parallel line using arcs.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain how to construct altitude in triangle using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to construct right triangle by hypotenuse-side using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to construct square using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Steps to construct triangle by SAS.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In geometry, how to divide segment in ratio m:n? Explain.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to construct triangle by SAS using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In geometry, how to construct square? Explain.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Steps to construct tangent to circle from external point.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Describe construction method to construct rectangle given dimensions.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to verify triangle after construction using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to divide segment in ratio m:n using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Steps to construct right triangle by hypotenuse-side.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Describe construction method to construct triangle by SSS.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Steps to construct triangle given base, angle and side.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Describe construction method to construct 120 degree angle.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Describe construction method to construct triangle given base, angle and side.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In geometry, how to construct triangle by ASA? Explain.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Describe construction method to verify triangle after construction.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to construct rectangle given dimensions using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In geometry, how to construct triangle by SSS? Explain.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In geometry, how to construct altitude in triangle? Explain.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to construct 45 degree angle using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In geometry, how to construct 45 degree angle? Explain.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to construct tangent to circle from external point using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to construct 120 degree angle using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Steps to construct altitude in triangle.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Describe construction method to construct triangle by SAS.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Describe construction method to construct 45 degree angle.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Describe construction method to construct right triangle by hypotenuse-side.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to construct triangle by ASA using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Describe construction method to construct triangle by ASA.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to construct triangle given base, angle and side using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In geometry, how to construct rectangle given dimensions? Explain.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In geometry, how to construct incircle of triangle? Explain.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain how to construct orthocenter of triangle using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In geometry, how to construct polygon by compass only idea? Explain.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe construction method to construct triangle given median to base.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain how to construct internal angle bisector using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe construction method to construct triangle given inradius and base.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Steps to construct triangle given perimeter and base angles.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe construction method to construct orthocenter of triangle.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In geometry, how to construct cyclic quadrilateral conceptually? Explain.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Steps to construct orthocenter of triangle.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain how to construct triangle given altitude and base using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe construction method to construct triangle given difference of sides.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Steps to construct external angle bisector.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In geometry, how to construct centroid by medians? Explain.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe construction method to construct incircle of triangle.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain how to construct locus equidistant from two lines using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe construction method to construct locus equidistant from two lines.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In geometry, how to construct regular hexagon in circle? Explain.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Steps to construct regular hexagon in circle.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In geometry, how to construct triangle given difference of sides? Explain.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In geometry, how to construct golden ratio segment? Explain.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain how to construct triangle given median to base using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Steps to construct circumcenter of triangle.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe construction method to construct triangle given perimeter and base angles.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In geometry, how to construct triangle given altitude and base? Explain.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain how to construct triangle given inradius and base using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain how to construct regular hexagon in circle using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In geometry, how to construct locus equidistant from two lines? Explain.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe construction method to construct external angle bisector.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe construction method to construct cyclic quadrilateral conceptually.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain how to construct circumcenter of triangle using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain how to construct centroid by medians using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe construction method to construct polygon by compass only idea.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Steps to construct internal angle bisector.",
+    "chapter_no": 4,
+    "marks": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe construction method to construct perpendicular bisector.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain how to construct parallel line using arcs using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In geometry, how to construct 60 degree angle? Explain.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Describe construction method to construct 30 degree angle.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In geometry, how to bisect a given angle? Explain.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In geometry, how to construct equilateral triangle? Explain.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain how to construct 90 degree angle using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Describe construction method to construct parallel line using arcs.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Describe construction method to construct 60 degree angle.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Describe construction method to construct 90 degree angle.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In geometry, how to copy an angle? Explain.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In geometry, how to transfer a length using compass? Explain.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Describe construction method to construct perpendicular to a line.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Describe construction method to locate midpoint of segment.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Describe construction method to construct perpendicular from point outside line.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Steps to construct perpendicular to a line.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain how to locate midpoint of segment using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In geometry, how to construct 90 degree angle? Explain.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Describe construction method to copy an angle.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Steps to construct equilateral triangle.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In geometry, how to construct 30 degree angle? Explain.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Steps to construct 90 degree angle.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain how to copy an angle using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In geometry, how to construct perpendicular from point outside line? Explain.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Steps to construct 60 degree angle.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain how to construct 30 degree angle using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Describe construction method to transfer a length using compass.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In geometry, how to construct parallel line using arcs? Explain.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Steps to construct 30 degree angle.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Explain how to bisect a given angle using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Steps to locate midpoint of segment.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Steps to construct parallel line using arcs.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Steps to construct perpendicular from point outside line.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In geometry, how to construct triangle by ASA? Explain.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Describe construction method to construct triangle by ASA.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Steps to construct altitude in triangle.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In geometry, how to construct rectangle given dimensions? Explain.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In geometry, how to construct 45 degree angle? Explain.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Describe construction method to construct right triangle by hypotenuse-side.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In geometry, how to construct square? Explain.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to construct 120 degree angle using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In geometry, how to construct altitude in triangle? Explain.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Steps to construct triangle by SAS.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Describe construction method to construct 45 degree angle.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Describe construction method to construct triangle by SSS.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to construct right triangle by hypotenuse-side using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In geometry, how to construct triangle by SSS? Explain.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to construct 45 degree angle using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to verify triangle after construction using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In geometry, how to divide segment in ratio m:n? Explain.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Describe construction method to construct rectangle given dimensions.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In geometry, how to construct right triangle by hypotenuse-side? Explain.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to construct rectangle given dimensions using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to construct triangle by SAS using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Steps to construct right triangle by hypotenuse-side.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Describe construction method to verify triangle after construction.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to construct tangent to circle from external point using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Steps to construct triangle given base, angle and side.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to construct triangle given base, angle and side using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Describe construction method to construct 120 degree angle.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Steps to construct tangent to circle from external point.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In geometry, how to verify triangle after construction? Explain.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to construct square using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Describe construction method to construct triangle given base, angle and side.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to construct altitude in triangle using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain how to divide segment in ratio m:n using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Describe construction method to construct cyclic quadrilateral conceptually.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In geometry, how to construct incircle of triangle? Explain.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In geometry, how to construct cyclic quadrilateral conceptually? Explain.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain how to construct cyclic quadrilateral conceptually using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In geometry, how to construct regular hexagon in circle? Explain.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain how to construct regular hexagon in circle using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In geometry, how to construct triangle given inradius and base? Explain.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In geometry, how to construct golden ratio segment? Explain.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain how to construct locus equidistant from two lines using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe construction method to construct polygon by compass only idea.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain how to construct triangle given median to base using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In geometry, how to construct centroid by medians? Explain.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Steps to construct orthocenter of triangle.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain how to construct triangle given inradius and base using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe construction method to construct orthocenter of triangle.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In geometry, how to construct triangle given difference of sides? Explain.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe construction method to construct triangle given difference of sides.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe construction method to construct locus equidistant from two lines.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain how to construct triangle given altitude and base using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain how to construct golden ratio segment using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain how to construct centroid by medians using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe construction method to construct external angle bisector.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain how to construct internal angle bisector using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In geometry, how to construct internal angle bisector? Explain.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Steps to construct circumcenter of triangle.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In geometry, how to construct triangle given altitude and base? Explain.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Steps to construct internal angle bisector.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Steps to construct regular hexagon in circle.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Steps to construct triangle given median to base.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain how to construct orthocenter of triangle using compass and straightedge.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Steps to construct triangle given perimeter and base angles.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe construction method to construct triangle given inradius and base.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Steps to construct external angle bisector.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In geometry, how to construct locus equidistant from two lines? Explain.",
+    "chapter_no": 4,
+    "marks": 5,
+    "difficulty": "Hard"
+  }
+]
